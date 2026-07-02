@@ -10,17 +10,50 @@ Planowanie podróży po Portugalii: Faro (przylot, wynajem auta) → Algarve →
 - **`atrakcje/DLA-POCZATKUJACYCH.md`** - wybór spotów surfingowych odpowiednich dla początkujących (i tych do ominięcia), przygotowany pod nasz poziom.
 - **`plan/`** - plany podróży dzień po dniu dla dwóch wariantów czasowych: [18.07-31.07 (14 dni)](plan/wariant-a-18-31-lipca.md) i [21.07-31.07 (11 dni)](plan/wariant-b-21-31-lipca.md).
 - **`atrakcje.csv`** - wygenerowany lokalnie (nie jest w repo, patrz niżej), zawiera wszystkie atrakcje w jednym pliku CSV (nazwa, folder, lat, lng, kategoria, link do mapy) - gotowe do importu np. do Google My Maps.
-- **`scripts/generate_csv.py`** - skrypt generujący `atrakcje.csv` na podstawie plików w `atrakcje/*/README.md`.
+- **`scripts/`** - skrypty Pythona (uruchamiane przez `uv run`) generujące `atrakcje.csv` i dane dla interaktywnej strony.
+- **`web/`** - interaktywna prezentacja (React + Vite): mapa, karty atrakcji ze zdjęciami, filtry kategorii, oś czasu obu wariantów planu. Zobacz sekcję "Interaktywna prezentacja" niżej.
+
+## Zależności (uv)
+
+Projekt używa [uv](https://docs.astral.sh/uv/) do zarządzania zależnościami Pythona. Środowisko i zależności są już zdefiniowane w `pyproject.toml` - żeby je zainstalować:
+
+```bash
+uv sync
+```
+
+Wszystkie skrypty w `scripts/` uruchamia się przez `uv run scripts/<nazwa>.py`, nie bezpośrednio `python3`.
 
 ## Generowanie `atrakcje.csv`
 
 Plik `atrakcje.csv` nie jest trzymany w repo (jest w `.gitignore`) - wygeneruj go lokalnie:
 
 ```bash
-python3 scripts/generate_csv.py
+uv run scripts/generate_csv.py
 ```
 
 Zobacz sekcję "Generowanie / regeneracja `atrakcje.csv`" w [`CLAUDE.md`](CLAUDE.md) po szczegóły i zasady dodawania nowych miejsc.
+
+## Interaktywna prezentacja (`web/`)
+
+Jednostronicowa aplikacja React pokazująca mapę, karty atrakcji ze zdjęciami (pobranymi automatycznie z Wikimedia Commons), filtry po kategorii oraz oś czasu dla obu wariantów planu.
+
+Dane dla strony (`web/src/data/data.json`) są generowane z plików markdown w `atrakcje/` i `plan/` - to nie jest osobne źródło prawdy, tylko odbicie tych plików.
+
+```bash
+# 1. Wygeneruj dane (za każdym razem po zmianie plikow w atrakcje/ lub plan/)
+uv run scripts/build_data.py
+
+# 2. (jednorazowo, albo po zmianie zdjec) pobierz zdjecia z Wikimedia Commons
+uv run scripts/fetch_images.py
+
+# 3. Zainstaluj zaleznosci frontendu (jednorazowo)
+cd web && npm install
+
+# 4. Uruchom lokalnie
+npm run dev
+```
+
+Otwórz `http://localhost:5173` (albo adres wypisany w terminalu).
 
 ## Import do Google My Maps
 

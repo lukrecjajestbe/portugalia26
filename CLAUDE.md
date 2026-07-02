@@ -14,13 +14,17 @@ Instrukcje dla Claude Code dotyczące pracy w tym repo (planowanie podróży po 
 - `plan/` - plany dzień po dniu (markdown) dla poszczególnych wariantów czasowych.
 - `atrakcje.csv` - wygenerowany automatycznie z `atrakcje/*/README.md`, nie edytować ręcznie. Plik jest w `.gitignore` (nie trzymamy go w repo) - wygeneruj go lokalnie po sklonowaniu.
 - `scripts/generate_csv.py` - skrypt generujący `atrakcje.csv`.
+- `scripts/build_data.py` - skrypt generujący `web/src/data/data.json` (dane dla interaktywnej strony) z `atrakcje/*/README.md`, `plan/*.md` i `atrakcje/DLA-POCZATKUJACYCH.md`.
+- `scripts/fetch_images.py` - pobiera i kompresuje (max 1600px, JPEG q=78) reprezentatywne zdjęcie dla każdej atrakcji z Wikimedia Commons do `web/public/images/<folder-id>.jpg`. Pomija pobieranie jeśli plik już istnieje - usuń go ręcznie żeby wymusić ponowne pobranie. Zapytania do Wikimedia wymagają nagłówka `User-Agent` (inaczej 403).
+- `web/` - interaktywna prezentacja: React + Vite, mapa Leaflet/OpenStreetMap (bez klucza API), karty atrakcji, filtry kategorii, oś czasu planów. Konsumuje `web/src/data/data.json` - nie edytować danych ręcznie, tylko przez `build_data.py`.
+- Wszystkie skrypty Pythona uruchamiane są przez `uv run scripts/<nazwa>.py`, zależności zarządzane przez `uv` (`pyproject.toml`, `uv.lock`). Nie używać gołego `python3` ani `pip`.
 
 ## Generowanie / regeneracja `atrakcje.csv`
 
 Za każdym razem gdy dodasz nowy folder do `atrakcje/`, zmienisz link do mapy albo zmienisz `**Kategoria:**` w istniejącym pliku, **uruchom ponownie skrypt generujący CSV** zamiast edytować `atrakcje.csv` ręcznie:
 
 ```bash
-python3 scripts/generate_csv.py
+uv run scripts/generate_csv.py
 ```
 
 Skrypt:
@@ -37,7 +41,21 @@ Jeśli trzeba dodać nowe pole do CSV (np. region, poziom trudności), edytuj `s
 2. Napisz `README.md` zgodnie ze strukturą opisaną wyżej, **pamiętając o linii `**Kategoria:**`**. Współrzędne i `place_id` do linku Google Maps zdobądź przez MCP Google Maps (`mcp__google-maps__maps_geocode` lub `mcp__google-maps__maps_search_places`), nie zgaduj ich.
 3. Dodaj wpis do listy w `atrakcje/README.md`.
 4. Jeśli miejsce nadaje się dla początkujących surferów, dodaj je też do `atrakcje/DLA-POCZATKUJACYCH.md`.
-5. Uruchom `python3 scripts/generate_csv.py`.
+5. Uruchom `uv run scripts/generate_csv.py` oraz `uv run scripts/build_data.py`.
+6. Dodaj zapytanie wyszukiwania dla nowego folderu do `SEARCH_QUERIES` w `scripts/fetch_images.py`, uruchom `uv run scripts/fetch_images.py`.
+
+## Interaktywna prezentacja (`web/`)
+
+Frontend to React + Vite (bez TypeScript), zależności npm (nie uv - to warstwa JS, oddzielna od skryptów Pythona). Dane wczytywane statycznie z `web/src/data/data.json` (import JSON w `App.jsx`), generowane przez `scripts/build_data.py` - nigdy nie edytuj tego pliku ręcznie.
+
+Struktura komponentów w `web/src/components/`:
+- `MapView.jsx` - mapa Leaflet z pinezkami kolorowanymi wg kategorii
+- `AttractionCard.jsx` - karta atrakcji ze zdjęciem, opisem, sekcjami
+- `PlanTimeline.jsx` - oś czasu dzień-po-dniu dla wariantu planu
+- `BeginnerGuide.jsx` - przewodnik dla początkujących
+- `MarkdownText.jsx` - lekki renderer markdown (bold, linki, listy `- `) używany wszędzie tam, gdzie tekst pochodzi z plików `.md` - nie wyświetlaj surowego tekstu z `data.json` bez przepuszczenia przez ten komponent, bo będą widoczne gwiazdki `**...**`
+
+Uruchomienie lokalne: `cd web && npm install && npm run dev`. Build produkcyjny: `npm run build` (output do `web/dist/`, w `.gitignore`).
 
 ## Wersjonowanie
 

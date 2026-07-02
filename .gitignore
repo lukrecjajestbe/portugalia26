@@ -2,3 +2,7 @@
 .claude/
 __pycache__/
 atrakcje.csv
+.venv/
+node_modules/
+dist/
+web/public/images/
