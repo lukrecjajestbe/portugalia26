@@ -2,6 +2,8 @@
 
 Planowanie podróży po Portugalii: Faro (przylot, wynajem auta) → Algarve → Alentejo → Ericeira/Peniche → Lizbona (+ okolice) → Nazaré → Aveiro → Porto (zwrot auta, wylot). Nacisk na surfing.
 
+**Mapa Google (My Maps) ze wszystkimi punktami:** https://www.google.com/maps/d/u/1/edit?mid=1xCJXVbxLQ7gCA_lBUf9ftX1pNqmFcPs&usp=sharing
+
 ## Struktura repo
 
 - **`atrakcje/`** - 20 folderów, po jednym na każde miejsce na trasie. Każdy zawiera `README.md` z opisem, kategorią (`surfing`/`kultura`/`oba`), sekcją o surfingu i linkiem do Google Maps. Zobacz [`atrakcje/README.md`](atrakcje/README.md) dla pełnej listy w kolejności geograficznej.
