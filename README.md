@@ -4,6 +4,8 @@ Planowanie podróży po Portugalii: Faro (przylot, wynajem auta) → Algarve →
 
 **Mapa Google (My Maps) ze wszystkimi punktami:** https://www.google.com/maps/d/u/1/edit?mid=1xCJXVbxLQ7gCA_lBUf9ftX1pNqmFcPs&usp=sharing
 
+**Interaktywna strona (mapa + karty + plan):** https://lukrecjajestbe.github.io/portugalia26/ (deployuje się automatycznie po każdej zmianie na `main`)
+
 ## Struktura repo
 
 - **`atrakcje/`** - 20 folderów, po jednym na każde miejsce na trasie. Każdy zawiera `README.md` z opisem, kategorią (`surfing`/`kultura`/`oba`), sekcją o surfingu i linkiem do Google Maps. Zobacz [`atrakcje/README.md`](atrakcje/README.md) dla pełnej listy w kolejności geograficznej.
@@ -43,7 +45,7 @@ Dane dla strony (`web/src/data/data.json`) są generowane z plików markdown w `
 # 1. Wygeneruj dane (za każdym razem po zmianie plikow w atrakcje/ lub plan/)
 uv run scripts/build_data.py
 
-# 2. (jednorazowo, albo po zmianie zdjec) pobierz zdjecia z Wikimedia Commons
+# 2. (tylko przy nowym miejscu bez zdjecia) pobierz brakujace zdjecia z Wikimedia Commons
 uv run scripts/fetch_images.py
 
 # 3. Zainstaluj zaleznosci frontendu (jednorazowo)
@@ -54,6 +56,12 @@ npm run dev
 ```
 
 Otwórz `http://localhost:5173` (albo adres wypisany w terminalu).
+
+Zdjęcia w `web/public/images/` są zacommitowane w repo (nie generowane on-the-fly), więc krok 2 jest potrzebny tylko po dodaniu nowego miejsca.
+
+## Deploy
+
+Automatyczny - GitHub Actions (`.github/workflows/deploy.yml`) buduje i publikuje stronę na GitHub Pages po każdym pushu do `main`. Nie trzeba nic uruchamiać ręcznie. Szczegóły w sekcji "Deploy" w [`CLAUDE.md`](CLAUDE.md).
 
 ## Import do Google My Maps
 

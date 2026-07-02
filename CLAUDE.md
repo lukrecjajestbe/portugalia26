@@ -17,6 +17,7 @@ Instrukcje dla Claude Code dotyczące pracy w tym repo (planowanie podróży po 
 - `scripts/build_data.py` - skrypt generujący `web/src/data/data.json` (dane dla interaktywnej strony) z `atrakcje/*/README.md`, `plan/*.md` i `atrakcje/DLA-POCZATKUJACYCH.md`.
 - `scripts/fetch_images.py` - pobiera i kompresuje (max 1600px, JPEG q=78) reprezentatywne zdjęcie dla każdej atrakcji z Wikimedia Commons do `web/public/images/<folder-id>.jpg`. Pomija pobieranie jeśli plik już istnieje - usuń go ręcznie żeby wymusić ponowne pobranie. Zapytania do Wikimedia wymagają nagłówka `User-Agent` (inaczej 403).
 - `web/` - interaktywna prezentacja: React + Vite, mapa Leaflet/OpenStreetMap (bez klucza API), karty atrakcji, filtry kategorii, oś czasu planów. Konsumuje `web/src/data/data.json` - nie edytować danych ręcznie, tylko przez `build_data.py`.
+- `web/public/images/*.jpg` - zdjęcia atrakcji, **trzymane w repo** (nie w `.gitignore`) mimo że są generowane, żeby GitHub Actions mógł je użyć bez zapytań do Wikimedia przy każdym deployu. Po dodaniu nowego zdjęcia przez `fetch_images.py` zacommituj je normalnie.
 - Wszystkie skrypty Pythona uruchamiane są przez `uv run scripts/<nazwa>.py`, zależności zarządzane przez `uv` (`pyproject.toml`, `uv.lock`). Nie używać gołego `python3` ani `pip`.
 
 ## Generowanie / regeneracja `atrakcje.csv`
@@ -56,6 +57,16 @@ Struktura komponentów w `web/src/components/`:
 - `MarkdownText.jsx` - lekki renderer markdown (bold, linki, listy `- `) używany wszędzie tam, gdzie tekst pochodzi z plików `.md` - nie wyświetlaj surowego tekstu z `data.json` bez przepuszczenia przez ten komponent, bo będą widoczne gwiazdki `**...**`
 
 Uruchomienie lokalne: `cd web && npm install && npm run dev`. Build produkcyjny: `npm run build` (output do `web/dist/`, w `.gitignore`).
+
+`vite.config.js` ma ustawione `base: '/portugalia26/'` (nazwa repo) - wymagane dla poprawnych ścieżek assetów na GitHub Pages. Jeśli repo zostanie kiedyś przemianowane, zaktualizuj to pole.
+
+## Deploy (GitHub Actions → GitHub Pages)
+
+Strona deployuje się **automatycznie** przy każdym pushu do `main` przez `.github/workflows/deploy.yml`: `uv run scripts/build_data.py` (świeże dane) → `npm ci && npm run build` w `web/` → publikacja `web/dist` na GitHub Pages przez oficjalne akcje (`actions/deploy-pages`). Nie ma osobnego skryptu deploy ani brancha `gh-pages` do zarządzania ręcznie - to wszystko obsługuje Actions.
+
+Warunek wstępny (jednorazowo, w ustawieniach repo na GitHubie): Settings → Pages → Source → "GitHub Actions" (nie "Deploy from a branch").
+
+Workflow **nie** uruchamia `fetch_images.py` - zdjęcia muszą już być zacommitowane w `web/public/images/` (patrz wyżej). Jeśli dodasz nowe miejsce bez zdjęcia, pamiętaj uruchomić `fetch_images.py` lokalnie i zacommitować wynik przed pushem, inaczej strona pokaże brakujący obrazek.
 
 ## Wersjonowanie
 
