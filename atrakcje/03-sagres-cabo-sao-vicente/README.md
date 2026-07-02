@@ -1,5 +1,6 @@
 # Sagres i Cabo de São Vicente
 
+**Kategoria:** oba
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=37.0233333,-8.9944444&query_place_id=ChIJO28su-tNGw0RPz4JtFneqAU)
 
 ## Opis

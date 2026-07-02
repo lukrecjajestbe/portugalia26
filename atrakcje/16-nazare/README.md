@@ -1,5 +1,6 @@
 # Nazaré
 
+**Kategoria:** oba
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=39.6015562,-9.0677509&query_place_id=ChIJF9RqLyOoGA0RbxBCr3HY0gM)
 
 ## Opis

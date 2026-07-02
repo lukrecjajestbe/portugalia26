@@ -1,5 +1,6 @@
 # Ericeira
 
+**Kategoria:** surfing
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=38.9664933,-9.4176169&query_place_id=ChIJtXkReZ8nHw0Re8H0_DHnyf0)
 
 ## Opis

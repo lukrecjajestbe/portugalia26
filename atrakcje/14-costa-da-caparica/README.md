@@ -1,5 +1,6 @@
 # Costa da Caparica
 
+**Kategoria:** surfing
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=38.644553,-9.2333757&query_place_id=ChIJM6dn5IrKHg0RHeVNwp-nleA)
 
 ## Opis

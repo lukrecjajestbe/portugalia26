@@ -2,6 +2,8 @@
 
 Lista miejsc na trasie w kolejności geograficznej (południe → północ). Każdy folder zawiera opis, atrakcje, informacje o surfingu i link do Google Maps.
 
+**Surfujecie po raz pierwszy / jesteście początkujący?** Zobacz [`DLA-POCZATKUJACYCH.md`](DLA-POCZATKUJACYCH.md) - wybór spotów odpowiednich na start i lista tych do ominięcia.
+
 1. [Faro](01-faro/) - start, lotnisko
 2. [Lagos](02-lagos/) - klify, Ponta da Piedade
 3. [Sagres / Cabo de São Vicente](03-sagres-cabo-sao-vicente/) - koniec świata, surfing

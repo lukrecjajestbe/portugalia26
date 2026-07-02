@@ -1,5 +1,6 @@
 # Aveiro i Costa Nova
 
+**Kategoria:** oba
 **Mapa (Aveiro):** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=40.6405055,-8.6537539&query_place_id=ChIJjeey1Q6YIw0RBx88Ac3hQjA)
 **Mapa (Costa Nova):** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=40.6418453,-8.6489511&query_place_id=ChIJffzAew-YIw0R4Pn4LbU4t2w)
 

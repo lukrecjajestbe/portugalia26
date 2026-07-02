@@ -1,5 +1,6 @@
 # Praia da Arrifana (Aljezur)
 
+**Kategoria:** surfing
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=37.2940799,-8.8639053&query_place_id=ChIJa23pYTtAGw0RKuuTaAOrxyA)
 
 ## Opis

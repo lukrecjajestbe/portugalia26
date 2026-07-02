@@ -1,5 +1,6 @@
 # Cabo da Roca
 
+**Kategoria:** kultura
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=38.7804282,-9.4989171&query_place_id=ChIJjUNdI8DaHg0Rr7P8mKjYOpU)
 
 ## Opis

@@ -1,5 +1,6 @@
 # Vila Nova de Milfontes
 
+**Kategoria:** surfing
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=37.7240021,-8.7817552&query_place_id=ChIJxYQwEXChGw0RgCH890QVU24)
 
 ## Opis

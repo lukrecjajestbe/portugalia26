@@ -1,5 +1,6 @@
 # Peniche i Baleal
 
+**Kategoria:** surfing
 **Mapa (Baleal):** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=39.3588028,-9.3615114)
 **Mapa (Supertubos):** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=39.340681,-9.3608936&query_place_id=ChIJj2xcUiRJHw0RRza0-sn3HOM)
 

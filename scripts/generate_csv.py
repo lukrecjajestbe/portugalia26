@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """Generuje atrakcje.csv na podstawie plikow atrakcje/*/README.md.
 
-Kazdy plik README.md moze zawierac jedna lub wiecej linii w formacie:
+Kazdy plik README.md musi zawierac linie:
+    **Kategoria:** surfing|kultura|oba
+
+oraz jedna lub wiecej linii w formacie:
     **Mapa[ (Nazwa)]:** [Otworz w Google Maps](URL)
 
 Z kazdej takiej linii wyciagana jest lat/lng z parametru query= w URL.
-Kategoria (surfing / kultura / oba) wykrywana jest na podstawie obecnosci
-naglowka "## Surfing" w pliku.
 """
 
 import csv
@@ -17,10 +18,12 @@ ROOT = Path(__file__).resolve().parent.parent
 ATRAKCJE_DIR = ROOT / "atrakcje"
 OUTPUT_CSV = ROOT / "atrakcje.csv"
 
+KATEGORIA_RE = re.compile(r"\*\*Kategoria:\*\*\s*(?P<kategoria>\S+)")
 MAPA_LINE_RE = re.compile(
     r"\*\*Mapa(?: \((?P<label>[^)]+)\))?:\*\*\s*\[[^\]]+\]\((?P<url>https://\S+?)\)"
 )
 QUERY_LATLNG_RE = re.compile(r"query=(?P<lat>-?\d+\.\d+),(?P<lng>-?\d+\.\d+)")
+VALID_KATEGORIE = {"surfing", "kultura", "oba"}
 
 
 def extract_locations(readme_text: str) -> list[dict]:
@@ -49,15 +52,16 @@ def extract_title(readme_text: str) -> str:
     return ""
 
 
-SURFING_SECTION_RE = re.compile(r"## Surfing\s*\n(?P<body>.*?)(?=\n## |\Z)", re.DOTALL)
-
-
-def has_surfing_section(readme_text: str) -> bool:
-    match = SURFING_SECTION_RE.search(readme_text)
+def extract_kategoria(readme_text: str, folder_name: str) -> str:
+    match = KATEGORIA_RE.search(readme_text)
     if not match:
-        return False
-    body = match.group("body").strip()
-    return not body.startswith("Brak")
+        msg = f"Brak linii **Kategoria:** w {folder_name}/README.md"
+        raise ValueError(msg)
+    kategoria = match.group("kategoria")
+    if kategoria not in VALID_KATEGORIE:
+        msg = f"Nieznana kategoria '{kategoria}' w {folder_name}/README.md (dozwolone: {VALID_KATEGORIE})"
+        raise ValueError(msg)
+    return kategoria
 
 
 def main() -> None:
@@ -71,7 +75,7 @@ def main() -> None:
 
         text = readme_path.read_text(encoding="utf-8")
         title = extract_title(text)
-        surfing = "tak" if has_surfing_section(text) else "nie"
+        kategoria = extract_kategoria(text, folder.name)
         locations = extract_locations(text)
 
         if not locations:
@@ -85,7 +89,7 @@ def main() -> None:
                     "folder": folder.name,
                     "lat": loc["lat"],
                     "lng": loc["lng"],
-                    "surfing": surfing,
+                    "kategoria": kategoria,
                     "google_maps_url": loc["url"],
                 }
             )
@@ -93,7 +97,7 @@ def main() -> None:
     with OUTPUT_CSV.open("w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(
             f,
-            fieldnames=["nazwa", "folder", "lat", "lng", "surfing", "google_maps_url"],
+            fieldnames=["nazwa", "folder", "lat", "lng", "kategoria", "google_maps_url"],
         )
         writer.writeheader()
         writer.writerows(rows)

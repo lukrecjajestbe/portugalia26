@@ -1,5 +1,6 @@
 # Faro
 
+**Kategoria:** kultura
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=37.0164626,-7.9351983&query_place_id=ChIJp_qQIudSBQ0RWv9KSdTCc40)
 
 ## Opis

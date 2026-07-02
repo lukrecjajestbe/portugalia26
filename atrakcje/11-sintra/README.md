@@ -1,5 +1,6 @@
 # Sintra
 
+**Kategoria:** kultura
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=38.8233416,-9.3229213&query_place_id=ChIJIzPS5ZvQHg0RIDeQ5L3rAAQ)
 
 ## Opis

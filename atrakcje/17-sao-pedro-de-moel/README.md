@@ -1,5 +1,6 @@
 # São Pedro de Moel
 
+**Kategoria:** oba
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=39.757847,-9.0297883&query_place_id=ChIJnVrQu3YFIg0RgPmAT8DrAAo)
 
 ## Opis

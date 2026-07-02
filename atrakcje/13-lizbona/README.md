@@ -1,5 +1,6 @@
 # Lizbona
 
+**Kategoria:** oba
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=38.7222524,-9.1393366&query_place_id=ChIJO_PkYRozGQ0R0DaQ5L3rAAQ)
 
 ## Opis

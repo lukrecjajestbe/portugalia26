@@ -1,5 +1,6 @@
 # Park Naturalny Arrábida
 
+**Kategoria:** kultura
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=38.4693714,-9.0643419&query_place_id=ChIJMZYyndlPGQ0RKFtywsDF6K4)
 
 ## Opis

@@ -1,5 +1,6 @@
 # Porto
 
+**Kategoria:** oba
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=41.1579438,-8.6291053&query_place_id=ChIJwVPhxKtlJA0RvBSxQFbZSKY)
 
 ## Opis

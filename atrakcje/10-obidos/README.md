@@ -1,5 +1,6 @@
 # Óbidos
 
+**Kategoria:** kultura
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=39.3572399,-9.1578614&query_place_id=ChIJxd4e7560GA0RsztNs4piChc)
 
 ## Opis

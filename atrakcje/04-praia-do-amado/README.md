@@ -1,5 +1,6 @@
 # Praia do Amado
 
+**Kategoria:** surfing
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=37.1672129,-8.903963&query_place_id=ChIJA7_PomdGGw0RlLzwcZ9hMKI)
 
 ## Opis

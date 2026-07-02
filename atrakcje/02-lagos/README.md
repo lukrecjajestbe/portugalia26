@@ -1,5 +1,6 @@
 # Lagos
 
+**Kategoria:** oba
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=37.1027881,-8.6730275&query_place_id=ChIJjU0jUEkwGw0RV_waR6OqEFQ)
 
 ## Opis

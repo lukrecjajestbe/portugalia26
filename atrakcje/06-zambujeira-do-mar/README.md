@@ -1,5 +1,6 @@
 # Zambujeira do Mar
 
+**Kategoria:** surfing
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=37.5254886,-8.7839507&query_place_id=ChIJvYvyS1MMGw0Rh8HinNjVYo4)
 
 ## Opis

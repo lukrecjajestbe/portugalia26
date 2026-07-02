@@ -1,5 +1,6 @@
 # Praia de Matosinhos (Porto)
 
+**Kategoria:** surfing
 **Mapa:** [Otwórz w Google Maps](https://www.google.com/maps/search/?api=1&query=41.1763702,-8.6926763&query_place_id=ChIJ2d-8zjxvJA0RP2Ac4rtI_FM)
 
 ## Opis
