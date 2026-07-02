@@ -416,7 +416,7 @@
   "plany": {
     "wariant_a": {
       "title": "Wariant A: 18.07 - 31.07 (14 dni)",
-      "intro": "Więcej czasu = więcej dni surfingowych i luźniejsze tempo. 4 noclegowe \"bazy\" surfingowe zamiast 2-3.",
+      "intro": "Więcej czasu = więcej dni surfingowych i luźniejsze tempo. 3 dni w Lizbonie (obejmujące weekend 25-26.07) i 2 dni w Porto na koniec.",
       "dni": [
         {
           "dzien": 1,
@@ -445,69 +445,69 @@
         {
           "dzien": 5,
           "data": "22.07 (śr)",
-          "miejsce": "Sagres",
-          "plan": "**Dzień surfingowy** - Praia da Bordeira lub Arrifana (przejazd 30 min), ew. lekcja w szkole surfingu."
-        },
-        {
-          "dzien": 6,
-          "data": "23.07 (czw)",
           "miejsce": "Zambujeira do Mar",
           "plan": "Przejazd do Alentejo (~1h15). Po południu surfing na Praia da Zambujeira do Mar, wieczorem klify i kolacja rybna."
         },
         {
-          "dzien": 7,
-          "data": "24.07 (pt)",
+          "dzien": 6,
+          "data": "23.07 (czw)",
           "miejsce": "Vila Nova de Milfontes",
           "plan": "Przejazd (~25 min). **Dzień surfingowy** na Praia do Malhão (sezon maj-wrzesień - idealnie w terminie). Popołudnie: SUP/kajak po rzece Mira."
         },
         {
-          "dzien": 8,
-          "data": "25.07 (sob)",
+          "dzien": 7,
+          "data": "24.07 (pt)",
           "miejsce": "Ericeira",
           "plan": "Długi przejazd (~2h40, autostradą). Zameldowanie, wieczorny spacer po miasteczku i kolacja."
         },
         {
+          "dzien": 8,
+          "data": "25.07 (sob)",
+          "miejsce": "Lizbona",
+          "plan": "Rano **dzień surfingowy** w Ericeirze - Foz do Lizandro (nauka) lub Ribeira d'Ilhas. Popołudnie przejazd do Lizbony (~40 min), zameldowanie na 3 noce, wieczór na Baixa/Chiado."
+        },
+        {
           "dzien": 9,
           "data": "26.07 (nd)",
-          "miejsce": "Ericeira",
-          "plan": "**Dzień surfingowy** - Foz do Lizandro (nauka) lub Ribeira d'Ilhas (bardziej zaawansowani)."
+          "miejsce": "Lizbona",
+          "plan": "Weekend w Lizbonie: Alfama, zamek São Jorge, tramwaj 28, wieczorem fado."
         },
         {
           "dzien": 10,
           "data": "27.07 (pon)",
-          "miejsce": "Ericeira",
-          "plan": "**Dzień surfingowy** - São Lourenço lub Praia do Sul, zależnie od warunków. Wieczorem zachód słońca na klifach."
+          "miejsce": "Lizbona",
+          "plan": "Cały dzień: Sintra (Pałac Pena - bilet z wyprzedzeniem, Quinta da Regaleira) + Cabo da Roca. Powrót do Lizbony na wieczór (Belém: wieża, klasztor, pastel de nata)."
         },
         {
           "dzien": 11,
           "data": "28.07 (wt)",
           "miejsce": "Peniche/Baleal",
-          "plan": "Przejazd (~45 min). Po drodze Óbidos jako przystanek kulturalny (spacer po murach, ginjinha). **Popołudnie surfingowe** na Baleal - Prainha."
+          "plan": "Przejazd (~1h20). Po drodze Óbidos jako przystanek kulturalny (spacer po murach, ginjinha). **Popołudnie surfingowe** na Baleal - Prainha."
         },
         {
           "dzien": 12,
           "data": "29.07 (śr)",
-          "miejsce": "Lizbona",
-          "plan": "Rano ostatni surf w Baleal/Supertubos (do oglądania jeśli za mocne). Przejazd do Lizbony (~1h20). Popołudnie: Alfama, zamek São Jorge, tramwaj 28."
+          "miejsce": "Porto",
+          "plan": "Rano ostatni surf w Baleal/Supertubos (do oglądania jeśli za mocne). Przejazd przez Nazaré (widok na Praia do Norte, Sítio) i Aveiro (kanały, Costa Nova) do Porto (~4h z postojami). Wieczór: Ribeira, most Dom Luís I."
         },
         {
           "dzien": 13,
           "data": "30.07 (czw)",
-          "miejsce": "Lizbona / Sintra",
-          "plan": "Cały dzień: Sintra (Pałac Pena - bilet z wyprzedzeniem, Quinta da Regaleira) + Cabo da Roca. Powrót do Lizbony na wieczór (Belém: wieża, klasztor, pastel de nata)."
+          "miejsce": "Porto",
+          "plan": "Livraria Lello (bilet wcześniej), piwnice porto w Vila Nova de Gaia, ew. surf w Matosinhos."
         },
         {
           "dzien": 14,
           "data": "31.07 (pt)",
-          "miejsce": "Porto",
-          "plan": "Wcześnie rano przejazd do Nazaré (widok na Praia do Norte, Sítio) → Aveiro (kanały, Costa Nova) → Porto. Oddanie auta, wylot z Porto (jeśli lot wieczorny; jeśli rano - przenieść ten dzień wcześniej i dodać nocleg w Porto)."
+          "miejsce": "-",
+          "plan": "Oddanie auta, wylot z Porto."
         }
       ],
-      "uwagi": "- Ten wariant daje 2 pełne dni surfingowe w Sagres, 2 w Alentejo, 2 w Ericeirze i pół dnia w Peniche - łącznie ok. 6-7 sesji surfingowych.\n- Dzień 14 jest bardzo napięty (3 przystanki + lot) - **jeśli lot z Porto jest przed południem, przesuń dzień 13 na wcześniej i dodaj nocleg w Porto na 30.07/31.07**, żeby nie jechać w dniu wylotu.\n- Alternatywa: skrócić pobyt w Sagres do 2 dni i dodać dodatkowy dzień w Peniche (najbogatszy region surfingowy po Ericeirze)."
+      "uwagi": "- Ten wariant daje 2 pełne dni surfingowe w Sagres, 2 w Alentejo, 1 w Ericeirze i pół dnia w Peniche - łącznie ok. 5-6 sesji surfingowych (mniej niż poprzednia wersja planu, kosztem 3 dni w Lizbonie i 2 w Porto).\n- Lizbona (dni 8-10) obejmuje pełny weekend (sob-nd 25-26.07), czyli miasto tętni życiem - warto zarezerwować restauracje/fado na weekend z wyprzedzeniem.\n- Dzień 12 jest długi (2 przystanki kulturalne + przejazd ~300 km) - jeśli to za dużo, można pominąć Aveiro i jechać prosto Nazaré → Porto (ok. 2h15 zamiast 4h z postojami).\n- Jeśli lot z Porto 31.07 jest po południu, można dołożyć pół dnia zwiedzania Porto rano przed oddaniem auta.\n- Alternatywa: skrócić Alentejo do 1 dnia (zamiast 2) i dodać dodatkowy dzień w Peniche (najbogatszy region surfingowy po Ericeirze) zamiast skracania Ericeiry."
     },
     "wariant_b": {
       "title": "Wariant B: 21.07 - 31.07 (11 dni)",
-      "intro": "Krótszy wariant - trzeba ściąć część Algarve/Alentejo i skupić się na 2 głównych bazach surfingowych (Sagres + Ericeira/Peniche), reszta zwiedzania w drodze.",
+      "intro": "Krótszy wariant - mocno ściśnięte Algarve/Alentejo/Ericeira/Peniche, żeby zmieścić 3 dni w Lizbonie (obejmujące weekend 25-26.07) i 2 dni w Porto.",
       "dni": [
         {
           "dzien": 1,
@@ -524,59 +524,59 @@
         {
           "dzien": 3,
           "data": "23.07 (czw)",
-          "miejsce": "Sagres",
-          "plan": "**Dzień surfingowy** - Praia da Bordeira lub Arrifana."
+          "miejsce": "Vila Nova de Milfontes",
+          "plan": "Przejazd (~1h35, przez Zambujeira do Mar - krótki postój na widok klifów). **Dzień surfingowy** popołudniu na Praia do Malhão."
         },
         {
           "dzien": 4,
           "data": "24.07 (pt)",
-          "miejsce": "Vila Nova de Milfontes",
-          "plan": "Przejazd (~1h35, przez Zambujeira do Mar - krótki postój na widok klifów). Popołudniowy surfing na Praia do Malhão."
+          "miejsce": "Ericeira",
+          "plan": "Długi przejazd (~2h15). Zameldowanie, popołudniowy surfing na Foz do Lizandro, wieczorny spacer po miasteczku."
         },
         {
           "dzien": 5,
           "data": "25.07 (sob)",
-          "miejsce": "Ericeira",
-          "plan": "Długi przejazd (~2h35). Zameldowanie, spacer po miasteczku."
+          "miejsce": "Lizbona",
+          "plan": "Rano jeszcze jedna sesja w Ericeirze (Ribeira d'Ilhas), po południu przejazd do Lizbony (~40 min), zameldowanie na 3 noce, wieczór na Baixa/Chiado."
         },
         {
           "dzien": 6,
           "data": "26.07 (nd)",
-          "miejsce": "Ericeira",
-          "plan": "**Dzień surfingowy** - Foz do Lizandro (nauka) lub Ribeira d'Ilhas."
+          "miejsce": "Lizbona",
+          "plan": "Weekend w Lizbonie: Alfama, zamek São Jorge, tramwaj 28, wieczorem fado."
         },
         {
           "dzien": 7,
           "data": "27.07 (pon)",
-          "miejsce": "Peniche/Baleal",
-          "plan": "Przejazd (~45 min), po drodze Óbidos (spacer po murach, ginjinha). **Popołudnie surfingowe** na Baleal - Prainha."
+          "miejsce": "Lizbona",
+          "plan": "Cały dzień: Sintra (Pałac Pena, Quinta da Regaleira) + Cabo da Roca. Wieczór w Lizbonie (Belém: wieża, klasztor, pastel de nata)."
         },
         {
           "dzien": 8,
           "data": "28.07 (wt)",
-          "miejsce": "Lizbona",
-          "plan": "Rano ewentualny ostatni surf, przejazd do Lizbony (~1h20). Popołudnie: Alfama, zamek São Jorge, Belém wieczorem."
+          "miejsce": "Porto",
+          "plan": "Wcześnie rano przejazd przez Óbidos (krótki postój, spacer po murach) i Nazaré (widok, Sítio) do Porto (~4h z postojami). Wieczór: Ribeira, most Dom Luís I."
         },
         {
           "dzien": 9,
           "data": "29.07 (śr)",
-          "miejsce": "Lizbona / Sintra",
-          "plan": "Cały dzień: Sintra (Pałac Pena, Quinta da Regaleira) + Cabo da Roca. Wieczór w Lizbonie (Chiado/Baixa)."
+          "miejsce": "Porto",
+          "plan": "Livraria Lello (bilet wcześniej), piwnice porto w Vila Nova de Gaia, popołudniu surfing w Matosinhos."
         },
         {
           "dzien": 10,
           "data": "30.07 (czw)",
           "miejsce": "Porto",
-          "plan": "Przejazd przez Nazaré (krótki postój - widok, Sítio) i Aveiro (kanały, Costa Nova) do Porto (~4h z postojami). Wieczór: Ribeira, most Dom Luís I."
+          "plan": "Dzień bufor: powtórka ulubionych miejsc w Porto, ew. wypad do Aveiro/Costa Nova (~1h w jedną stronę) jeśli zostanie czas i chęć."
         },
         {
           "dzien": 11,
           "data": "31.07 (pt)",
-          "miejsce": "Porto",
-          "plan": "Rano: Livraria Lello (bilet wcześniej), piwnice porto w Vila Nova de Gaia, ew. krótki surf w Matosinhos. Oddanie auta, wylot z Porto."
+          "miejsce": "-",
+          "plan": "Oddanie auta, wylot z Porto."
         }
       ],
-      "uwagi": "- Ten wariant daje 2 pełne dni surfingowe w Sagres, pół dnia w Alentejo, 1 dzień w Ericeirze i pół dnia w Peniche - łącznie ok. 4-5 sesji surfingowych (mniej niż wariant A, ale nadal solidnie).\n- Dzień 10 jest długi (2 przystanki kulturalne + przejazd ~300 km) - jeśli to za dużo, można pominąć Aveiro i jechać prosto Nazaré → Porto (ok. 2h15 zamiast 4h z postojami).\n- Jeśli lot z Porto 31.07 jest rano, przenieś zwiedzanie Porto na wieczór 30.07, a dzień 11 zostaw tylko na oddanie auta i lot.\n- Ten wariant rezygnuje z Zambujeira do Mar jako osobnego noclegu (tylko przejazdowy postój) oraz z Costa da Caparica/Arrábida - jeśli zależy Wam bardziej na Lizbonie niż na dodatkowym dniu w Alentejo, można zamienić dzień 4 na dodatkowy dzień w Lizbonie z wypadem do Costa da Caparica."
+      "uwagi": "- Ten wariant daje 1 pełny dzień surfingowy w Sagres, pół dnia w Alentejo, 1.5 dnia w Ericeirze i pół dnia w Matosinhos - łącznie ok. 3-4 sesje surfingowe (najmniej ze wszystkich wersji planu, bo priorytetem stały się Lizbona i Porto).\n- Ten wariant **rezygnuje z Peniche/Baleal** jako osobnego noclegu (nie mieści się w 11 dniach przy 3 dniach Lizbony i 2 dniach Porto) - jeśli Peniche jest ważniejsze niż dzień bufor w Porto (dzień 10), zamień je miejscami.\n- Lizbona (dni 5-7) obejmuje pełny weekend (sob-nd 25-26.07) - warto zarezerwować restauracje/fado z wyprzedzeniem.\n- Dzień 8 jest długi (przystanki kulturalne + przejazd ~300 km) - jeśli to za dużo, jedź prosto do Porto (ok. 3h) i zwiedź Óbidos/Nazaré po drodze innym razem.\n- Dzień 10 to celowy bufor (na złą pogodę, zmęczenie, albo dodatkowy surf) - jeśli wolisz więcej surfingu niż odpoczynku, zamień go na dodatkowy dzień w Peniche wpleciony między dzień 4 a 5."
     }
   },
   "dla_poczatkujacych": {

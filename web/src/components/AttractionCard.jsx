@@ -10,7 +10,7 @@ export default function AttractionCard({ atrakcja }) {
   return (
     <div className="card">
       <img
-        src={`/${atrakcja.image}`}
+        src={`${import.meta.env.BASE_URL}${atrakcja.image}`}
         alt={atrakcja.title}
         loading="lazy"
         onError={(e) => {

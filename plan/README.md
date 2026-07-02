@@ -6,6 +6,8 @@ Dwa warianty czasowe:
 - [Wariant A: 18.07 - 31.07 (14 dni)](wariant-a-18-31-lipca.md)
 - [Wariant B: 21.07 - 31.07 (11 dni)](wariant-b-21-31-lipca.md)
 
+Oba warianty przewidują **3 dni w Lizbonie** (obejmujące weekend 25-26.07) i **2 dni w Porto** na koniec trasy - kosztem skrócenia czasu w Algarve/Alentejo/Ericeirze/Peniche (szczegóły w uwagach każdego wariantu).
+
 ## Wspólne założenia
 - Lipiec = szczyt sezonu turystycznego, ale **najsłabszy sezon dla dużych fal** na wybrzeżu zachodnim (najlepszy okres na fale to wrzesień-maj). W praktyce oznacza to mniejsze, bardziej łagodne fale - świetne dla nauki i średniozaawansowanych, gorzej dla szukających dużych, mocnych fal.
 - Na południowym wybrzeżu Algarve codziennie ok. 11:00-14:00 wieje silny wiatr termiczny **Nortada** (15-25 węzłów) - surfować najlepiej rano.
