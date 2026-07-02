@@ -21,6 +21,6 @@ Półwysep rybacki, druga stolica surfingu w Portugalii obok Ericeiry. Baleal to
 - Szkoły: Baleal Surf Camp (pierwszy surfcamp w Portugalii, od 1993), Drop Surf Center, Peniche Surf Camp - jeden z głównych ośrodków surfcampów w Europie
 
 ## Praktyczne info
-- Odległość od Ericeiry: ok. 45 min (45 km)
-- Odległość od Lizbony: ok. 1h 20 min (95 km)
+- Odległość od Ericeiry: ok. 1h 05 min (98 km) - drogą przez wnętrze lądu, nie brzegiem, więc dłużej niż mogłoby się wydawać z mapy
+- Odległość od Lizbony: ok. 1h 20 min (103 km)
 - Rekomendowane min. 2 noce

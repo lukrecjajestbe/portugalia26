@@ -21,6 +21,6 @@ Ericeira ma 7 spotów w promieniu kilku km, każdy inny - można surfować codzi
 - Szkoły surfingu: Progress Surf School (Ribamar), Ericeira Waves Surf School, Surf with Pepe, Ericeira Surf School, Blue Ocean, Boardculture Surf School
 
 ## Praktyczne info
-- Odległość od Vila Nova de Milfontes: ok. 2h 15 min (190 km)
-- Odległość od Lizbony: ok. 40 min (50 km) - blisko lotniska i centrum
+- Odległość od Vila Nova de Milfontes: ok. 2h 35 min (233 km)
+- Odległość od Lizbony: ok. 45-50 min (49 km) - blisko lotniska i centrum
 - Rekomendowane min. 2-3 noce

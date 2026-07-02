@@ -11,7 +11,7 @@ Więcej czasu = więcej dni surfingowych i luźniejsze tempo. 3 dni w Lizbonie (
 | 5 | 22.07 (śr) | Zambujeira do Mar | Przejazd do Alentejo (~1h15). Po południu surfing na Praia da Zambujeira do Mar, wieczorem klify i kolacja rybna. |
 | 6 | 23.07 (czw) | Vila Nova de Milfontes | Przejazd (~25 min). **Dzień surfingowy** na Praia do Malhão (sezon maj-wrzesień - idealnie w terminie). Popołudnie: SUP/kajak po rzece Mira. |
 | 7 | 24.07 (pt) | Ericeira | Długi przejazd (~2h40, autostradą). Zameldowanie, wieczorny spacer po miasteczku i kolacja. |
-| 8 | 25.07 (sob) | Lizbona | Rano **dzień surfingowy** w Ericeirze - Foz do Lizandro (nauka) lub Ribeira d'Ilhas. Popołudnie przejazd do Lizbony (~40 min), zameldowanie na 3 noce, wieczór na Baixa/Chiado. |
+| 8 | 25.07 (sob) | Lizbona | Rano **dzień surfingowy** w Ericeirze - Foz do Lizandro (nauka) lub Ribeira d'Ilhas. Popołudnie przejazd do Lizbony (~40-50 min), zameldowanie na 3 noce, wieczór na Baixa/Chiado. |
 | 9 | 26.07 (nd) | Lizbona | Weekend w Lizbonie: Alfama, zamek São Jorge, tramwaj 28, wieczorem fado. |
 | 10 | 27.07 (pon) | Lizbona | Cały dzień: Sintra (Pałac Pena - bilet z wyprzedzeniem, Quinta da Regaleira) + Cabo da Roca. Powrót do Lizbony na wieczór (Belém: wieża, klasztor, pastel de nata). |
 | 11 | 28.07 (wt) | Peniche/Baleal | Przejazd (~1h20). Po drodze Óbidos jako przystanek kulturalny (spacer po murach, ginjinha). **Popołudnie surfingowe** na Baleal - Prainha. |

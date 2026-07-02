@@ -157,7 +157,7 @@
       "atrakcje": "- Stare miasto i punkty widokowe na klifach\n- Liczne restauracje z owocami morza\n- Rynek rybny",
       "surfing": "Ericeira ma 7 spotów w promieniu kilku km, każdy inny - można surfować codziennie na innej fali niezależnie od kierunku wiatru/swellu:\n- **Foz do Lizandro** - najlepszy w okolicy do nauki, uznawany za nr 1 beach break dla początkujących w Portugalii, kilka pików, łagodne fale\n- **Ribeira d'Ilhas** - najsłynniejsza fala, gospodarz zawodów World Surf League (WSL), długa prawa reef/point break, działa nawet na mniejszym letnim swellu; lewa przy ujściu rzeki łagodniejsza. Dla średnio-zaawansowanych/zaawansowanych\n- **Praia do Sul** (centrum) - mieszany piaszczysto-skalisty beach break, osłonięty od dużego swellu, dobra opcja letnia\n- **São Lourenço** - działa niemal cały rok nawet na małym swellu, mniej zatłoczony, dla średnio-zaawansowanych/zaawansowanych\n- **Coxos** - światowej klasy prawa rurująca fala, ale w lipcu (mały swell) praktycznie nie działa - tylko do oglądania\n- Szkoły surfingu: Progress Surf School (Ribamar), Ericeira Waves Surf School, Surf with Pepe, Ericeira Surf School, Blue Ocean, Boardculture Surf School",
       "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Vila Nova de Milfontes: ok. 2h 15 min (190 km)\n- Odległość od Lizbony: ok. 40 min (50 km) - blisko lotniska i centrum\n- Rekomendowane min. 2-3 noce",
+      "praktyczne_info": "- Odległość od Vila Nova de Milfontes: ok. 2h 35 min (233 km)\n- Odległość od Lizbony: ok. 45-50 min (49 km) - blisko lotniska i centrum\n- Rekomendowane min. 2-3 noce",
       "image": "images/08-ericeira.jpg"
     },
     {
@@ -183,7 +183,7 @@
       "atrakcje": "- Twierdza Fortaleza de Peniche (dawne więzienie polityczne, dziś muzeum)\n- Wyspy Berlengas - rezerwat przyrody, rejsy łodzią z Peniche (warto zarezerwować wcześniej)\n- Urokliwe uliczki Baleal",
       "surfing": "- **Baleal - Prainha** (Baleal North) - osłonięty wyspą, mały i łagodny, sezon maj-wrzesień idealnie pokrywa się z terminem wyjazdu - \"hub\" dla początkujących w regionie\n- **Cantinho da Baía** (Baleal South) - krok wyżej, dla średniozaawansowanych, bardziej odsłonięty\n- **Supertubos** - słynny, ciężki beach break, gospodarz zawodów WSL (październik-listopad, poza naszym terminem); latem bez charakterystycznego mocnego swellu z NW - \"zwykły\" beach break, tylko dla zaawansowanych gdy w ogóle działa\n- **Consolação** (kilka km na północ) - lewa strona to łagodna fala do longboardu, dobra opcja letnia dla średniozaawansowanych\n- **Areia Branca** (Lourinhã, ~12 km na południe) - dobra dla wszystkich poziomów przy mniejszej fali\n- Szkoły: Baleal Surf Camp (pierwszy surfcamp w Portugalii, od 1993), Drop Surf Center, Peniche Surf Camp - jeden z głównych ośrodków surfcampów w Europie",
       "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Ericeiry: ok. 45 min (45 km)\n- Odległość od Lizbony: ok. 1h 20 min (95 km)\n- Rekomendowane min. 2 noce",
+      "praktyczne_info": "- Odległość od Ericeiry: ok. 1h 05 min (98 km) - drogą przez wnętrze lądu, nie brzegiem, więc dłużej niż mogłoby się wydawać z mapy\n- Odległość od Lizbony: ok. 1h 20 min (103 km)\n- Rekomendowane min. 2 noce",
       "image": "images/09-peniche-baleal.jpg"
     },
     {
@@ -464,7 +464,7 @@
           "dzien": 8,
           "data": "25.07 (sob)",
           "miejsce": "Lizbona",
-          "plan": "Rano **dzień surfingowy** w Ericeirze - Foz do Lizandro (nauka) lub Ribeira d'Ilhas. Popołudnie przejazd do Lizbony (~40 min), zameldowanie na 3 noce, wieczór na Baixa/Chiado."
+          "plan": "Rano **dzień surfingowy** w Ericeirze - Foz do Lizandro (nauka) lub Ribeira d'Ilhas. Popołudnie przejazd do Lizbony (~40-50 min), zameldowanie na 3 noce, wieczór na Baixa/Chiado."
         },
         {
           "dzien": 9,
@@ -531,13 +531,13 @@
           "dzien": 4,
           "data": "24.07 (pt)",
           "miejsce": "Ericeira",
-          "plan": "Długi przejazd (~2h15). Zameldowanie, popołudniowy surfing na Foz do Lizandro, wieczorny spacer po miasteczku."
+          "plan": "Długi przejazd (~2h35). Zameldowanie, popołudniowy surfing na Foz do Lizandro, wieczorny spacer po miasteczku."
         },
         {
           "dzien": 5,
           "data": "25.07 (sob)",
           "miejsce": "Lizbona",
-          "plan": "Rano jeszcze jedna sesja w Ericeirze (Ribeira d'Ilhas), po południu przejazd do Lizbony (~40 min), zameldowanie na 3 noce, wieczór na Baixa/Chiado."
+          "plan": "Rano jeszcze jedna sesja w Ericeirze (Ribeira d'Ilhas), po południu przejazd do Lizbony (~40-50 min), zameldowanie na 3 noce, wieczór na Baixa/Chiado."
         },
         {
           "dzien": 6,

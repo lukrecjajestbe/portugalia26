@@ -7,8 +7,8 @@ Krótszy wariant - mocno ściśnięte Algarve/Alentejo/Ericeira/Peniche, żeby z
 | 1 | 21.07 (wt) | Faro → Sagres | Przylot do Faro, odbiór auta, przejazd do Sagres (~1h40 z krótkim postojem w Lagos na Ponta da Piedade). |
 | 2 | 22.07 (śr) | Sagres | **Dzień surfingowy** - Praia do Amado rano (przed Nortadą). Po południu Cabo de São Vicente, Fortaleza de Sagres. |
 | 3 | 23.07 (czw) | Vila Nova de Milfontes | Przejazd (~1h35, przez Zambujeira do Mar - krótki postój na widok klifów). **Dzień surfingowy** popołudniu na Praia do Malhão. |
-| 4 | 24.07 (pt) | Ericeira | Długi przejazd (~2h15). Zameldowanie, popołudniowy surfing na Foz do Lizandro, wieczorny spacer po miasteczku. |
-| 5 | 25.07 (sob) | Lizbona | Rano jeszcze jedna sesja w Ericeirze (Ribeira d'Ilhas), po południu przejazd do Lizbony (~40 min), zameldowanie na 3 noce, wieczór na Baixa/Chiado. |
+| 4 | 24.07 (pt) | Ericeira | Długi przejazd (~2h35). Zameldowanie, popołudniowy surfing na Foz do Lizandro, wieczorny spacer po miasteczku. |
+| 5 | 25.07 (sob) | Lizbona | Rano jeszcze jedna sesja w Ericeirze (Ribeira d'Ilhas), po południu przejazd do Lizbony (~40-50 min), zameldowanie na 3 noce, wieczór na Baixa/Chiado. |
 | 6 | 26.07 (nd) | Lizbona | Weekend w Lizbonie: Alfama, zamek São Jorge, tramwaj 28, wieczorem fado. |
 | 7 | 27.07 (pon) | Lizbona | Cały dzień: Sintra (Pałac Pena, Quinta da Regaleira) + Cabo da Roca. Wieczór w Lizbonie (Belém: wieża, klasztor, pastel de nata). |
 | 8 | 28.07 (wt) | Porto | Wcześnie rano przejazd przez Óbidos (krótki postój, spacer po murach) i Nazaré (widok, Sítio) do Porto (~4h z postojami). Wieczór: Ribeira, most Dom Luís I. |
