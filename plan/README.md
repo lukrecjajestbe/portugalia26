@@ -3,7 +3,7 @@
 Termin: **24.07 - 7.08 (14 dni)**, 2 osoby, wylot z Polski, średni standard. Każdy plan łączy sporty wodne z czymś do obejrzenia i kończy się orientacyjną wyceną kosztów dla pary.
 
 - [Sycylia](sycylia.md) - najlepszy balans sport wodny + kultura, najłatwiejsza logistyka, najtańszy dolot. ~4 100-6 350 €.
-- [Maroko](maroko.md) - surfing i wiatr Atlantyku + medyny, Atlas i noc na Saharze; minus to lipcowy upał w głębi kraju. ~3 550-6 000 €.
+- [Maroko](maroko.md) - surfing i wiatr Atlantyku + medyny, Atlas i noc na Saharze; pętla z Agadiru (tam prowadzą loty), minus to lipcowy upał w głębi kraju. ~3 500-5 900 €.
 - [Madagaskar](madagaskar.md) - nurkowanie/snorkeling światowej klasy i sezon na humbaki + lemury i tsingy; najbardziej przygodowy, najtrudniejszy i najdroższy w dolocie. ~5 750-8 300 €.
 
 ## Jak czytać wycenę

@@ -160,104 +160,104 @@
       "id": "maroko",
       "label": "Maroko",
       "title": "Maroko: 24.07 - 7.08 (14 dni)",
-      "intro": "Najbardziej egzotyczny z komfortowych kierunków: surfing i wiatr Atlantyku na wybrzeżu + medyny, souki, góry Atlas i noc na pustyni w głębi kraju. Trasa łączy chłodniejsze wybrzeże (Essaouira, Taghazout, Agadir) z klasykiem kultury (Marrakesz, Atlas, skraj Sahary), rozłożona tak, by upał w głębi kraju złapać krótkimi porcjami.",
+      "intro": "Najbardziej egzotyczny z komfortowych kierunków: surfing i wiatr Atlantyku na wybrzeżu + medyny, souki, góry Atlas i noc na pustyni w głębi kraju. Loty z Polski prowadzą do **Agadiru**, więc trasa to pętla: start nad chłodniejszym oceanem (aklimatyzacja + surfing), potem Essaouira i w głąb kraju do Marrakeszu, Atlasu i Sahary, na koniec powrót do Agadiru na wylot. Upał w głębi kraju łapiemy krótkimi porcjami w środku wyjazdu.",
       "dni": [
         {
           "dzien": 1,
           "data": "24.07 (pt)",
-          "miejsce": "Marrakesz",
-          "plan": "Lot z Polski (bezpośredni lub 1 przesiadka, ~4-6h). Zameldowanie w riadzie w medynie. Wieczór na placu Jemaa el-Fna (życie zaczyna się po zmroku, gdy spada upał).",
+          "miejsce": "Agadir → Taghazout",
+          "plan": "Lot z Polski do Agadiru (bezpośredni lub 1 przesiadka). Odbiór auta, przejazd do surferskiej wioski Taghazout (~30 min). Aklimatyzacja nad oceanem, zachód słońca, świeże ryby.",
           "image": "images/maroko-01.jpg"
         },
         {
           "dzien": 2,
           "data": "25.07 (sob)",
-          "miejsce": "Marrakesz",
-          "plan": "Medyna: pałac Bahia, Madrasa Ben Youssef, ogrody Majorelle, souki. Zwiedzanie rano i wieczorem, w południe basen w riadzie (lipiec = 38-42°C).",
+          "miejsce": "Taghazout",
+          "plan": "**Dzień surfingowy:** Anchor Point / Panorama / Devil's Rock; lato = mniejsza, łagodniejsza fala idealna do nauki. Popołudnie: joga / hammam.",
           "image": "images/maroko-02.jpg"
         },
         {
           "dzien": 3,
           "data": "26.07 (nd)",
-          "miejsce": "Essaouira",
-          "plan": "Przejazd nad ocean (~2h30). Ufortyfikowana medyna UNESCO, port, mewy, świeże ryby. Wieczorny spacer po murach (Skala).",
+          "miejsce": "Taghazout / Paradise Valley",
+          "plan": "Wypad do Paradise Valley (naturalne baseny w kanionie, skoki do wody, orzeźwienie). Popołudnie: druga sesja surfingu lub relaks na plaży.",
           "image": "images/maroko-03.jpg"
         },
         {
           "dzien": 4,
           "data": "27.07 (pon)",
           "miejsce": "Essaouira",
-          "plan": "**Sport wodny:** Essaouira słynie z wiatru - lekcja kitesurfingu lub windsurfingu, albo surfing na spokojniejszej fali. Klimat znośny dzięki bryzie od oceanu.",
+          "plan": "Przejazd wzdłuż wybrzeża na północ (~2h30-3h). Ufortyfikowana medyna UNESCO, port, mewy, wieczorny spacer po murach (Skala).",
           "image": "images/maroko-04.jpg"
         },
         {
           "dzien": 5,
           "data": "28.07 (wt)",
-          "miejsce": "Taghazout",
-          "plan": "Przejazd wzdłuż wybrzeża na południe (~2h30-3h). Taghazout - surferska wioska, relaks, zachód słońca nad oceanem.",
+          "miejsce": "Essaouira",
+          "plan": "**Sport wodny:** Essaouira słynie z wiatru - lekcja kitesurfingu lub windsurfingu, albo surfing na spokojniejszej fali. Klimat znośny dzięki bryzie od oceanu.",
           "image": "images/maroko-05.jpg"
         },
         {
           "dzien": 6,
           "data": "29.07 (śr)",
-          "miejsce": "Taghazout",
-          "plan": "**Dzień surfingowy:** Anchor Point / Panorama / Devil's Rock; lato = mniejsza, łagodniejsza fala idealna do nauki. Popołudnie: joga / hammam.",
+          "miejsce": "Marrakesz",
+          "plan": "Przejazd w głąb kraju (~2h45). Zameldowanie w riadzie w medynie. Wieczór na placu Jemaa el-Fna (życie zaczyna się po zmroku, gdy spada upał).",
           "image": "images/maroko-06.jpg"
         },
         {
           "dzien": 7,
           "data": "30.07 (czw)",
-          "miejsce": "Taghazout / Paradise Valley",
-          "plan": "Wypad do Paradise Valley (naturalne baseny w kanionie, skoki do wody, orzeźwienie od upału). Powrót na wieczór do Taghazout.",
+          "miejsce": "Marrakesz",
+          "plan": "Medyna: pałac Bahia, Madrasa Ben Youssef, ogrody Majorelle, souki. Zwiedzanie rano i wieczorem, w południe basen w riadzie (lipiec = 38-42°C).",
           "image": "images/maroko-07.jpg"
         },
         {
           "dzien": 8,
           "data": "31.07 (pt)",
-          "miejsce": "Marrakesz",
-          "plan": "Powrót do Marrakeszu (~2h30 z Agadiru). Popołudnie w riadzie, wieczorem kolacja z widokiem na Atlas / dach medyny.",
+          "miejsce": "Dolina Ourika (Atlas)",
+          "plan": "Wycieczka w Wysoki Atlas: dolina Ourika, wodospady Setti Fatma, berberyjskie wioski, chłodniej niż w mieście. Nocleg w górskim guesthouse.",
           "image": "images/maroko-08.jpg"
         },
         {
           "dzien": 9,
           "data": "1.08 (sob)",
-          "miejsce": "Dolina Ourika (Atlas)",
-          "plan": "Wycieczka w Wysoki Atlas: dolina Ourika, wodospady Setti Fatma, berberyjskie wioski, chłodniej niż w mieście. Nocleg w górskim guesthouse.",
+          "miejsce": "Aït Ben Haddou → Ouarzazate",
+          "plan": "Przejazd przez przełęcz Tizi n'Tichka do ksaru **Aït Ben Haddou** (UNESCO, plan filmowy - \"Gladiator\", \"Gra o Tron\"). Nocleg w Ouarzazate.",
           "image": "images/maroko-09.jpg"
         },
         {
           "dzien": 10,
           "data": "2.08 (nd)",
-          "miejsce": "Aït Ben Haddou → Ouarzazate",
-          "plan": "Przejazd przez przełęcz Tizi n'Tichka do ksaru **Aït Ben Haddou** (UNESCO, plan filmowy - \"Gladiator\", \"Gra o Tron\"). Nocleg w Ouarzazate.",
+          "miejsce": "Dolina Dades / skraj pustyni",
+          "plan": "Przejazd doliną róż i wąwozami Dades/Todra. Krajobrazy jak z Marsa, palmowe oazy. Nocleg w kasbie.",
           "image": "images/maroko-10.jpg"
         },
         {
           "dzien": 11,
           "data": "3.08 (pon)",
-          "miejsce": "Dolina Dades / skraj pustyni",
-          "plan": "Przejazd doliną róż i wąwozami Dades/Todra. Krajobrazy jak z Marsa, palmowe oazy. Nocleg w kasbie.",
+          "miejsce": "Pustynia (Erg Chebbi / Zagora)",
+          "plan": "**Noc na Saharze:** wielbłądy o zachodzie słońca, obóz na wydmach, muzyka berberyjska, gwiazdy. (Erg Chebbi ładniejsze, Zagora bliżej - wybór wg czasu.)",
           "image": "images/maroko-11.jpg"
         },
         {
           "dzien": 12,
           "data": "4.08 (wt)",
-          "miejsce": "Pustynia (Erg Chebbi / Zagora)",
-          "plan": "**Noc na Saharze:** wielbłądy o zachodzie słońca, obóz na wydmach, muzyka berberyjska, gwiazdy. (Erg Chebbi ładniejsze, Zagora bliżej - wybór wg czasu.)",
+          "miejsce": "Powrót Marrakesz",
+          "plan": "Wschód słońca na wydmach, powrót do Marrakeszu (dłuższy przejazd). Ostatni wieczór w mieście, hammam, zakupy na souku.",
           "image": "images/maroko-12.jpg"
         },
         {
           "dzien": 13,
           "data": "5.08 (śr)",
-          "miejsce": "Powrót Marrakesz",
-          "plan": "Wschód słońca na wydmach, powrót do Marrakeszu (dłuższy przejazd). Ostatni wieczór, hammam, zakupy na souku.",
+          "miejsce": "Agadir",
+          "plan": "Powrót nad ocean do Agadiru (~2h45). Popołudnie na plaży miejskiej, spacer po nadmorskiej promenadzie, kolacja z widokiem na zatokę.",
           "image": "images/maroko-13.jpg"
         },
         {
           "dzien": 14,
           "data": "6-7.08",
-          "miejsce": "Marrakesz → Polska",
-          "plan": "Zwrot auta / transfer, wylot z Marrakeszu. (Przy locie 7.08 - dodatkowa noc i poranek na to, czego brakło.)",
+          "miejsce": "Agadir → Polska",
+          "plan": "Zwrot auta, wylot z Agadiru. (Przy locie 7.08 - dodatkowa noc w Agadirze i poranek na kasbę Agadir Oufella / ostatnią sesję surfingu.)",
           "image": "images/maroko-14.jpg"
         }
       ],
@@ -268,12 +268,12 @@
         ],
         "rows": [
           [
-            "Loty PL ↔ Marrakesz",
+            "Loty PL ↔ Agadir",
             "500 - 1 000 € (250-500 €/os.)"
           ],
           [
-            "Wynajem auta 14 dni (lub kierowca na część trasy)",
-            "500 - 900 €"
+            "Wynajem auta 14 dni (odbiór i zwrot w Agadirze, bez opłaty one-way)",
+            "450 - 800 €"
           ],
           [
             "Paliwo + drobne opłaty",
@@ -297,17 +297,18 @@
           ],
           [
             "**Razem**",
-            "**~3 550 - 6 000 €** (≈ 15 100 - 25 600 zł)"
+            "**~3 500 - 5 900 €** (≈ 14 900 - 25 200 zł)"
           ]
         ]
       },
       "uwagi": [
-        "**Charakterystyka:** dużo kultury (medyny, souki, kasby, Sahara) + solidny surfing i sporty wietrzne na wybrzeżu. Najmocniejsza egzotyka z trzech kierunków. Główny minus: upał w głębi kraju w lipcu/sierpniu (Marrakesz, pustynia) - dlatego plan trzyma wybrzeże na środek, a upalne etapy skraca i rozkłada na rano/wieczór.",
-        "**Pogoda 24.07-7.08:** wybrzeże (Essaouira, Taghazout) znośne dzięki oceanicznej bryzie (~22-28°C), woda chłodniejsza (~19-21°C, pianka mile widziana). Głąb kraju bardzo gorąca: Marrakesz 38-42°C, pustynia w dzień skrajnie gorąca, noce przyjemne.",
+        "**Charakterystyka:** dużo kultury (medyny, souki, kasby, Sahara) + solidny surfing i sporty wietrzne na wybrzeżu. Najmocniejsza egzotyka z trzech kierunków. Główny minus: upał w głębi kraju w lipcu/sierpniu (Marrakesz, pustynia) - dlatego plan zaczyna i kończy nad oceanem, a upalne etapy w głębi trzyma w środku i rozkłada na rano/wieczór.",
+        "**Pogoda 24.07-7.08:** wybrzeże (Agadir, Taghazout, Essaouira) znośne dzięki oceanicznej bryzie (~22-28°C), woda chłodniejsza (~19-21°C, pianka mile widziana). Głąb kraju bardzo gorąca: Marrakesz 38-42°C, pustynia w dzień skrajnie gorąca, noce przyjemne.",
         "**Uwagi praktyczne:**",
+        "- Loty z Polski celują w **Agadir** (lotnisko Al Massira, ok. 30 min od Taghazout) - stąd trasa jako pętla z powrotem do Agadiru, dzięki czemu odbiór i zwrot auta są w tym samym mieście (brak opłaty one-way).",
         "- Wiza: obywatele PL bez wizy do 90 dni. Waluta: dirham (MAD), niewymienialny - wypłacać na miejscu z bankomatów.",
         "- Szczepienia: brak obowiązkowych; standardowo zalecane WZW A/B, dur - konsultacja z medycyną podróży. Zwracać uwagę na wodę (pić butelkowaną) i higienę jedzenia.",
-        "- Prowadzenie auta w medynach niemożliwe (wąskie uliczki) - parkować na obrzeżach; na pustynię/Atlas rozważyć zorganizowany tour z kierowcą zamiast samodzielnej jazdy.",
+        "- Prowadzenie auta w medynach niemożliwe (wąskie uliczki) - parkować na obrzeżach; na pustynię/Atlas rozważyć zorganizowany tour z kierowcą zamiast samodzielnej jazdy (można wtedy oddać auto w Agadirze i wrócić z pustyni transferem tour-operatora).",
         "- Ubiór: poza plażą/surfem raczej zakryte ramiona i kolana (szczególnie kobiety, w medynach i na wsi) - szacunek dla lokalnej kultury.",
         "- Targowanie na soukach to norma - zaczynać od ~40-50% ceny wywoławczej.",
         "- Najtańszy potencjalnie z trzech kierunków przy budżetowaniu, ale lipcowy upał w głębi to realny dyskomfort - jeśli źle znosicie gorąco, rozważcie Sycylię."
