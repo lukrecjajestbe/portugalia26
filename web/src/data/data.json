@@ -1,587 +1,283 @@
 {
-  "atrakcje": [
+  "plany": [
     {
-      "id": "01-faro",
-      "order": 1,
-      "title": "Faro",
-      "kategoria": "kultura",
-      "locations": [
-        {
-          "label": null,
-          "lat": 37.0164626,
-          "lng": -7.9351983,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=37.0164626,-7.9351983&query_place_id=ChIJp_qQIudSBQ0RWv9KSdTCc40"
-        }
-      ],
-      "opis": "Punkt startowy podróży - tu ląduje samolot i odbieramy wynajęty samochód. Stolica regionu Algarve, niewielkie, klimatyczne stare miasto (Cidade Velha) otoczone murami z XI wieku. Warto zajrzeć na godzinę-dwie przed wyruszeniem w trasę.",
-      "atrakcje": "- Cidade Velha (stare miasto) z katedrą Sé\n- Ria Formosa - park narodowy z lagunami, można popłynąć na wycieczkę łodzią do bezludnych wysp/plaż (Ilha Deserta)\n- Kaplica kości (Capela dos Ossos) przy kościele Igreja do Carmo",
-      "surfing": "Brak - miasto leży w lagunie, osłonięte od oceanu. Najbliższe spoty surfingowe to okolice Lagos/Sagres (~1-1.5h jazdy).",
-      "ma_surfing": false,
-      "praktyczne_info": "- Lotnisko Faro (FAO) - odbiór wynajętego auta na miejscu\n- W lipcu warto rezerwować samochód z dużym wyprzedzeniem (szczyt sezonu)",
-      "image": "images/01-faro.jpg"
-    },
-    {
-      "id": "02-lagos",
-      "order": 2,
-      "title": "Lagos",
-      "kategoria": "oba",
-      "locations": [
-        {
-          "label": null,
-          "lat": 37.1027881,
-          "lng": -8.6730275,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=37.1027881,-8.6730275&query_place_id=ChIJjU0jUEkwGw0RV_waR6OqEFQ"
-        }
-      ],
-      "opis": "Urokliwe miasteczko w Algarve, dobra baza wypadowa na pierwsze dni. Efektowne klify i groty wzdłuż wybrzeża (Ponta da Piedade).",
-      "atrakcje": "- Ponta da Piedade - klify, groty, punkt widokowy, rejsy łódką po jaskiniach\n- Praia Dona Ana, Praia do Camilo - piękne plaże między klifami\n- Stare miasto z murami obronnymi",
-      "surfing": "Lagos to głównie plaże osłonięte (dobre do pływania, nie do surfingu). Prawdziwy surfing zaczyna się dalej na zachód/północ (Sagres, Amado). W samym Lagos są szkoły surfingu organizujące transport na lepsze spoty.",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Faro: ok. 1h jazdy (75 km)\n- Dobra baza noclegowa na 1 noc na start trasy",
-      "image": "images/02-lagos.jpg"
-    },
-    {
-      "id": "03-sagres-cabo-sao-vicente",
-      "order": 3,
-      "title": "Sagres i Cabo de São Vicente",
-      "kategoria": "oba",
-      "locations": [
-        {
-          "label": null,
-          "lat": 37.0233333,
-          "lng": -8.9944444,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=37.0233333,-8.9944444&query_place_id=ChIJO28su-tNGw0RPz4JtFneqAU"
-        }
-      ],
-      "opis": "Najbardziej wysunięty na południowy zachód punkt Europy kontynentalnej (\"koniec świata\" dla dawnych żeglarzy). Dzikie klify, latarnia morska, przepiękne zachody słońca. Sagres to małe miasteczko surferskie z twierdzą.",
-      "atrakcje": "- Cabo de São Vicente - klify 75 m nad oceanem, latarnia morska, zachód słońca\n- Fortaleza de Sagres - twierdza na przylądku\n- Praia do Tonel, Praia da Mareta - plaże w Sagres",
-      "surfing": "Jeden z najlepszych regionów surfingowych w Portugalii - dzięki różnym ekspozycjom wybrzeża (południe i zachód) zawsze znajdzie się fala z dobrym wiatrem:\n- **Praia do Tonel** - fala dla początkujących i średniozaawansowanych, popularna wśród szkół surfingu\n- **Praia do Amado** (opis w osobnym folderze) - 15 min jazdy, główny spot regionu\n- Liczne szkoły surfingu w Sagres (np. Sagres Natura, Free Ride Surf Camp)",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Lagos: ok. 35 min (33 km)\n- Warto zostać 2 noce, żeby mieć pełny dzień na surfing",
-      "image": "images/03-sagres-cabo-sao-vicente.jpg"
-    },
-    {
-      "id": "04-praia-do-amado",
-      "order": 4,
-      "title": "Praia do Amado",
-      "kategoria": "surfing",
-      "locations": [
-        {
-          "label": null,
-          "lat": 37.1672129,
-          "lng": -8.903963,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=37.1672129,-8.903963&query_place_id=ChIJA7_PomdGGw0RlLzwcZ9hMKI"
-        }
-      ],
-      "opis": "Jedna z ikon surfingu w Algarve, w Parku Naturalnym Costa Vicentina. Szeroka, dzika plaża, malownicze skały.",
-      "atrakcje": "",
-      "surfing": "- Jeden z najlepszych spotów na małą letnią falę w Europie - osłonięty czerwonymi klifami przed popołudniowym wiatrem Nortada, najlepszy rano\n- Beach break piaszczysty, dobra dla wszystkich poziomów\n- Szkoły: Amado Surf Camp, Algarve Surf School (od 1997)\n- Blisko też: **Praia da Bordeira** (Carrapateira) - ogromna, ok. 3 km zatoka, południowa część przy ujściu rzeki łagodna dla początkujących, północna mocniejsza; szkoła Carrapateira Surf School działa na miejscu",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Sagres: ok. 15-20 min jazdy\n- Parking bezpośrednio przy plaży\n- Warto zarezerwować lekcję surfingu dzień wcześniej w sezonie",
-      "image": "images/04-praia-do-amado.jpg"
-    },
-    {
-      "id": "05-arrifana",
-      "order": 5,
-      "title": "Praia da Arrifana (Aljezur)",
-      "kategoria": "surfing",
-      "locations": [
-        {
-          "label": null,
-          "lat": 37.2940799,
-          "lng": -8.8639053,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=37.2940799,-8.8639053&query_place_id=ChIJa23pYTtAGw0RKuuTaAOrxyA"
-        }
-      ],
-      "opis": "Spektakularna plaża otoczona wysokimi klifami, jedna z najładniejszych na wybrzeżu Costa Vicentina. Ruiny fortu na klifie.",
-      "atrakcje": "- Ruiny Forte da Arrifana na klifie z widokiem na ocean\n- Rybacka wioska Vale Figueira nieopodal",
-      "surfing": "- Prawostronna fala przy skałach na północnym krańcu plaży - lubiana przez bardziej zaawansowanych surferów\n- Dużo miejsca do nauki na środkowej części plaży\n- Dobrze chroniona od wiatru north/northeast, częsta opcja gdy inne spoty są \"zdmuchnięte\"",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Sagres: ok. 30 min jazdy\n- Dobra opcja na przystanek w drodze na północ do Alentejo",
-      "image": "images/05-arrifana.jpg"
-    },
-    {
-      "id": "06-zambujeira-do-mar",
-      "order": 6,
-      "title": "Zambujeira do Mar",
-      "kategoria": "surfing",
-      "locations": [
-        {
-          "label": null,
-          "lat": 37.5254886,
-          "lng": -8.7839507,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=37.5254886,-8.7839507&query_place_id=ChIJvYvyS1MMGw0Rh8HinNjVYo4"
-        }
-      ],
-      "opis": "Malutkie, klimatyczne miasteczko rybackie na wybrzeżu Alentejo, na klifach nad Atlantykiem. Dużo bardziej kameralne i mniej turystyczne niż Algarve.",
-      "atrakcje": "- Klify i punkty widokowe wzdłuż plaży (Praia da Zambujeira do Mar)\n- Festiwal muzyczny \"Sudoeste\" odbywa się w okolicy (zwykle początek sierpnia, warto sprawdzić czy nie pokrywa się z terminem)\n- Spokojna atmosfera, dobre rybne restauracje",
-      "surfing": "- Praia da Zambujeira do Mar - solidna plaża surfingowa z falami dla różnych poziomów, mniej zatłoczona niż spoty w Algarve czy Ericeirze\n- Pobliska Praia da Amália - mniejsza, dzika, dla bardziej doświadczonych",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Arrifany: ok. 45 min jazdy\n- Dobry przystanek na nocleg w drodze z Algarve do centralnego wybrzeża",
-      "image": "images/06-zambujeira-do-mar.jpg"
-    },
-    {
-      "id": "07-vila-nova-de-milfontes",
-      "order": 7,
-      "title": "Vila Nova de Milfontes",
-      "kategoria": "surfing",
-      "locations": [
-        {
-          "label": null,
-          "lat": 37.7240021,
-          "lng": -8.7817552,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=37.7240021,-8.7817552&query_place_id=ChIJxYQwEXChGw0RgCH890QVU24"
-        }
-      ],
-      "opis": "Popularna miejscowość wakacyjna Portugalczyków u ujścia rzeki Mira do oceanu. Ładna plaża rzeczna dla osób, które nie surfują, oraz oceaniczna dla surferów.",
-      "atrakcje": "- Widok na ujście rzeki Mira i fort Forte de São Clemente\n- Rejsy kajakiem/SUP po rzece Mira\n- Malownicze uliczki starówki",
-      "surfing": "- Praia do Farol / Praia da Franquia - łagodniejsze fale przy ujściu rzeki, dobre dla początkujących\n- Praia das Furnas - bardziej otwarta na ocean, dla średniozaawansowanych\n- Dobra opcja jako \"dzień odpoczynku\" z surfingiem o mniejszej intensywności",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Zambujeira do Mar: ok. 25 min jazdy\n- Można też traktować jako alternatywny nocleg zamiast Zambujeira",
-      "image": "images/07-vila-nova-de-milfontes.jpg"
-    },
-    {
-      "id": "08-ericeira",
-      "order": 8,
-      "title": "Ericeira",
-      "kategoria": "surfing",
-      "locations": [
-        {
-          "label": null,
-          "lat": 38.9664933,
-          "lng": -9.4176169,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=38.9664933,-9.4176169&query_place_id=ChIJtXkReZ8nHw0Re8H0_DHnyf0"
-        }
-      ],
-      "opis": "**Najważniejszy przystanek surfingowy trasy.** Jedyny \"World Surfing Reserve\" w Europie (status nadany w 2011, na wzór rezerwatów przyrody - ochrona jakości fal na całym odcinku wybrzeża). Klimatyczne miasteczko z białymi domami, świetna baza na kilka dni surfingu.",
-      "atrakcje": "- Stare miasto i punkty widokowe na klifach\n- Liczne restauracje z owocami morza\n- Rynek rybny",
-      "surfing": "Ericeira ma 7 spotów w promieniu kilku km, każdy inny - można surfować codziennie na innej fali niezależnie od kierunku wiatru/swellu:\n- **Foz do Lizandro** - najlepszy w okolicy do nauki, uznawany za nr 1 beach break dla początkujących w Portugalii, kilka pików, łagodne fale\n- **Ribeira d'Ilhas** - najsłynniejsza fala, gospodarz zawodów World Surf League (WSL), długa prawa reef/point break, działa nawet na mniejszym letnim swellu; lewa przy ujściu rzeki łagodniejsza. Dla średnio-zaawansowanych/zaawansowanych\n- **Praia do Sul** (centrum) - mieszany piaszczysto-skalisty beach break, osłonięty od dużego swellu, dobra opcja letnia\n- **São Lourenço** - działa niemal cały rok nawet na małym swellu, mniej zatłoczony, dla średnio-zaawansowanych/zaawansowanych\n- **Coxos** - światowej klasy prawa rurująca fala, ale w lipcu (mały swell) praktycznie nie działa - tylko do oglądania\n- Szkoły surfingu: Progress Surf School (Ribamar), Ericeira Waves Surf School, Surf with Pepe, Ericeira Surf School, Blue Ocean, Boardculture Surf School",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Vila Nova de Milfontes: ok. 2h 35 min (233 km)\n- Odległość od Lizbony: ok. 45-50 min (49 km) - blisko lotniska i centrum\n- Rekomendowane min. 2-3 noce",
-      "image": "images/08-ericeira.jpg"
-    },
-    {
-      "id": "09-peniche-baleal",
-      "order": 9,
-      "title": "Peniche i Baleal",
-      "kategoria": "surfing",
-      "locations": [
-        {
-          "label": "Baleal",
-          "lat": 39.3588028,
-          "lng": -9.3615114,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=39.3588028,-9.3615114"
-        },
-        {
-          "label": "Supertubos",
-          "lat": 39.340681,
-          "lng": -9.3608936,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=39.340681,-9.3608936&query_place_id=ChIJj2xcUiRJHw0RRza0-sn3HOM"
-        }
-      ],
-      "opis": "Półwysep rybacki, druga stolica surfingu w Portugalii obok Ericeiry. Baleal to malutka wyspa połączona wąskim pasem lądu/plażą z lądem stałym - bardzo fotogeniczne miejsce.",
-      "atrakcje": "- Twierdza Fortaleza de Peniche (dawne więzienie polityczne, dziś muzeum)\n- Wyspy Berlengas - rezerwat przyrody, rejsy łodzią z Peniche (warto zarezerwować wcześniej)\n- Urokliwe uliczki Baleal",
-      "surfing": "- **Baleal - Prainha** (Baleal North) - osłonięty wyspą, mały i łagodny, sezon maj-wrzesień idealnie pokrywa się z terminem wyjazdu - \"hub\" dla początkujących w regionie\n- **Cantinho da Baía** (Baleal South) - krok wyżej, dla średniozaawansowanych, bardziej odsłonięty\n- **Supertubos** - słynny, ciężki beach break, gospodarz zawodów WSL (październik-listopad, poza naszym terminem); latem bez charakterystycznego mocnego swellu z NW - \"zwykły\" beach break, tylko dla zaawansowanych gdy w ogóle działa\n- **Consolação** (kilka km na północ) - lewa strona to łagodna fala do longboardu, dobra opcja letnia dla średniozaawansowanych\n- **Areia Branca** (Lourinhã, ~12 km na południe) - dobra dla wszystkich poziomów przy mniejszej fali\n- Szkoły: Baleal Surf Camp (pierwszy surfcamp w Portugalii, od 1993), Drop Surf Center, Peniche Surf Camp - jeden z głównych ośrodków surfcampów w Europie",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Ericeiry: ok. 1h 05 min (98 km) - drogą przez wnętrze lądu, nie brzegiem, więc dłużej niż mogłoby się wydawać z mapy\n- Odległość od Lizbony: ok. 1h 20 min (103 km)\n- Rekomendowane min. 2 noce",
-      "image": "images/09-peniche-baleal.jpg"
-    },
-    {
-      "id": "10-obidos",
-      "order": 10,
-      "title": "Óbidos",
-      "kategoria": "kultura",
-      "locations": [
-        {
-          "label": null,
-          "lat": 39.3572399,
-          "lng": -9.1578614,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=39.3572399,-9.1578614&query_place_id=ChIJxd4e7560GA0RsztNs4piChc"
-        }
-      ],
-      "opis": "Jedno z najpiękniejszych średniowiecznych miasteczek Portugalii - całe otoczone murami obronnymi, po których można spacerować. Białe domki z niebieskimi/żółtymi obwódkami, kwiaty, wąskie uliczki.",
-      "atrakcje": "- Spacer po murach obronnych (widok na miasto i okolicę)\n- Zamek Óbidos (dziś częściowo pousada/hotel)\n- Ginjinha - lokalny likier wiśniowy serwowany w czekoladowym kubeczku, sprzedawany na każdym rogu\n- Kościół Santa Maria",
-      "surfing": "Brak - miasteczko leży kilkanaście km od wybrzeża (śródlądowe). Traktować jako przystanek kulturalny w drodze między Peniche/Ericeirą a Nazaré.",
-      "ma_surfing": false,
-      "praktyczne_info": "- Odległość od Peniche: ok. 30 min jazdy\n- Wystarczą 2-3 godziny na zwiedzanie, niekoniecznie nocleg",
-      "image": "images/10-obidos.jpg"
-    },
-    {
-      "id": "11-sintra",
-      "order": 11,
-      "title": "Sintra",
-      "kategoria": "kultura",
-      "locations": [
-        {
-          "label": null,
-          "lat": 38.8233416,
-          "lng": -9.3229213,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=38.8233416,-9.3229213&query_place_id=ChIJIzPS5ZvQHg0RIDeQ5L3rAAQ"
-        }
-      ],
-      "opis": "Bajkowe miasteczko w górach niedaleko Lizbony, wpisane na listę UNESCO. Kolorowe pałace i posiadłości ukryte w mgle i lesie - jedna z najbardziej obowiązkowych atrakcji w okolicach stolicy.",
-      "atrakcje": "- **Palácio da Pena** - kolorowy, baśniowy pałac na szczycie wzgórza (kup bilet online wcześniej, w lipcu ogromne kolejki)\n- **Quinta da Regaleira** - tajemnicza posiadłość z \"studnią inicjacyjną\" (spiralne schody w dół)\n- **Castelo dos Mouros** - ruiny maurytańskiego zamku z widokiem na ocean\n- Stare miasto Sintry z lokalnymi słodyczami (travesseiros, queijadas)",
-      "surfing": "Brak bezpośrednio w Sintrze, ale to świetna baza wypadowa do Cabo da Roca i plaż Praia Grande / Praia das Maçãs (10-15 min jazdy) - fale odpowiednie dla początkujących.",
-      "ma_surfing": false,
-      "praktyczne_info": "- Odległość od Lizbony: ok. 40 min pociągiem lub samochodem\n- W lipcu bardzo tłoczno - warto przyjechać wcześnie rano\n- Cały dzień to minimum żeby zobaczyć 2-3 pałace",
-      "image": "images/11-sintra.jpg"
-    },
-    {
-      "id": "12-cabo-da-roca",
-      "order": 12,
-      "title": "Cabo da Roca",
-      "kategoria": "kultura",
-      "locations": [
-        {
-          "label": null,
-          "lat": 38.7804282,
-          "lng": -9.4989171,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=38.7804282,-9.4989171&query_place_id=ChIJjUNdI8DaHg0Rr7P8mKjYOpU"
-        }
-      ],
-      "opis": "Najbardziej wysunięty na zachód punkt Europy kontynentalnej. Wysokie klify (140 m), latarnia morska, certyfikat \"punktu krańcowego Europy\" do kupienia na miejscu.",
-      "atrakcje": "- Punkt widokowy i pamiątkowy certyfikat\n- Krótkie szlaki spacerowe wzdłuż klifów",
-      "surfing": "Brak bezpośrednio przy przylądku (zbyt niebezpieczne klify), ale bardzo blisko dobrych spotów:\n- **Praia Grande, Praia das Maçãs** - kilka minut jazdy, dobre dla początkujących i szkół surfingu\n- **Praia da Adraga** - dzika, malownicza plaża, mocniejsza fala",
-      "ma_surfing": false,
-      "praktyczne_info": "- Odległość od Sintry: ok. 20 min jazdy\n- Dobrze połączyć z dniem w Sintrze jako jeden wypad",
-      "image": "images/12-cabo-da-roca.jpg"
-    },
-    {
-      "id": "13-lizbona",
-      "order": 13,
-      "title": "Lizbona",
-      "kategoria": "oba",
-      "locations": [
-        {
-          "label": null,
-          "lat": 38.7222524,
-          "lng": -9.1393366,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=38.7222524,-9.1393366&query_place_id=ChIJO_PkYRozGQ0R0DaQ5L3rAAQ"
-        }
-      ],
-      "opis": "Stolica Portugalii, obowiązkowy przystanek trasy. Miasto siedmiu wzgórz, żółte tramwaje, kolorowe kamienice, widoki na rzekę Tag.",
-      "atrakcje": "- **Belém**: Wieża Belém, Klasztor Hieronimitów (Mosteiro dos Jerónimos, UNESCO), Pomnik Odkrywców, oryginalne pastel de nata w Pastéis de Belém\n- **Alfama**: najstarsza dzielnica, zamek São Jorge, wieczorami fado na żywo\n- **Baixa/Chiado**: centrum, Praça do Comércio, wjazd windą Elevador de Santa Justa\n- Tramwaj linii 28 przez najstarsze dzielnice\n- LX Factory - klimatyczna dzielnica kreatywna w starej fabryce\n- Miradouros (punkty widokowe): da Graça, das Portas do Sol, da Senhora do Monte",
-      "surfing": "Miasto samo nie ma plaż surfingowych, ale jest świetną bazą wypadową (30-40 min) do:\n- **Costa da Caparica** (po drugiej stronie rzeki) - opis osobno\n- **Praia de Carcavelos** - najbliższa Lizbonie plaża surfingowa, popularna wśród lokalnych szkół surfingu, dobra dla początkujących\n- Ericeira i Peniche są też w zasięgu dnia (patrz osobne foldery)",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Sintry: 30-40 min\n- Rekomendowane min. 2-3 noce na zwiedzanie miasta\n- Duże wzniesienia - wygodne buty obowiązkowe",
-      "image": "images/13-lizbona.jpg"
-    },
-    {
-      "id": "14-costa-da-caparica",
-      "order": 14,
-      "title": "Costa da Caparica",
-      "kategoria": "surfing",
-      "locations": [
-        {
-          "label": null,
-          "lat": 38.644553,
-          "lng": -9.2333757,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=38.644553,-9.2333757&query_place_id=ChIJM6dn5IrKHg0RHeVNwp-nleA"
-        }
-      ],
-      "opis": "Ogromna, kilkunastokilometrowa plaża tuż za rzeką Tag, naprzeciwko Lizbony (widoczna spod pomnika Cristo Rei). Bardzo popularna wśród samych lizbończyków w weekendy.",
-      "atrakcje": "",
-      "surfing": "- Jeden z najpopularniejszych spotów surfingowych blisko dużego miasta w Europie\n- Wiele oznaczonych stref plażowych (Praia do CDS, São João, Praia Nova) - fale zróżnicowane, coś dla każdego poziomu\n- Dziesiątki szkół surfingu, wypożyczalni, surfcampów - łatwo o lekcję z dnia na dzień\n- Dobra opcja na \"dzień surfingu\" połączony z pobytem w Lizbonie (nie trzeba zmieniać noclegu)",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Lizbony: ok. 30 min jazdy (przez most 25 kwietnia) lub prom + autobus\n- Można zrobić jako wycieczkę jednodniową z Lizbony, zamiast dokładać nocleg",
-      "image": "images/14-costa-da-caparica.jpg"
-    },
-    {
-      "id": "15-arrabida",
-      "order": 15,
-      "title": "Park Naturalny Arrábida",
-      "kategoria": "kultura",
-      "locations": [
-        {
-          "label": null,
-          "lat": 38.4693714,
-          "lng": -9.0643419,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=38.4693714,-9.0643419&query_place_id=ChIJMZYyndlPGQ0RKFtywsDF6K4"
-        }
-      ],
-      "opis": "Pasmo gór schodzące wprost do turkusowego morza - jedne z najpiękniejszych plaż w Portugalii, przypominające bardziej Morze Śródziemne niż Atlantyk.",
-      "atrakcje": "- **Praia da Portinho da Arrábida** - krystalicznie czysta, turkusowa woda, plaża osłonięta zatoką\n- Miasteczko Sesimbra - urokliwy port rybacki\n- Klasztor/twierdza na wzgórzu z widokiem na zatokę\n- Serra da Arrábida - punkty widokowe wzdłuż drogi N379-1",
-      "surfing": "Zatoka jest osłonięta, więc surfingu tu nie ma (za to świetne miejsce na relaks/pływanie/snorkeling jako przerwa od fal). W pobliskiej Sesimbrze i dalej w stronę Sines są dzikie plaże z falą dla bardziej doświadczonych.",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Lizbony: ok. 40-50 min jazdy\n- Warto zrobić jako wycieczkę jednodniową (dzień \"bez surfingu\", relaks) w drodze na południe lub z Lizbony",
-      "image": "images/15-arrabida.jpg"
-    },
-    {
-      "id": "16-nazare",
-      "order": 16,
-      "title": "Nazaré",
-      "kategoria": "oba",
-      "locations": [
-        {
-          "label": null,
-          "lat": 39.6015562,
-          "lng": -9.0677509,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=39.6015562,-9.0677509&query_place_id=ChIJF9RqLyOoGA0RbxBCr3HY0gM"
-        }
-      ],
-      "opis": "Światowa stolica gigantycznych fal - tu bito rekordy świata na największej fali surfowanej w historii (do 25-30 m, zima: październik-marzec). W lipcu fale są dużo mniejsze i spokojniejsze, ale samo miejsce (Praia do Norte i klify Sítio) robi wrażenie.",
-      "atrakcje": "- **Praia do Norte i punkt widokowy przy latarni (Farol da Nazaré)** - słynne miejsce gdzie robi się zdjęcia gigantycznym falom zimą; latem można zobaczyć samo miejsce i kanion podwodny odpowiedzialny za fenomen\n- Dzielnica Sítio na klifie - dojazd funikularem (Ascensor da Nazaré)\n- Miasteczko rybackie z tradycyjnymi łodziami i suszonymi rybami na plaży",
-      "surfing": "- W lipcu fale przy Praia do Norte są zbyt małe/niebezpieczne dla amatorów (silne prądy) - to spot wyłącznie dla zawodowców (tow-in surfing) i to głównie zimą\n- Za to **główna plaża miasta (Praia da Nazaré)** ma spokojniejsze warunki, dobre dla początkujących w lecie\n- Traktować Nazaré głównie jako atrakcję widokową/kulturalną, nie surfingową",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Óbidos: ok. 30 min jazdy\n- Wystarczy pół dnia / 1 nocleg",
-      "image": "images/16-nazare.jpg"
-    },
-    {
-      "id": "17-sao-pedro-de-moel",
-      "order": 17,
-      "title": "São Pedro de Moel",
-      "kategoria": "oba",
-      "locations": [
-        {
-          "label": null,
-          "lat": 39.757847,
-          "lng": -9.0297883,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=39.757847,-9.0297883&query_place_id=ChIJnVrQu3YFIg0RgPmAT8DrAAo"
-        }
-      ],
-      "opis": "Malutka, kameralna miejscowość wypoczynkowa otoczona lasem sosnowym (Pinhal de Leiria), z klifami i jaskiniami. Mniej znana turystom zagranicznym, popularna wśród Portugalczyków.",
-      "atrakcje": "- Klify i jaskinie morskie w pobliżu latarni\n- Las sosnowy Pinhal de Leiria - ścieżki rowerowe/spacerowe\n- Spokojna, kameralna atmosfera - dobra na przerwę w podróży",
-      "surfing": "- Fala odpowiednia dla początkujących i średniozaawansowanych, mniej zatłoczona niż Peniche czy Ericeira\n- Dobry przystanek \"po drodze\" między Nazaré/Óbidos a Aveiro/Porto",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Nazaré: ok. 30 min jazdy\n- Opcjonalny przystanek, jeśli zostaje czas w trasie na północ",
-      "image": "images/17-sao-pedro-de-moel.jpg"
-    },
-    {
-      "id": "18-aveiro-costa-nova",
-      "order": 18,
-      "title": "Aveiro i Costa Nova",
-      "kategoria": "oba",
-      "locations": [
-        {
-          "label": "Aveiro",
-          "lat": 40.6405055,
-          "lng": -8.6537539,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.6405055,-8.6537539&query_place_id=ChIJjeey1Q6YIw0RBx88Ac3hQjA"
-        },
-        {
-          "label": "Costa Nova",
-          "lat": 40.6418453,
-          "lng": -8.6489511,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40.6418453,-8.6489511&query_place_id=ChIJffzAew-YIw0R4Pn4LbU4t2w"
-        }
-      ],
-      "opis": "\"Portugalska Wenecja\" - miasto kanałów z kolorowymi łódkami moliceiro. Costa Nova to nadmorska dzielnica słynąca z pasiastych domków w stylu palheiro (czerwono-białe, niebiesko-białe pasy).",
-      "atrakcje": "- Rejs łódką moliceiro po kanałach Aveiro\n- Kolorowe domki w paski w Costa Nova - jedno z najbardziej fotogenicznych miejsc w Portugalii\n- Ovos moles - lokalny słodki przysmak\n- Muzeum Aveiro (dawny klasztor)",
-      "surfing": "- **Costa Nova / Praia da Barra** - szeroka plaża, solidna fala dla średniozaawansowanych, mniej zatłoczona niż spoty w centrum/południu kraju\n- Praia da Barra ma też najwyższą latarnię morską w Portugalii (i jedną z najwyższych w Europie)",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od São Pedro de Moel: ok. 1h jazdy\n- Odległość od Porto: ok. 1h jazdy (70 km) - dobry ostatni przystanek przed metą",
-      "image": "images/18-aveiro-costa-nova.jpg"
-    },
-    {
-      "id": "19-porto",
-      "order": 19,
-      "title": "Porto",
-      "kategoria": "oba",
-      "locations": [
-        {
-          "label": null,
-          "lat": 41.1579438,
-          "lng": -8.6291053,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=41.1579438,-8.6291053&query_place_id=ChIJwVPhxKtlJA0RvBSxQFbZSKY"
-        }
-      ],
-      "opis": "Meta trasy - stąd wylatujemy do Polski. Drugie co do wielkości miasto Portugalii, malownicze wzgórza nad rzeką Duero, kolorowe kamienice, słynne piwnice porto.",
-      "atrakcje": "- **Ribeira** - nadrzeczna dzielnica UNESCO, kolorowe kamienice, restauracje\n- **Most Dom Luís I** - górny poziom dla pieszych, świetny widok i zachody słońca (przyjść 30-45 min wcześniej)\n- **Livraria Lello** - jedna z najpiękniejszych księgarni świata (wymaga biletu wstępu z wyprzedzeniem, iść od razu po otwarciu)\n- **Piwnice porto w Vila Nova de Gaia** - Graham's, Taylor's, Sandeman, Cálem, Ferreira - degustacje, warto rezerwować z wyprzedzeniem\n- **Dworzec São Bento** - hall z ok. 20 000 płytek azulejo, wstęp wolny\n- Dzielnica Foz do Douro - tam gdzie rzeka spotyka ocean",
-      "surfing": "- **Praia de Matosinhos** (opis osobno) - najbliższy Porto spot surfingowy\n- Miasto samo w sobie to dobry finał trasy - ostatnie fale można złapać w Matosinhos przed oddaniem auta i lotem",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od Aveiro: ok. 55 min (74 km)\n- Lotnisko Porto (OPO) - tu oddajemy wynajęty samochód (zwrot w innym mieście niż wypożyczenie: dopłata za \"one-way\", mocno zróżnicowana zależnie od firmy, warto porównać przy rezerwacji)\n- Rekomendowane min. 2 noce",
-      "image": "images/19-porto.jpg"
-    },
-    {
-      "id": "20-matosinhos",
-      "order": 20,
-      "title": "Praia de Matosinhos (Porto)",
-      "kategoria": "surfing",
-      "locations": [
-        {
-          "label": null,
-          "lat": 41.1763702,
-          "lng": -8.6926763,
-          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=41.1763702,-8.6926763&query_place_id=ChIJ2d-8zjxvJA0RP2Ac4rtI_FM"
-        }
-      ],
-      "opis": "Miejska plaża Porto, tuż przy porcie handlowym (Leixões). Szeroka plaska plaża, popularna wśród lokalnych surferów i studentów.",
-      "atrakcje": "",
-      "surfing": "- Solidny beach break, dobra fala dla początkujących i średniozaawansowanych\n- Blisko centrum Porto (tramwaj/metro), więc świetna opcja na \"ostatni surf\" przed oddaniem auta i lotem powrotnym\n- Kilka szkół surfingu w okolicy (np. Instituto Universitário de Surf)",
-      "ma_surfing": true,
-      "praktyczne_info": "- Odległość od centrum Porto: ok. 20 min (metro linia A lub samochód)\n- Dobra opcja na przedostatni/ostatni dzień trasy",
-      "image": "images/20-matosinhos.jpg"
-    }
-  ],
-  "plany": {
-    "wariant_a": {
-      "title": "Wariant A: 18.07 - 31.07 (14 dni)",
-      "intro": "Więcej czasu = więcej dni surfingowych i luźniejsze tempo. 3 dni w Lizbonie (obejmujące weekend 25-26.07) i 2 dni w Porto na koniec.",
+      "id": "sycylia",
+      "label": "Sycylia",
+      "title": "Sycylia: 24.07 - 7.08 (14 dni)",
+      "intro": "**Szacunkowy koszt dla 2 osób / 14 dni (średni standard):**",
       "dni": [
         {
           "dzien": 1,
-          "data": "18.07 (sob)",
-          "miejsce": "Faro → Lagos",
-          "plan": "Przylot do Faro, odbiór auta, krótki spacer po starówce Faro, przejazd do Lagos (~1h). Wieczór w Lagos."
+          "data": "24.07 (pt)",
+          "miejsce": "Katania",
+          "plan": "Bezpośredni lot z Polski (~3h). Odbiór auta, zameldowanie w Katanii. Wieczorny spacer po barokowym centrum (Piazza del Duomo, targ rybny La Pescheria)."
         },
         {
           "dzien": 2,
-          "data": "19.07 (nd)",
-          "miejsce": "Lagos",
-          "plan": "Ponta da Piedade rano (klify, groty, rejs łódką), plaże Dona Ana/Camilo. Pierwszy kontakt z deską - opcjonalna lekcja surfingu w okolicy."
+          "data": "25.07 (sob)",
+          "miejsce": "Katania → Taormina",
+          "plan": "Rano Etna: wyjazd kolejką/4x4 na kratery lub trekking z przewodnikiem. Po południu przejazd do Taorminy, teatr grecki o zachodzie słońca."
         },
         {
           "dzien": 3,
-          "data": "20.07 (pon)",
-          "miejsce": "Sagres",
-          "plan": "Przejazd do Sagres (35 min). Popołudnie: surfing w Tonel lub Praia do Amado (15-20 min od Sagres)."
+          "data": "26.07 (nd)",
+          "miejsce": "Taormina",
+          "plan": "**Sport wodny:** Isola Bella - snorkeling, kajak morski, rejs wzdłuż wybrzeża (groty, zatoczki). Popołudnie na plaży."
         },
         {
           "dzien": 4,
-          "data": "21.07 (wt)",
-          "miejsce": "Sagres",
-          "plan": "**Dzień surfingowy** - Praia do Amado rano (przed Nortadą). Po południu Cabo de São Vicente na zachód słońca, Fortaleza de Sagres."
+          "data": "27.07 (pon)",
+          "miejsce": "Syrakuzy",
+          "plan": "Przejazd na południe (~1h30). Ortygia - wyspa-serce Syrakuz (katedra na świątyni Ateny, Fontanna Aretuzy), wieczór w uliczkach."
         },
         {
           "dzien": 5,
-          "data": "22.07 (śr)",
-          "miejsce": "Zambujeira do Mar",
-          "plan": "Przejazd do Alentejo (~1h15). Po południu surfing na Praia da Zambujeira do Mar, wieczorem klify i kolacja rybna."
+          "data": "28.07 (wt)",
+          "miejsce": "Syrakuzy",
+          "plan": "Rano park archeologiczny Neapolis (teatr grecki, Ucho Dionizosa). Po południu **kąpiel/snorkeling** w rezerwacie Plemmirio lub kajak wokół Ortygii."
         },
         {
           "dzien": 6,
-          "data": "23.07 (czw)",
-          "miejsce": "Vila Nova de Milfontes",
-          "plan": "Przejazd (~25 min). **Dzień surfingowy** na Praia do Malhão (sezon maj-wrzesień - idealnie w terminie). Popołudnie: SUP/kajak po rzece Mira."
+          "data": "29.07 (śr)",
+          "miejsce": "Noto → Marzamemi",
+          "plan": "Noto - stolica sycylijskiego baroku (zjawiskowa Via Nicolaci). Wieczorem urokliwa rybacka Marzamemi, kolacja przy piazzy."
         },
         {
           "dzien": 7,
-          "data": "24.07 (pt)",
-          "miejsce": "Ericeira",
-          "plan": "Długi przejazd (~2h40, autostradą). Zameldowanie, wieczorny spacer po miasteczku i kolacja."
+          "data": "30.07 (czw)",
+          "miejsce": "Ragusa / Modica",
+          "plan": "Ragusa Ibla i Modica (barok UNESCO, czekolada z Modiki). Spokojniejszy, \"kulturowy\" dzień z dobrym jedzeniem."
         },
         {
           "dzien": 8,
-          "data": "25.07 (sob)",
-          "miejsce": "Lizbona",
-          "plan": "Rano **dzień surfingowy** w Ericeirze - Foz do Lizandro (nauka) lub Ribeira d'Ilhas. Popołudnie przejazd do Lizbony (~40-50 min), zameldowanie na 3 noce, wieczór na Baixa/Chiado."
+          "data": "31.07 (pt)",
+          "miejsce": "Agrigento",
+          "plan": "Przejazd na zachód (~2h30). **Dolina Świątyń** - najlepiej późnym popołudniem/o zmierzchu (mniej upału, świątynie podświetlone)."
         },
         {
           "dzien": 9,
-          "data": "26.07 (nd)",
-          "miejsce": "Lizbona",
-          "plan": "Weekend w Lizbonie: Alfama, zamek São Jorge, tramwaj 28, wieczorem fado."
+          "data": "1.08 (sob)",
+          "miejsce": "Scala dei Turchi → Trapani",
+          "plan": "Rano biały klif Scala dei Turchi (kąpiel). Przejazd do Trapani, wieczorem saliny (solniska) o zachodzie słońca."
         },
         {
           "dzien": 10,
-          "data": "27.07 (pon)",
-          "miejsce": "Lizbona",
-          "plan": "Cały dzień: Sintra (Pałac Pena - bilet z wyprzedzeniem, Quinta da Regaleira) + Cabo da Roca. Powrót do Lizbony na wieczór (Belém: wieża, klasztor, pastel de nata)."
+          "data": "2.08 (nd)",
+          "miejsce": "Wyspy Egadzkie (Favignana)",
+          "plan": "**Dzień na wodzie:** prom na Favignanę, rower po wyspie, snorkeling w Cala Rossa (jedna z najpiękniejszych wód Morza Śródziemnego)."
         },
         {
           "dzien": 11,
-          "data": "28.07 (wt)",
-          "miejsce": "Peniche/Baleal",
-          "plan": "Przejazd (~1h20). Po drodze Óbidos jako przystanek kulturalny (spacer po murach, ginjinha). **Popołudnie surfingowe** na Baleal - Prainha."
+          "data": "3.08 (pon)",
+          "miejsce": "Erice → San Vito lo Capo",
+          "plan": "Erice - średniowieczne miasteczko na szczycie góry (dojazd kolejką linową). Po południu plaża San Vito lo Capo (turkusowa woda)."
         },
         {
           "dzien": 12,
-          "data": "29.07 (śr)",
-          "miejsce": "Porto",
-          "plan": "Rano ostatni surf w Baleal/Supertubos (do oglądania jeśli za mocne). Przejazd przez Nazaré (widok na Praia do Norte, Sítio) i Aveiro (kanały, Costa Nova) do Porto (~4h z postojami). Wieczór: Ribeira, most Dom Luís I."
+          "data": "4.08 (wt)",
+          "miejsce": "Rezerwat Zingaro → Cefalù",
+          "plan": "Rano trekking i **snorkeling** w rezerwacie Zingaro (dzikie zatoczki). Przejazd do Cefalù (~2h)."
         },
         {
           "dzien": 13,
-          "data": "30.07 (czw)",
-          "miejsce": "Porto",
-          "plan": "Livraria Lello (bilet wcześniej), piwnice porto w Vila Nova de Gaia, ew. surf w Matosinhos."
+          "data": "5.08 (śr)",
+          "miejsce": "Cefalù → Palermo",
+          "plan": "Rano plaża i normańska katedra w Cefalù. Po południu Palermo: katedra, Quattro Canti, targ Ballarò, street food (arancini, panelle)."
         },
         {
           "dzien": 14,
-          "data": "31.07 (pt)",
-          "miejsce": "-",
-          "plan": "Oddanie auta, wylot z Porto."
+          "data": "6-7.08",
+          "miejsce": "Palermo → Polska",
+          "plan": "Zwrot auta, wylot z Palermo. (Jeśli lot dopiero 7.08 - dodatkowa noc w Palermo i poranek na Cappella Palatina.)"
         }
       ],
-      "uwagi": "- Ten wariant daje 2 pełne dni surfingowe w Sagres, 2 w Alentejo, 1 w Ericeirze i pół dnia w Peniche - łącznie ok. 5-6 sesji surfingowych (mniej niż poprzednia wersja planu, kosztem 3 dni w Lizbonie i 2 w Porto).\n- Lizbona (dni 8-10) obejmuje pełny weekend (sob-nd 25-26.07), czyli miasto tętni życiem - warto zarezerwować restauracje/fado na weekend z wyprzedzeniem.\n- Dzień 12 jest długi (2 przystanki kulturalne + przejazd ~300 km) - jeśli to za dużo, można pominąć Aveiro i jechać prosto Nazaré → Porto (ok. 2h15 zamiast 4h z postojami).\n- Jeśli lot z Porto 31.07 jest po południu, można dołożyć pół dnia zwiedzania Porto rano przed oddaniem auta.\n- Alternatywa: skrócić Alentejo do 1 dnia (zamiast 2) i dodać dodatkowy dzień w Peniche (najbogatszy region surfingowy po Ericeirze) zamiast skracania Ericeiry."
+      "uwagi": "**Charakterystyka:** najlepszy balans sport wodny + kultura z trzech kierunków. Morze ciepłe (~26°C) i spokojne - snorkeling, kajak, rejsy, kąpiele; do tego gęsto rozmieszczone zabytki (Etna, teatry greckie, barok UNESCO, Dolina Świątyń). Najłatwiejsza logistyka i najkrótszy dolot.\n\n**Pogoda 24.07-7.08:** szczyt lata, gorąco (30-36°C, w głębi wyspy potrafi więcej), słonecznie, morze idealne do kąpieli. Zwiedzanie zabytków najlepiej rano lub późnym popołudniem, w południe przerwa/plaża.\n\n**Szacunkowy koszt dla 2 osób / 14 dni (średni standard):**\n\n| Pozycja | Koszt (2 os.) |\n|---|---|\n| Loty bezpośrednie PL ↔ Katania/Palermo | 500 - 900 € (250-450 €/os.) |\n| Wynajem auta 14 dni (klasa kompakt) | 500 - 800 € |\n| Paliwo + autostrady + parkingi | 250 - 350 € |\n| Noclegi 13 nocy (3-4* / dobre B&B) | 1 500 - 2 300 € |\n| Promy na wyspy + rejsy/kajaki/snorkeling | 250 - 400 € |\n| Bilety wstępu (Etna, parki archeologiczne, Dolina Świątyń) | 200 - 300 € |\n| Jedzenie i wino | 900 - 1 300 € |\n| **Razem** | **~4 100 - 6 350 €** (≈ 17 500 - 27 100 zł) |\n\n**Uwagi praktyczne:**\n- Strefa euro, brak wizy, brak szczepień - najprostszy formalnie kierunek.\n- Auto rezerwować wcześnie (sierpień = szczyt, ceny rosną); Katania i Palermo jako odbiór/zwrot w różnych miastach - sprawdzić opłatę one-way.\n- ZTL (strefy ograniczonego ruchu) w centrach miast - zostawiać auto na parkingach peryferyjnych, żeby uniknąć mandatów.\n- Etna: sprawdzić aktywność wulkanu i rezerwować wejście na górne kratery z przewodnikiem z wyprzedzeniem.\n- Najtańszy i najmniej ryzykowny z trzech wariantów - dobry, gdy priorytetem jest komfort i różnorodność bez trudnej logistyki."
     },
-    "wariant_b": {
-      "title": "Wariant B: 21.07 - 31.07 (11 dni)",
-      "intro": "Krótszy wariant - mocno ściśnięte Algarve/Alentejo/Ericeira/Peniche, żeby zmieścić 3 dni w Lizbonie (obejmujące weekend 25-26.07) i 2 dni w Porto.",
+    {
+      "id": "maroko",
+      "label": "Maroko",
+      "title": "Maroko: 24.07 - 7.08 (14 dni)",
+      "intro": "**Szacunkowy koszt dla 2 osób / 14 dni (średni standard):**",
       "dni": [
         {
           "dzien": 1,
-          "data": "21.07 (wt)",
-          "miejsce": "Faro → Sagres",
-          "plan": "Przylot do Faro, odbiór auta, przejazd do Sagres (~1h40 z krótkim postojem w Lagos na Ponta da Piedade)."
+          "data": "24.07 (pt)",
+          "miejsce": "Marrakesz",
+          "plan": "Lot z Polski (bezpośredni lub 1 przesiadka, ~4-6h). Zameldowanie w riadzie w medynie. Wieczór na placu Jemaa el-Fna (życie zaczyna się po zmroku, gdy spada upał)."
         },
         {
           "dzien": 2,
-          "data": "22.07 (śr)",
-          "miejsce": "Sagres",
-          "plan": "**Dzień surfingowy** - Praia do Amado rano (przed Nortadą). Po południu Cabo de São Vicente, Fortaleza de Sagres."
+          "data": "25.07 (sob)",
+          "miejsce": "Marrakesz",
+          "plan": "Medyna: pałac Bahia, Madrasa Ben Youssef, ogrody Majorelle, souki. Zwiedzanie rano i wieczorem, w południe basen w riadzie (lipiec = 38-42°C)."
         },
         {
           "dzien": 3,
-          "data": "23.07 (czw)",
-          "miejsce": "Vila Nova de Milfontes",
-          "plan": "Przejazd (~1h35, przez Zambujeira do Mar - krótki postój na widok klifów). **Dzień surfingowy** popołudniu na Praia do Malhão."
+          "data": "26.07 (nd)",
+          "miejsce": "Essaouira",
+          "plan": "Przejazd nad ocean (~2h30). Ufortyfikowana medyna UNESCO, port, mewy, świeże ryby. Wieczorny spacer po murach (Skala)."
         },
         {
           "dzien": 4,
-          "data": "24.07 (pt)",
-          "miejsce": "Ericeira",
-          "plan": "Długi przejazd (~2h35). Zameldowanie, popołudniowy surfing na Foz do Lizandro, wieczorny spacer po miasteczku."
+          "data": "27.07 (pon)",
+          "miejsce": "Essaouira",
+          "plan": "**Sport wodny:** Essaouira słynie z wiatru - lekcja kitesurfingu lub windsurfingu, albo surfing na spokojniejszej fali. Klimat znośny dzięki bryzie od oceanu."
         },
         {
           "dzien": 5,
-          "data": "25.07 (sob)",
-          "miejsce": "Lizbona",
-          "plan": "Rano jeszcze jedna sesja w Ericeirze (Ribeira d'Ilhas), po południu przejazd do Lizbony (~40-50 min), zameldowanie na 3 noce, wieczór na Baixa/Chiado."
+          "data": "28.07 (wt)",
+          "miejsce": "Taghazout",
+          "plan": "Przejazd wzdłuż wybrzeża na południe (~2h30-3h). Taghazout - surferska wioska, relaks, zachód słońca nad oceanem."
         },
         {
           "dzien": 6,
-          "data": "26.07 (nd)",
-          "miejsce": "Lizbona",
-          "plan": "Weekend w Lizbonie: Alfama, zamek São Jorge, tramwaj 28, wieczorem fado."
+          "data": "29.07 (śr)",
+          "miejsce": "Taghazout",
+          "plan": "**Dzień surfingowy:** Anchor Point / Panorama / Devil's Rock; lato = mniejsza, łagodniejsza fala idealna do nauki. Popołudnie: joga / hammam."
         },
         {
           "dzien": 7,
-          "data": "27.07 (pon)",
-          "miejsce": "Lizbona",
-          "plan": "Cały dzień: Sintra (Pałac Pena, Quinta da Regaleira) + Cabo da Roca. Wieczór w Lizbonie (Belém: wieża, klasztor, pastel de nata)."
+          "data": "30.07 (czw)",
+          "miejsce": "Taghazout / Paradise Valley",
+          "plan": "Wypad do Paradise Valley (naturalne baseny w kanionie, skoki do wody, orzeźwienie od upału). Powrót na wieczór do Taghazout."
         },
         {
           "dzien": 8,
-          "data": "28.07 (wt)",
-          "miejsce": "Porto",
-          "plan": "Wcześnie rano przejazd przez Óbidos (krótki postój, spacer po murach) i Nazaré (widok, Sítio) do Porto (~4h z postojami). Wieczór: Ribeira, most Dom Luís I."
+          "data": "31.07 (pt)",
+          "miejsce": "Marrakesz",
+          "plan": "Powrót do Marrakeszu (~2h30 z Agadiru). Popołudnie w riadzie, wieczorem kolacja z widokiem na Atlas / dach medyny."
         },
         {
           "dzien": 9,
-          "data": "29.07 (śr)",
-          "miejsce": "Porto",
-          "plan": "Livraria Lello (bilet wcześniej), piwnice porto w Vila Nova de Gaia, popołudniu surfing w Matosinhos."
+          "data": "1.08 (sob)",
+          "miejsce": "Dolina Ourika (Atlas)",
+          "plan": "Wycieczka w Wysoki Atlas: dolina Ourika, wodospady Setti Fatma, berberyjskie wioski, chłodniej niż w mieście. Nocleg w górskim guesthouse."
         },
         {
           "dzien": 10,
-          "data": "30.07 (czw)",
-          "miejsce": "Porto",
-          "plan": "Dzień bufor: powtórka ulubionych miejsc w Porto, ew. wypad do Aveiro/Costa Nova (~1h w jedną stronę) jeśli zostanie czas i chęć."
+          "data": "2.08 (nd)",
+          "miejsce": "Aït Ben Haddou → Ouarzazate",
+          "plan": "Przejazd przez przełęcz Tizi n'Tichka do ksaru **Aït Ben Haddou** (UNESCO, plan filmowy - \"Gladiator\", \"Gra o Tron\"). Nocleg w Ouarzazate."
         },
         {
           "dzien": 11,
-          "data": "31.07 (pt)",
-          "miejsce": "-",
-          "plan": "Oddanie auta, wylot z Porto."
+          "data": "3.08 (pon)",
+          "miejsce": "Dolina Dades / skraj pustyni",
+          "plan": "Przejazd doliną róż i wąwozami Dades/Todra. Krajobrazy jak z Marsa, palmowe oazy. Nocleg w kasbie."
+        },
+        {
+          "dzien": 12,
+          "data": "4.08 (wt)",
+          "miejsce": "Pustynia (Erg Chebbi / Zagora)",
+          "plan": "**Noc na Saharze:** wielbłądy o zachodzie słońca, obóz na wydmach, muzyka berberyjska, gwiazdy. (Erg Chebbi ładniejsze, Zagora bliżej - wybór wg czasu.)"
+        },
+        {
+          "dzien": 13,
+          "data": "5.08 (śr)",
+          "miejsce": "Powrót Marrakesz",
+          "plan": "Wschód słońca na wydmach, powrót do Marrakeszu (dłuższy przejazd). Ostatni wieczór, hammam, zakupy na souku."
+        },
+        {
+          "dzien": 14,
+          "data": "6-7.08",
+          "miejsce": "Marrakesz → Polska",
+          "plan": "Zwrot auta / transfer, wylot z Marrakeszu. (Przy locie 7.08 - dodatkowa noc i poranek na to, czego brakło.)"
         }
       ],
-      "uwagi": "- Ten wariant daje 1 pełny dzień surfingowy w Sagres, pół dnia w Alentejo, 1.5 dnia w Ericeirze i pół dnia w Matosinhos - łącznie ok. 3-4 sesje surfingowe (najmniej ze wszystkich wersji planu, bo priorytetem stały się Lizbona i Porto).\n- Ten wariant **rezygnuje z Peniche/Baleal** jako osobnego noclegu (nie mieści się w 11 dniach przy 3 dniach Lizbony i 2 dniach Porto) - jeśli Peniche jest ważniejsze niż dzień bufor w Porto (dzień 10), zamień je miejscami.\n- Lizbona (dni 5-7) obejmuje pełny weekend (sob-nd 25-26.07) - warto zarezerwować restauracje/fado z wyprzedzeniem.\n- Dzień 8 jest długi (przystanki kulturalne + przejazd ~300 km) - jeśli to za dużo, jedź prosto do Porto (ok. 3h) i zwiedź Óbidos/Nazaré po drodze innym razem.\n- Dzień 10 to celowy bufor (na złą pogodę, zmęczenie, albo dodatkowy surf) - jeśli wolisz więcej surfingu niż odpoczynku, zamień go na dodatkowy dzień w Peniche wpleciony między dzień 4 a 5."
+      "uwagi": "**Charakterystyka:** dużo kultury (medyny, souki, kasby, Sahara) + solidny surfing i sporty wietrzne na wybrzeżu. Najmocniejsza egzotyka z trzech kierunków. Główny minus: upał w głębi kraju w lipcu/sierpniu (Marrakesz, pustynia) - dlatego plan trzyma wybrzeże na środek, a upalne etapy skraca i rozkłada na rano/wieczór.\n\n**Pogoda 24.07-7.08:** wybrzeże (Essaouira, Taghazout) znośne dzięki oceanicznej bryzie (~22-28°C), woda chłodniejsza (~19-21°C, pianka mile widziana). Głąb kraju bardzo gorąca: Marrakesz 38-42°C, pustynia w dzień skrajnie gorąca, noce przyjemne.\n\n**Szacunkowy koszt dla 2 osób / 14 dni (średni standard):**\n\n| Pozycja | Koszt (2 os.) |\n|---|---|\n| Loty PL ↔ Marrakesz | 500 - 1 000 € (250-500 €/os.) |\n| Wynajem auta 14 dni (lub kierowca na część trasy) | 500 - 900 € |\n| Paliwo + drobne opłaty | 200 - 300 € |\n| Noclegi 13 nocy (riady 3-4* + kasby + obóz na pustyni) | 1 100 - 1 800 € |\n| Surfing / kite / lekcje | 250 - 400 € |\n| Wycieczka na pustynię (2-3 dni z obozem) | 400 - 700 € |\n| Jedzenie, hammam, souki | 600 - 900 € |\n| **Razem** | **~3 550 - 6 000 €** (≈ 15 100 - 25 600 zł) |\n\n**Uwagi praktyczne:**\n- Wiza: obywatele PL bez wizy do 90 dni. Waluta: dirham (MAD), niewymienialny - wypłacać na miejscu z bankomatów.\n- Szczepienia: brak obowiązkowych; standardowo zalecane WZW A/B, dur - konsultacja z medycyną podróży. Zwracać uwagę na wodę (pić butelkowaną) i higienę jedzenia.\n- Prowadzenie auta w medynach niemożliwe (wąskie uliczki) - parkować na obrzeżach; na pustynię/Atlas rozważyć zorganizowany tour z kierowcą zamiast samodzielnej jazdy.\n- Ubiór: poza plażą/surfem raczej zakryte ramiona i kolana (szczególnie kobiety, w medynach i na wsi) - szacunek dla lokalnej kultury.\n- Targowanie na soukach to norma - zaczynać od ~40-50% ceny wywoławczej.\n- Najtańszy potencjalnie z trzech kierunków przy budżetowaniu, ale lipcowy upał w głębi to realny dyskomfort - jeśli źle znosicie gorąco, rozważcie Sycylię."
+    },
+    {
+      "id": "madagaskar",
+      "label": "Madagaskar",
+      "title": "Madagaskar: 24.07 - 7.08 (14 dni)",
+      "intro": "**Szacunkowy koszt dla 2 osób / 14 dni (średni standard):**",
+      "dni": [
+        {
+          "dzien": 1,
+          "data": "24.07 (pt)",
+          "miejsce": "Samolot → Antananarivo",
+          "plan": "Przelot z Polski z 1-2 przesiadkami (Air France przez Paryż, Ethiopian przez Addis Abebę, Turkish przez Stambuł). Cała podróż ~16-22h. Nocleg przy lotnisku w stolicy (Tana)."
+        },
+        {
+          "dzien": 2,
+          "data": "25.07 (sob)",
+          "miejsce": "Nosy Be",
+          "plan": "Poranny lot krajowy Tana → Nosy Be (Tsaradia/Madagascar Airlines, ~1h30). Transfer do hotelu, aklimatyzacja, pierwsza plaża (Ambatoloaka lub Andilana). Wieczorem świeże owoce morza."
+        },
+        {
+          "dzien": 3,
+          "data": "26.07 (nd)",
+          "miejsce": "Nosy Be",
+          "plan": "**Sport wodny:** dzień nurkowy lub snorkeling w rezerwacie morskim Nosy Tanikely (żółwie, rafa, 20+ m widoczności). Popołudnie relaks na plaży."
+        },
+        {
+          "dzien": 4,
+          "data": "27.07 (pon)",
+          "miejsce": "Nosy Be",
+          "plan": "**Obserwacja wielorybów** - rejs łodzią za humbakami (lipiec-wrzesień to sezon, w wodzie z waleniami nie wolno - obserwacja z pokładu). Po drodze snorkeling."
+        },
+        {
+          "dzien": 5,
+          "data": "28.07 (wt)",
+          "miejsce": "Nosy Komba / Nosy Iranja",
+          "plan": "Wycieczka łodzią: Nosy Komba (lemury maki, wioska rzemieślnicza) + Nosy Iranja (rajska plaża z piaszczystą mierzeją łączącą dwie wyspy). Snorkeling po drodze."
+        },
+        {
+          "dzien": 6,
+          "data": "29.07 (śr)",
+          "miejsce": "Nosy Be",
+          "plan": "Drugi dzień nurkowy (dla nurków: pinakle Nosy Be, wrak; dla reszty: snorkeling + SUP/kajak). Zachód słońca na Mont Passot (jeziora wulkaniczne)."
+        },
+        {
+          "dzien": 7,
+          "data": "30.07 (czw)",
+          "miejsce": "Nosy Be → Ankify → Ankarana",
+          "plan": "Prom na kontynent (Ankify, ~30-45 min) + przejazd do Parku Narodowego Ankarana (~2-3h). Nocleg w lodge przy parku."
+        },
+        {
+          "dzien": 8,
+          "data": "31.07 (pt)",
+          "miejsce": "Ankarana",
+          "plan": "**Zwiedzanie natury:** tsingy (ostre wapienne iglice), jaskinie, lemury koronowane, kanion. Cały dzień trekkingu z przewodnikiem."
+        },
+        {
+          "dzien": 9,
+          "data": "1.08 (sob)",
+          "miejsce": "Powrót Nosy Be",
+          "plan": "Powrót przez Ankify na Nosy Be. Popołudnie odpoczynku, ostatnie zakupy (wanilia, przyprawy, rękodzieło)."
+        },
+        {
+          "dzien": 10,
+          "data": "2.08 (nd)",
+          "miejsce": "Nosy Be",
+          "plan": "Dzień bufor / dodatkowy rejs lub nurkowanie zależnie od pogody (lipiec-wrzesień bywa wietrznie, morze potrafi być wzburzone)."
+        },
+        {
+          "dzien": 11,
+          "data": "3.08 (pon)",
+          "miejsce": "Nosy Be → Antananarivo",
+          "plan": "Lot krajowy z powrotem do stolicy. Popołudnie: spacer po Tanie (pałac Rova, targ, tarasy ryżowe wokół miasta)."
+        },
+        {
+          "dzien": 12,
+          "data": "4.08 (wt)",
+          "miejsce": "Andasibe",
+          "plan": "Przejazd na wschód do Parku Narodowego Andasibe-Mantadia (~3-4h). Wieczorny spacer nocny (nokturnalne lemury, kameleony)."
+        },
+        {
+          "dzien": 13,
+          "data": "5.08 (śr)",
+          "miejsce": "Andasibe → Tana",
+          "plan": "Poranny trekking - **indri** (największy lemur, słynne \"śpiewanie\"). Powrót do stolicy, ostatnia noc."
+        },
+        {
+          "dzien": 14,
+          "data": "6-7.08",
+          "miejsce": "Samolot → Polska",
+          "plan": "Wylot z Antananarivo (często wieczorem/nocą), przylot do Polski 7.08 po przesiadkach."
+        }
+      ],
+      "uwagi": "**Charakterystyka:** najwięcej sportów wodnych światowej klasy (nurkowanie, snorkeling, sezon na humbaki) + unikatowa przyroda (lemury, tsingy, baobaby), ale mało \"kultury/zabytków\". Loty wewnętrzne i słabe drogi zżerają czas - to kierunek przygodowy, nie leniwy.\n\n**Pogoda 24.07-7.08:** pora sucha, na wybrzeżu ~25-30°C i woda ~25°C (idealnie), w środku kraju (Tana, ok. 1300 m) chłodno, nocą nawet 5-10°C - zabrać ciepłą warstwę.\n\n**Szacunkowy koszt dla 2 osób / 14 dni (średni standard):**\n\n| Pozycja | Koszt (2 os.) |\n|---|---|\n| Loty międzynarodowe PL ↔ Antananarivo | 2 400 - 3 200 € (1 200-1 600 €/os.) |\n| Loty krajowe Tana ↔ Nosy Be (2x) | 500 - 800 € |\n| Noclegi 12 nocy (3-4* / dobre lodge) | 1 200 - 1 800 € |\n| Nurkowanie / rejsy / wieloryby | 500 - 800 € |\n| Wstęp do parków + przewodnicy (obowiązkowi) | 250 - 400 € |\n| Transfery, prom, kierowca na kontynencie | 400 - 600 € |\n| Jedzenie i drobne | 500 - 700 € |\n| **Razem** | **~5 750 - 8 300 €** (≈ 24 500 - 35 400 zł) |\n\n**Uwagi praktyczne:**\n- Wiza turystyczna na Madagaskar - dostępna po przylocie (eVisa online lub na lotnisku), potrzebny ważny paszport i bilet powrotny.\n- Wymagane/zalecane szczepienia (żółta gorączka jeśli przez kraj ryzyka, WZW, dur brzuszny) + profilaktyka malarii - skonsultować z medycyną podróży 4-6 tyg. przed.\n- Loty krajowe rezerwować wcześnie i z buforem - potrafią być przesuwane; nie planować wąskich przesiadek na lot międzynarodowy tego samego dnia.\n- Najdroższy z trzech kierunków głównie przez dolot i loty wewnętrzne; jednocześnie najbardziej \"raz w życiu\"."
     }
-  },
-  "dla_poczatkujacych": {
-    "rekomendowane": "1. **[Praia do Amado](04-praia-do-amado/)** (Algarve, Carrapateira) - jeden z najlepszych letnich spotów dla początkujących w Europie, osłonięty od popołudniowego wiatru, piaszczyste dno, kilka szkół na miejscu (Amado Surf Camp, Algarve Surf School). **Priorytet nr 1 w Algarve.**\n2. **Praia da Bordeira** (obok Amado, opisane w tym samym folderze co Amado) - południowa część przy ujściu rzeki bardzo łagodna, Carrapateira Surf School działa na miejscu.\n3. **Praia do Tonel** (Sagres, opisane w [folderze Sagres](03-sagres-cabo-sao-vicente/)) - osłonięty od Nortady, dobry przy małym letnim swellu.\n4. **[Vila Nova de Milfontes - Praia do Malhão](07-vila-nova-de-milfontes/)** (Alentejo) - szkoły SurfMilfontes i Alentejo Surf School działają tu właśnie od maja do września, czyli dokładnie w Waszym terminie.\n5. **Praia das Furnas / Praia da Franquia** (Vila Nova de Milfontes, opisane w tym samym folderze) - najbardziej osłonięte, dla kompletnych początkujących i rodzin.\n6. **Foz do Lizandro** (Ericeira, opisane w [folderze Ericeira](08-ericeira/)) - uznawany za najlepszy beach break do nauki w całej Portugalii, praktycznie każda szkoła w Ericeirze uczy właśnie tu.\n7. **[Baleal - Prainha](09-peniche-baleal/)** (Peniche) - osłonięty wyspą, mały i łagodny, \"hub\" dla początkujących w regionie, sezon maj-wrzesień pokrywa się z Waszym wyjazdem. **Priorytet nr 1 w Peniche.**\n8. **[Costa da Caparica](14-costa-da-caparica/)** (koło Lizbony) - dziesiątki szkół surfingu, łatwo o lekcję z dnia na dzień, dobra opcja jako wypad z Lizbony bez zmiany noclegu.\n9. **[Praia de Matosinhos](20-matosinhos/)** (Porto) - dobry, łagodny beach break na \"ostatni surf\" przed oddaniem auta.",
-    "unikac": "- **Supertubos** (Peniche) - ciężki, potężny beach break, gospodarz zawodów WSL\n- **Coxos** i **Ribeira d'Ilhas** (Ericeira) - światowej klasy fale reef/point break, silne prądy\n- **Beliche** (Sagres) - reef break, wymaga dużego swellu i doświadczenia\n- **Praia do Norte** (Nazaré) - dom gigantycznych fal (zimą), latem płasko, ale i tak niebezpieczne prądy\n- **Zambujeira Left** (Zambujeira do Mar) - ciężka, płytka fala tylko dla zaawansowanych",
-    "rezerwacja": "W lipcu (szczyt sezonu) warto rezerwować lekcję surfingu przynajmniej dzień wcześniej, szczególnie w Ericeirze i Peniche gdzie jest najwięcej turystów. Dobra praktyka: pierwsza lekcja z instruktorem w Algarve (Amado) na rozgrzewkę, potem więcej samodzielnego surfowania w Alentejo/Ericeira/Peniche gdy już złapiecie balans."
-  }
+  ]
 }

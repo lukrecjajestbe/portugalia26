@@ -26,7 +26,7 @@ jobs:
       - name: Zainstaluj zaleznosci Pythona
         run: uv sync
 
-      - name: Wygeneruj data.json z atrakcje/ i plan/
+      - name: Wygeneruj data.json z plan/
         run: uv run scripts/build_data.py
 
       - uses: actions/setup-node@v4

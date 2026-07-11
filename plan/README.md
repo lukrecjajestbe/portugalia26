@@ -1,25 +1,21 @@
-# Plan podróży - Portugalia (surfing road trip)
+# Plany wakacyjne 2026 - 3 kierunki do wyboru
 
-Trasa: Faro (przylot, wynajem auta) → Algarve → Alentejo → Ericeira/Peniche → Lizbona (+ okolice) → Nazaré → Aveiro → Porto (zwrot auta, wylot).
+Termin: **24.07 - 7.08 (14 dni)**, 2 osoby, wylot z Polski, średni standard. Każdy plan łączy sporty wodne z czymś do obejrzenia i kończy się orientacyjną wyceną kosztów dla pary.
 
-Dwa warianty czasowe:
-- [Wariant A: 18.07 - 31.07 (14 dni)](wariant-a-18-31-lipca.md)
-- [Wariant B: 21.07 - 31.07 (11 dni)](wariant-b-21-31-lipca.md)
+- [Sycylia](sycylia.md) - najlepszy balans sport wodny + kultura, najłatwiejsza logistyka, najtańszy dolot. ~4 100-6 350 €.
+- [Maroko](maroko.md) - surfing i wiatr Atlantyku + medyny, Atlas i noc na Saharze; minus to lipcowy upał w głębi kraju. ~3 550-6 000 €.
+- [Madagaskar](madagaskar.md) - nurkowanie/snorkeling światowej klasy i sezon na humbaki + lemury i tsingy; najbardziej przygodowy, najtrudniejszy i najdroższy w dolocie. ~5 750-8 300 €.
 
-Oba warianty przewidują **3 dni w Lizbonie** (obejmujące weekend 25-26.07) i **2 dni w Porto** na koniec trasy - kosztem skrócenia czasu w Algarve/Alentejo/Ericeirze/Peniche (szczegóły w uwagach każdego wariantu).
+## Jak czytać wycenę
 
-## Wspólne założenia
-- Lipiec = szczyt sezonu turystycznego, ale **najsłabszy sezon dla dużych fal** na wybrzeżu zachodnim (najlepszy okres na fale to wrzesień-maj). W praktyce oznacza to mniejsze, bardziej łagodne fale - świetne dla nauki i średniozaawansowanych, gorzej dla szukających dużych, mocnych fal.
-- Na południowym wybrzeżu Algarve codziennie ok. 11:00-14:00 wieje silny wiatr termiczny **Nortada** (15-25 węzłów) - surfować najlepiej rano.
-- Wynajem auta na lotnisku Faro w lipcu: rezerwować z dużym wyprzedzeniem, ceny 2-3x wyższe przy rezerwacji "na już". Rozważyć kombi/SUV (deski surfingowe) i dopytać o bagażnik dachowy (potwierdzony u Sixt).
-- **Zwrot auta w Porto (inne miasto niż odbiór)**: opłata "one-way" mocno się różni między firmami (od ok. 50 € do nawet 460-800 €) - koniecznie porównać przy rezerwacji, duże marki (Sixt, Europcar, Hertz, Avis, Budget) zwykle tańsze niż lokalne firmy.
-- **Myto (Via Verde)**: obowiązkowe elektroniczne urządzenie w każdym wynajętym aucie. Płaci się realne zużyte myto + opłata serwisowa 2,21 €/dzień z limitem 22,14 € na cały wynajem (limit i tak osiągany po ok. 10 dniach). Rozliczenie kartą po zwrocie auta.
-- Bilety **z wyprzedzeniem** kupić na: Pałac Pena w Sintrze (1-2 miesiące wcześniej), Livraria Lello w Porto, ewentualnie degustacje w piwnicach porto (Graham's).
-- Do Sintry (historyczne centrum) samochodem się nie wjeżdża - trzeba zostawić auto na parkingu peryferyjnym i dojechać lokalnym transportem/tuk-tukiem.
+Kwoty są orientacyjne, dla 2 osób łącznie na całe 14 dni, w euro (i w przeliczeniu na złotówki po kursie ~4,27 zł/€). Zakres dolny to oszczędniejszy wariant średniego standardu, górny to wygodniejszy. Nie obejmują ubezpieczenia, pamiątek ani rezerwy na nieprzewidziane.
 
-## Priorytety surfingowe (dużo surfowania = priorytet)
-1. **Ericeira** - "World Surfing Reserve", jedyny taki status w Europie, 7 różnych spotów w promieniu kilku km
-2. **Peniche/Baleal** - druga stolica surfingu, Baleal idealny do nauki (sezon maj-wrzesień pokrywa się z terminem)
-3. **Sagres/Praia do Amado** (Algarve) - świetna letnia fala, osłonięta od popołudniowego wiatru
-4. **Alentejo (Vila Nova de Milfontes, Zambujeira do Mar)** - mniej zatłoczone, solidna fala
-5. Dodatkowo: Costa da Caparica (blisko Lizbony), Matosinhos (blisko Porto) jako "surf na koniec"
+## Skrót porównawczy
+
+| Kryterium | Sycylia | Maroko | Madagaskar |
+|---|---|---|---|
+| Sporty wodne | snorkeling, kajak, rejsy | surfing, kite/windsurfing | nurkowanie, snorkeling, wieloryby |
+| Do obejrzenia | Etna, barok, teatry greckie | medyny, Atlas, Sahara | lemury, tsingy, baobaby |
+| Pogoda w lipcu | gorąco, morze idealne | wybrzeże OK, głąb upał 40°C+ | pora sucha, chłodniej |
+| Logistyka | bardzo łatwa | łatwa | trudna (loty krajowe, drogi) |
+| Koszt (2 os.) | ~4,1-6,4 tys. € | ~3,6-6,0 tys. € | ~5,8-8,3 tys. € |

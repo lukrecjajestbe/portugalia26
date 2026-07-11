@@ -1,81 +1,32 @@
 import { useState } from 'react'
 import data from './data/data.json'
-import MapView from './components/MapView'
-import AttractionCard from './components/AttractionCard'
 import PlanTimeline from './components/PlanTimeline'
-import BeginnerGuide from './components/BeginnerGuide'
-
-const TABS = [
-  { id: 'atrakcje', label: 'Atrakcje i mapa' },
-  { id: 'wariant_a', label: 'Plan: 18-31.07' },
-  { id: 'wariant_b', label: 'Plan: 21-31.07' },
-  { id: 'poczatkujacy', label: 'Dla początkujących' },
-]
-
-const CATEGORY_FILTERS = [
-  { id: 'wszystkie', label: 'Wszystkie' },
-  { id: 'surfing', label: 'Surfing' },
-  { id: 'kultura', label: 'Kultura' },
-  { id: 'oba', label: 'Surfing + kultura' },
-]
 
 function App() {
-  const [tab, setTab] = useState('atrakcje')
-  const [kategoria, setKategoria] = useState('wszystkie')
+  const [tab, setTab] = useState(data.plany[0]?.id)
 
-  const atrakcje =
-    kategoria === 'wszystkie'
-      ? data.atrakcje
-      : data.atrakcje.filter((a) => a.kategoria === kategoria)
+  const aktywnyPlan = data.plany.find((p) => p.id === tab) ?? data.plany[0]
 
   return (
     <>
       <header className="app-header">
-        <h1>Portugalia 2026 - road trip surfingowy</h1>
-        <p>Faro → Algarve → Alentejo → Ericeira/Peniche → Lizbona → Nazaré → Aveiro → Porto</p>
+        <h1>Wakacje 2026 - 3 plany do wyboru</h1>
+        <p>24.07 - 7.08 (14 dni), 2 osoby: Sycylia · Maroko · Madagaskar</p>
       </header>
 
       <nav className="tabs">
-        {TABS.map((t) => (
+        {data.plany.map((p) => (
           <button
-            key={t.id}
-            className={`tab-button ${tab === t.id ? 'active' : ''}`}
-            onClick={() => setTab(t.id)}
+            key={p.id}
+            className={`tab-button ${tab === p.id ? 'active' : ''}`}
+            onClick={() => setTab(p.id)}
           >
-            {t.label}
+            {p.label}
           </button>
         ))}
       </nav>
 
-      <main>
-        {tab === 'atrakcje' && (
-          <>
-            <MapView atrakcje={atrakcje} />
-
-            <div className="filters">
-              {CATEGORY_FILTERS.map((f) => (
-                <button
-                  key={f.id}
-                  className={`filter-button ${kategoria === f.id ? 'active' : ''}`}
-                  onClick={() => setKategoria(f.id)}
-                >
-                  {f.label}
-                </button>
-              ))}
-            </div>
-
-            <div className="card-grid">
-              {atrakcje.map((a) => (
-                <AttractionCard atrakcja={a} key={a.id} />
-              ))}
-            </div>
-          </>
-        )}
-
-        {tab === 'wariant_a' && <PlanTimeline plan={data.plany.wariant_a} />}
-        {tab === 'wariant_b' && <PlanTimeline plan={data.plany.wariant_b} />}
-        {tab === 'poczatkujacy' && <BeginnerGuide guide={data.dla_poczatkujacych} />}
-      </main>
+      <main>{aktywnyPlan && <PlanTimeline plan={aktywnyPlan} />}</main>
     </>
   )
 }
