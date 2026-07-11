@@ -3,4 +3,7 @@ name = "port"
 version = "0.1.0"
 description = "Plany wakacyjne 2026 - generator danych dla strony"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "httpx>=0.28.1",
+    "pillow>=12.3.0",
+]

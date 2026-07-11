@@ -10,9 +10,11 @@ Instrukcje dla Claude Code dotyczące pracy w tym repo (planowanie dwutygodniowy
   - tabelę dni w formacie `| Dzień | Data | Miejsce (nocleg) | Plan |` (parsowaną wprost przez `scripts/build_data.py` - kolejność i liczba kolumn są sztywne)
   - sekcję zaczynającą się od `## Uwagi` z orientacyjną wyceną kosztów dla 2 osób (tabela) i praktycznymi uwagami
 - `plan/README.md` - skrót porównawczy trzech kierunków, aktualizować gdy zmieni się plan.
-- `scripts/build_data.py` - skrypt generujący `web/src/data/data.json` (dane dla interaktywnej strony) z plików `plan/*.md`. Lista planów jest zadeklarowana w stałej `PLANY` na górze skryptu - żeby dodać/usunąć kierunek, edytuj tę listę.
-- `web/` - interaktywna prezentacja: React + Vite, zakładki z trzema planami, oś czasu dzień po dniu. Konsumuje `web/src/data/data.json` - nie edytować danych ręcznie, tylko przez `build_data.py`.
-- Skrypt Pythona uruchamiany jest przez `uv run scripts/build_data.py`, zależności zarządzane przez `uv` (`pyproject.toml`, `uv.lock`). Nie używać gołego `python3` ani `pip`.
+- `scripts/build_data.py` - skrypt generujący `web/src/data/data.json` (dane dla interaktywnej strony) z plików `plan/*.md`. Lista planów jest zadeklarowana w stałej `PLANY` na górze skryptu - żeby dodać/usunąć kierunek, edytuj tę listę. Skrypt parsuje z każdego pliku: intro (akapit pod tytułem), tabelę dni, tabelę kosztów z sekcji `## Uwagi` (jako strukturalne pole `koszty`) oraz pozostałe akapity uwag (pole `uwagi`, bez surowego markdownu tabel).
+- `scripts/fetch_images.py` - pobiera i kompresuje (max 1600px, JPEG q=78) po jednym zdjęciu na dzień planu z Wikimedia Commons do `web/public/images/<plan_id>-<NN>.jpg`. Zapytania w stałej `SEARCH_QUERIES`. Pomija pobieranie jeśli plik już istnieje - usuń go ręcznie żeby wymusić ponowne pobranie. Zapytania do Wikimedia wymagają nagłówka `User-Agent` (inaczej 403).
+- `web/public/images/*.jpg` - zdjęcia dni, **trzymane w repo** (nie w `.gitignore`) mimo że są generowane, bo deploy (GitHub Actions) ich nie pobiera. Po dodaniu nowego dnia/planu uruchom `fetch_images.py` lokalnie i zacommituj wynik przed pushem.
+- `web/` - interaktywna prezentacja: React + Vite, zakładki z trzema planami, oś czasu dzień po dniu (z miniaturą zdjęcia), tabela kosztów. Konsumuje `web/src/data/data.json` - nie edytować danych ręcznie, tylko przez `build_data.py`.
+- Skrypty Pythona uruchamiane są przez `uv run scripts/<nazwa>.py`, zależności zarządzane przez `uv` (`pyproject.toml`, `uv.lock`). Nie używać gołego `python3` ani `pip`.
 
 ## Regeneracja danych
 
@@ -24,10 +26,11 @@ uv run scripts/build_data.py
 
 ## Dodawanie nowego kierunku
 
-1. Stwórz `plan/<kierunek>.md` zgodnie ze strukturą opisaną wyżej (nagłówek, intro, tabela dni, sekcja `## Uwagi` z wyceną).
+1. Stwórz `plan/<kierunek>.md` zgodnie ze strukturą opisaną wyżej (nagłówek, intro, tabela dni, sekcja `## Uwagi` z tabelą kosztów).
 2. Dodaj wpis `{"id": ..., "file": ..., "label": ...}` do stałej `PLANY` w `scripts/build_data.py`.
 3. Dodaj kierunek do skrótu porównawczego w `plan/README.md`.
-4. Uruchom `uv run scripts/build_data.py`.
+4. Dodaj zapytania `<plan_id>-<NN>` do `SEARCH_QUERIES` w `scripts/fetch_images.py`, uruchom `uv run scripts/fetch_images.py`, zacommituj zdjęcia.
+5. Uruchom `uv run scripts/build_data.py`.
 
 ## Interaktywna prezentacja (`web/`)
 
