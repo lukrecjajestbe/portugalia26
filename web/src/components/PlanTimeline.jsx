@@ -1,4 +1,5 @@
 import MarkdownText from './MarkdownText'
+import PlanNoclegi from './PlanNoclegi'
 
 function imageForDay(dzien) {
   return dzien.image ? `${import.meta.env.BASE_URL}${dzien.image}` : null
@@ -34,6 +35,8 @@ export default function PlanTimeline({ plan }) {
           )
         })}
       </div>
+
+      <PlanNoclegi noclegi={plan.noclegi} />
 
       {plan.koszty?.rows?.length > 0 && (
         <section className="koszty">

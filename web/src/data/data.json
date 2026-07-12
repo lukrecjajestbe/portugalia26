@@ -105,6 +105,249 @@
           "image": "images/maroko-14.jpg"
         }
       ],
+      "noclegi": {
+        "intro": "Po trzy propozycje na każde miejsce trasy: wszystkie z klimatyzacją i znośnymi ocenami (poza obozami na Saharze, gdzie chłodzi pustynna noc), każda z jedną cechą specjalną. Ceny orientacyjne z Bookinga (pokój 2-os., EUR) dla wskazanych nocy - mogą się zmienić.",
+        "grupy": [
+          {
+            "miejsce": "Taghazout",
+            "nocleg": "Dni 1-3 (24-26.07)",
+            "transport": "🚗 własne auto",
+            "hotele": [
+              {
+                "nazwa": "Sweet Taghazout Studios",
+                "ocena": "9.2 (138)",
+                "cena": "210 € / 3 noce",
+                "cecha": "🏄 Kilka kroków od wody, w sercu wioski surferskiej - rano deska, wieczorem taras.",
+                "link": "https://www.booking.com/hotel/ma/sweet-taghazout-studio.html?aid=8132308&checkin=2026-07-24&checkout=2026-07-27"
+              },
+              {
+                "nazwa": "Superbo Sea View Surf House",
+                "ocena": "8.4 (164)",
+                "cena": "74 € / 3 noce",
+                "cecha": "🌅 Panoramiczny taras z widokiem na ocean - najtańsza opcja, a widok jak z pocztówki.",
+                "link": "https://www.booking.com/hotel/ma/charmante-maison-marocaine.html?aid=8132308&checkin=2026-07-24&checkout=2026-07-27"
+              },
+              {
+                "nazwa": "Hyatt Place Taghazout Bay",
+                "ocena": "8.4 (2592)",
+                "cena": "706 € / 3 noce",
+                "cecha": "🏊 Duży basen z widokiem na zatokę, spa i prywatna plaża - opcja resort na rozkręcenie urlopu.",
+                "link": "https://www.booking.com/hotel/ma/hyatt-place-taghazout-bay.html?aid=8132308&checkin=2026-07-24&checkout=2026-07-27"
+              }
+            ]
+          },
+          {
+            "miejsce": "Essaouira",
+            "nocleg": "Dni 4-5 (27-28.07)",
+            "transport": "🚗 własne auto",
+            "hotele": [
+              {
+                "nazwa": "Riad Babette",
+                "ocena": "9.5 (610)",
+                "cena": "255 € / 2 noce",
+                "cecha": "🕌 Kameralny riad w klimacie marokańskim w sercu medyny, z tarasem na dachu i najwyższą oceną w mieście.",
+                "link": "https://www.booking.com/hotel/ma/riad-babette.html?aid=8132308&checkin=2026-07-27&checkout=2026-07-29"
+              },
+              {
+                "nazwa": "Riad Yahia Zamane",
+                "ocena": "9.1 (437)",
+                "cena": "174 € / 2 noce",
+                "cecha": "💶 Świetny stosunek ceny do jakości - riad z tarasem słonecznym tuż przy murach medyny.",
+                "link": "https://www.booking.com/hotel/ma/riad-yahia-zamane.html?aid=8132308&checkin=2026-07-27&checkout=2026-07-29"
+              },
+              {
+                "nazwa": "DAR ETTO Riad & Spa",
+                "ocena": "9.0 (515)",
+                "cena": "208 € / 2 noce",
+                "cecha": "🏊 Basen zewnętrzny i spa z hammamem - oaza z ogrodem na wypoczynek po dniu na wietrze.",
+                "link": "https://www.booking.com/hotel/ma/riad-dar-etto.html?aid=8132308&checkin=2026-07-27&checkout=2026-07-29"
+              }
+            ]
+          },
+          {
+            "miejsce": "Marrakesz",
+            "nocleg": "Dni 6-7 (29-30.07)",
+            "transport": "🚗 własne auto",
+            "hotele": [
+              {
+                "nazwa": "Riad Le Petit Joyau",
+                "ocena": "9.3 (1251)",
+                "cena": "122 € / 2 noce",
+                "cecha": "🧖 Riad tylko dla dorosłych z basenem i spa - cisza i klimat po gwarze souków.",
+                "link": "https://www.booking.com/hotel/ma/riad-le-petit-joyau.html?aid=8132308&checkin=2026-07-29&checkout=2026-07-31"
+              },
+              {
+                "nazwa": "Hotel & Spa Dar Sara",
+                "ocena": "9.0 (1344)",
+                "cena": "128 € / 2 noce",
+                "cecha": "🕌 Pełny marokański sztafaż - zdobione wnętrza, hammam, basen wewnętrzny - w cenie 3-gwiazdki.",
+                "link": "https://www.booking.com/hotel/ma/dar-sara.html?aid=8132308&checkin=2026-07-29&checkout=2026-07-31"
+              },
+              {
+                "nazwa": "Riad Zahri",
+                "ocena": "9.1 (844)",
+                "cena": "123 € / 2 noce",
+                "cecha": "📍 Kilka minut od placu Jemaa el-Fna - wieczorne życie medyny tuż za progiem, basen na ochłodę.",
+                "link": "https://www.booking.com/hotel/ma/riad-zahri.html?aid=8132308&checkin=2026-07-29&checkout=2026-07-31"
+              }
+            ]
+          },
+          {
+            "miejsce": "Dolina Ourika (Atlas)",
+            "nocleg": "Dzień 8 (31.07)",
+            "transport": "🚐 tour z kierowcą",
+            "hotele": [
+              {
+                "nazwa": "Les Jardins de Taja",
+                "ocena": "9.4 (291)",
+                "cena": "110 € / noc",
+                "cecha": "🏞️ Basen bez krawędzi z widokiem na góry - kąpiel patrząc w stronę szczytów Atlasu.",
+                "link": "https://www.booking.com/hotel/ma/les-jardins-de-taja.html?aid=8132308&checkin=2026-07-31&checkout=2026-08-01"
+              },
+              {
+                "nazwa": "Kasbah Agounsane Hotel & Spa",
+                "ocena": "8.9 (501)",
+                "cena": "152 € / noc",
+                "cecha": "🏰 Prawdziwa kasba ze spa i hammamem - styl berberyjski z widokiem na dolinę, oficjalne 4★.",
+                "link": "https://www.booking.com/hotel/ma/kasbah-agounsane.html?aid=8132308&checkin=2026-07-31&checkout=2026-08-01"
+              },
+              {
+                "nazwa": "Riad Timskrine",
+                "ocena": "9.2 (213)",
+                "cena": "73 € / noc",
+                "cecha": "🌄 Spokojny riad z ogrodem i basenem z widokiem, najlepsza relacja cena/klimat na tym odcinku.",
+                "link": "https://www.booking.com/hotel/ma/riad-timskrine-marrakech.html?aid=8132308&checkin=2026-07-31&checkout=2026-08-01"
+              }
+            ]
+          },
+          {
+            "miejsce": "Ouarzazate",
+            "nocleg": "Dzień 9 (1.08)",
+            "transport": "🚐 tour z kierowcą",
+            "hotele": [
+              {
+                "nazwa": "Riad Chay & Boutique",
+                "ocena": "9.6 (1295)",
+                "cena": "83 € / noc",
+                "cecha": "⭐ Najwyżej oceniany obiekt na całej trasie (9.6 z 1300 opinii) - pewny strzał na środku objazdu.",
+                "link": "https://www.booking.com/hotel/ma/riad-chay.html?aid=8132308&checkin=2026-08-01&checkout=2026-08-02"
+              },
+              {
+                "nazwa": "Le Petit Riad Maison d'hôtes",
+                "ocena": "9.6 (665)",
+                "cena": "96 € / noc",
+                "cecha": "🏊 Zadaszony basen i klimat riadu - schronienie od pustynnego skwaru w komplecie z hammamem.",
+                "link": "https://www.booking.com/hotel/ma/le-petit-riad.html?aid=8132308&checkin=2026-08-01&checkout=2026-08-02"
+              },
+              {
+                "nazwa": "Hôtel Riad Dar Daïf",
+                "ocena": "9.3 (1582)",
+                "cena": "54 € / noc",
+                "cecha": "💶 Kasba z basenem i ogrodem za 54 € - najtańszy nocleg na trasie przy świetnej ocenie.",
+                "link": "https://www.booking.com/hotel/ma/kasbah-dar-daif.html?aid=8132308&checkin=2026-08-01&checkout=2026-08-02"
+              }
+            ]
+          },
+          {
+            "miejsce": "Dolina Dades",
+            "nocleg": "Dzień 10 (2.08)",
+            "transport": "🚐 tour z kierowcą",
+            "hotele": [
+              {
+                "nazwa": "Hotel Atlas Gorge Dades",
+                "ocena": "(brak ocen)",
+                "cena": "51 € / noc",
+                "cecha": "🏜️ Jedyny z klimatyzacją w samym wąwozie - widok na skalne serpentyny Dades z tarasu. Zwykle nocleg tu organizuje operator touru.",
+                "link": "https://www.booking.com/hotel/ma/lodge-atlas-gorge-dades.html?aid=8132308&checkin=2026-08-02&checkout=2026-08-03"
+              }
+            ]
+          },
+          {
+            "miejsce": "Sahara / Erg Chebbi",
+            "nocleg": "Dzień 11 (3.08)",
+            "transport": "🚐 tour - wielbłąd / 4×4",
+            "hotele": [
+              {
+                "nazwa": "Sahara Elegance Camp",
+                "ocena": "9.8 (377)",
+                "cena": "60 € / noc",
+                "cecha": "🐫 Wielbłądy, muzyka berberyjska przy ognisku i jedna z najwyższych ocen wśród obozów - pełne Sahara experience.",
+                "link": "https://www.booking.com/hotel/ma/haven-sahara-luxury-tents-merzouga.html?aid=8132308&checkin=2026-08-03&checkout=2026-08-04"
+              },
+              {
+                "nazwa": "Sahara Safari Luxury Camp",
+                "ocena": "9.8 (450)",
+                "cena": "64 € / noc",
+                "cecha": "✨ Glamping z prawdziwego zdarzenia - wieczorne animacje, kolacja pod gwiazdami, komfort na pustyni.",
+                "link": "https://www.booking.com/hotel/ma/luxury-tented-camp.html?aid=8132308&checkin=2026-08-03&checkout=2026-08-04"
+              },
+              {
+                "nazwa": "Erg Chebbi Dunes Desert Camp",
+                "ocena": "9.5 (952)",
+                "cena": "40 € / noc",
+                "cecha": "💶 Najwięcej opinii spośród obozów (blisko 1000) przy ocenie 9.5 - sprawdzony wybór za ~40 €.",
+                "link": "https://www.booking.com/hotel/ma/ouhaga-luxury-desert-camp.html?aid=8132308&checkin=2026-08-03&checkout=2026-08-04"
+              }
+            ]
+          },
+          {
+            "miejsce": "Marrakesz (powrót)",
+            "nocleg": "Dzień 12 (4.08)",
+            "transport": "🚐 tour z kierowcą",
+            "hotele": [
+              {
+                "nazwa": "Riad Palais Calipau",
+                "ocena": "9.1 (1872)",
+                "cena": "74 € / noc",
+                "cecha": "🕌 Elegancki pałacowy riad ze spa i basenem - klimat marokański w wyższej lidze, wciąż rozsądna cena.",
+                "link": "https://www.booking.com/hotel/ma/palais-calipau.html?aid=8132308&checkin=2026-08-04&checkout=2026-08-05"
+              },
+              {
+                "nazwa": "Riad Mouna",
+                "ocena": "9.0 (843)",
+                "cena": "59 € / noc",
+                "cecha": "🏊 Basen na dachu z widokiem na medynę - ostatni marokański zachód słońca z leżaka.",
+                "link": "https://www.booking.com/hotel/ma/riad-mouna.html?aid=8132308&checkin=2026-08-04&checkout=2026-08-05"
+              },
+              {
+                "nazwa": "Riad Alia",
+                "ocena": "9.1 (1236)",
+                "cena": "45 € / noc",
+                "cecha": "💶 Riad ze spa i basenem od 45 € - trudno o lepszą cenę za tę ocenę w centrum Marrakeszu.",
+                "link": "https://www.booking.com/hotel/ma/riad-spa-alia.html?aid=8132308&checkin=2026-08-04&checkout=2026-08-05"
+              }
+            ]
+          },
+          {
+            "miejsce": "Agadir",
+            "nocleg": "Dni 13-14 (5-6/7.08)",
+            "transport": "🚐 transfer / autobus",
+            "hotele": [
+              {
+                "nazwa": "Résidence Hôtelière Fleurie",
+                "ocena": "8.5 (4363)",
+                "cena": "185 € / 2 noce",
+                "cecha": "🏊 Basen i ogród w centrum, tysiące opinii - sprawdzona, wygodna baza na koniec wyjazdu.",
+                "link": "https://www.booking.com/hotel/ma/residence-fleurie-agadir.html?aid=8132308&checkin=2026-08-05&checkout=2026-08-07"
+              },
+              {
+                "nazwa": "Hola Surf Morocco",
+                "ocena": "8.9 (448)",
+                "cena": "147 € / 2 noce",
+                "cecha": "🏄 Surf-house przy samej plaży - klamra spinająca wyjazd, który zaczął się od desek w Taghazout.",
+                "link": "https://www.booking.com/hotel/ma/hola-surf-morocco-agadir.html?aid=8132308&checkin=2026-08-05&checkout=2026-08-07"
+              },
+              {
+                "nazwa": "Tikida Golf Palace",
+                "ocena": "9.3 (801)",
+                "cena": "414 € / 2 noce",
+                "cecha": "🌊 Baseny, spa i prywatna plaża - pożegnalny akcent 5★, jeśli chcecie zakończyć z rozmachem.",
+                "link": "https://www.booking.com/hotel/ma/tikida-golf-palace-agadir.html?aid=8132308&checkin=2026-08-05&checkout=2026-08-07"
+              }
+            ]
+          }
+        ]
+      },
       "koszty": {
         "header": [
           "Pozycja",

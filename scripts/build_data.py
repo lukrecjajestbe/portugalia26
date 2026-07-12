@@ -107,6 +107,57 @@ def clean_uwagi(uwagi_text: str) -> list[str]:
     return out
 
 
+def extract_noclegi(text: str) -> dict:
+    match = re.search(
+        r"## Noclegi\s*\n(?P<body>.*?)(?=\n## |\Z)", text, re.DOTALL
+    )
+    if not match:
+        return {}
+    body = match.group("body")
+
+    intro_lines: list[str] = []
+    rows: list[list[str]] = []
+    in_table = False
+    for line in body.splitlines():
+        if TABLE_SEP_RE.match(line):
+            in_table = True
+            continue
+        if TABLE_ROW_RE.match(line):
+            cells = _row_cells(line)
+            if not in_table:
+                continue
+            rows.append(cells)
+        elif not in_table and line.strip():
+            intro_lines.append(line.strip())
+
+    grupy: list[dict] = []
+    index: dict[str, dict] = {}
+    for cells in rows:
+        if len(cells) < 8:
+            continue
+        miejsce, nocleg, transport, hotel, ocena, cena, cecha, link = cells[:8]
+        if miejsce not in index:
+            grupa = {
+                "miejsce": miejsce,
+                "nocleg": nocleg,
+                "transport": transport,
+                "hotele": [],
+            }
+            index[miejsce] = grupa
+            grupy.append(grupa)
+        index[miejsce]["hotele"].append(
+            {
+                "nazwa": hotel,
+                "ocena": ocena,
+                "cena": cena,
+                "cecha": cecha,
+                "link": link,
+            }
+        )
+
+    return {"intro": " ".join(intro_lines), "grupy": grupy}
+
+
 def build_plan(md_path: Path, plan_id: str, label: str) -> dict:
     text = md_path.read_text(encoding="utf-8")
 
@@ -123,6 +174,7 @@ def build_plan(md_path: Path, plan_id: str, label: str) -> dict:
         "title": extract_title(text),
         "intro": extract_intro(text),
         "dni": days,
+        "noclegi": extract_noclegi(text),
         "koszty": extract_koszty(uwagi_text),
         "uwagi": clean_uwagi(uwagi_text),
     }
