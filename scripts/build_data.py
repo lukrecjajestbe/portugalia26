@@ -16,9 +16,7 @@ PLAN_DIR = ROOT / "plan"
 OUTPUT_JSON = ROOT / "web" / "src" / "data" / "data.json"
 
 PLANY = [
-    {"id": "sycylia", "file": "sycylia.md", "label": "Sycylia"},
     {"id": "maroko", "file": "maroko.md", "label": "Maroko"},
-    {"id": "madagaskar", "file": "madagaskar.md", "label": "Madagaskar"},
 ]
 
 DAY_ROW_RE = re.compile(

@@ -1,263 +1,107 @@
 {
   "plany": [
     {
-      "id": "sycylia",
-      "label": "Sycylia",
-      "title": "Sycylia: 24.07 - 7.08 (14 dni)",
-      "intro": "Najbezpieczniejszy i najbardziej komfortowy wybór na romantyczne dwa tygodnie w szczycie lata: ciepłe, spokojne morze do snorkelingu i kajaków, mnóstwo zabytków i miasteczek blisko siebie, łatwa logistyka (bezpośrednie loty, wynajem auta). Pętla wokół wyspy: wschód (Etna, Taormina, Syrakuzy) → południe (Noto, Dolina Świątyń) → zachód i północ (Trapani, Wyspy Egadzkie, Cefalù, Palermo).",
-      "dni": [
-        {
-          "dzien": 1,
-          "data": "24.07 (pt)",
-          "miejsce": "Katania",
-          "plan": "Bezpośredni lot z Polski (~3h). Odbiór auta, zameldowanie w Katanii. Wieczorny spacer po barokowym centrum (Piazza del Duomo, targ rybny La Pescheria).",
-          "image": "images/sycylia-01.jpg"
-        },
-        {
-          "dzien": 2,
-          "data": "25.07 (sob)",
-          "miejsce": "Katania → Taormina",
-          "plan": "Rano Etna: wyjazd kolejką/4x4 na kratery lub trekking z przewodnikiem. Po południu przejazd do Taorminy, teatr grecki o zachodzie słońca.",
-          "image": "images/sycylia-02.jpg"
-        },
-        {
-          "dzien": 3,
-          "data": "26.07 (nd)",
-          "miejsce": "Taormina",
-          "plan": "**Sport wodny:** Isola Bella - snorkeling, kajak morski, rejs wzdłuż wybrzeża (groty, zatoczki). Popołudnie na plaży.",
-          "image": "images/sycylia-03.jpg"
-        },
-        {
-          "dzien": 4,
-          "data": "27.07 (pon)",
-          "miejsce": "Syrakuzy",
-          "plan": "Przejazd na południe (~1h30). Ortygia - wyspa-serce Syrakuz (katedra na świątyni Ateny, Fontanna Aretuzy), wieczór w uliczkach.",
-          "image": "images/sycylia-04.jpg"
-        },
-        {
-          "dzien": 5,
-          "data": "28.07 (wt)",
-          "miejsce": "Syrakuzy",
-          "plan": "Rano park archeologiczny Neapolis (teatr grecki, Ucho Dionizosa). Po południu **kąpiel/snorkeling** w rezerwacie Plemmirio lub kajak wokół Ortygii.",
-          "image": "images/sycylia-05.jpg"
-        },
-        {
-          "dzien": 6,
-          "data": "29.07 (śr)",
-          "miejsce": "Noto → Marzamemi",
-          "plan": "Noto - stolica sycylijskiego baroku (zjawiskowa Via Nicolaci). Wieczorem urokliwa rybacka Marzamemi, kolacja przy piazzy.",
-          "image": "images/sycylia-06.jpg"
-        },
-        {
-          "dzien": 7,
-          "data": "30.07 (czw)",
-          "miejsce": "Ragusa / Modica",
-          "plan": "Ragusa Ibla i Modica (barok UNESCO, czekolada z Modiki). Spokojniejszy, \"kulturowy\" dzień z dobrym jedzeniem.",
-          "image": "images/sycylia-07.jpg"
-        },
-        {
-          "dzien": 8,
-          "data": "31.07 (pt)",
-          "miejsce": "Agrigento",
-          "plan": "Przejazd na zachód (~2h30). **Dolina Świątyń** - najlepiej późnym popołudniem/o zmierzchu (mniej upału, świątynie podświetlone).",
-          "image": "images/sycylia-08.jpg"
-        },
-        {
-          "dzien": 9,
-          "data": "1.08 (sob)",
-          "miejsce": "Scala dei Turchi → Trapani",
-          "plan": "Rano biały klif Scala dei Turchi (kąpiel). Przejazd do Trapani, wieczorem saliny (solniska) o zachodzie słońca.",
-          "image": "images/sycylia-09.jpg"
-        },
-        {
-          "dzien": 10,
-          "data": "2.08 (nd)",
-          "miejsce": "Wyspy Egadzkie (Favignana)",
-          "plan": "**Dzień na wodzie:** prom na Favignanę, rower po wyspie, snorkeling w Cala Rossa (jedna z najpiękniejszych wód Morza Śródziemnego).",
-          "image": "images/sycylia-10.jpg"
-        },
-        {
-          "dzien": 11,
-          "data": "3.08 (pon)",
-          "miejsce": "Erice → San Vito lo Capo",
-          "plan": "Erice - średniowieczne miasteczko na szczycie góry (dojazd kolejką linową). Po południu plaża San Vito lo Capo (turkusowa woda).",
-          "image": "images/sycylia-11.jpg"
-        },
-        {
-          "dzien": 12,
-          "data": "4.08 (wt)",
-          "miejsce": "Rezerwat Zingaro → Cefalù",
-          "plan": "Rano trekking i **snorkeling** w rezerwacie Zingaro (dzikie zatoczki). Przejazd do Cefalù (~2h).",
-          "image": "images/sycylia-12.jpg"
-        },
-        {
-          "dzien": 13,
-          "data": "5.08 (śr)",
-          "miejsce": "Cefalù → Palermo",
-          "plan": "Rano plaża i normańska katedra w Cefalù. Po południu Palermo: katedra, Quattro Canti, targ Ballarò, street food (arancini, panelle).",
-          "image": "images/sycylia-13.jpg"
-        },
-        {
-          "dzien": 14,
-          "data": "6-7.08",
-          "miejsce": "Palermo → Polska",
-          "plan": "Zwrot auta, wylot z Palermo. (Jeśli lot dopiero 7.08 - dodatkowa noc w Palermo i poranek na Cappella Palatina.)",
-          "image": "images/sycylia-14.jpg"
-        }
-      ],
-      "koszty": {
-        "header": [
-          "Pozycja",
-          "Koszt (2 os.)"
-        ],
-        "rows": [
-          [
-            "Loty bezpośrednie PL ↔ Katania/Palermo",
-            "500 - 900 € (250-450 €/os.)"
-          ],
-          [
-            "Wynajem auta 14 dni (klasa kompakt)",
-            "500 - 800 €"
-          ],
-          [
-            "Paliwo + autostrady + parkingi",
-            "250 - 350 €"
-          ],
-          [
-            "Noclegi 13 nocy (3-4* / dobre B&B)",
-            "1 500 - 2 300 €"
-          ],
-          [
-            "Promy na wyspy + rejsy/kajaki/snorkeling",
-            "250 - 400 €"
-          ],
-          [
-            "Bilety wstępu (Etna, parki archeologiczne, Dolina Świątyń)",
-            "200 - 300 €"
-          ],
-          [
-            "Jedzenie i wino",
-            "900 - 1 300 €"
-          ],
-          [
-            "**Razem**",
-            "**~4 100 - 6 350 €** (≈ 17 500 - 27 100 zł)"
-          ]
-        ]
-      },
-      "uwagi": [
-        "**Charakterystyka:** najlepszy balans sport wodny + kultura z trzech kierunków. Morze ciepłe (~26°C) i spokojne - snorkeling, kajak, rejsy, kąpiele; do tego gęsto rozmieszczone zabytki (Etna, teatry greckie, barok UNESCO, Dolina Świątyń). Najłatwiejsza logistyka i najkrótszy dolot.",
-        "**Pogoda 24.07-7.08:** szczyt lata, gorąco (30-36°C, w głębi wyspy potrafi więcej), słonecznie, morze idealne do kąpieli. Zwiedzanie zabytków najlepiej rano lub późnym popołudniem, w południe przerwa/plaża.",
-        "**Uwagi praktyczne:**",
-        "- Strefa euro, brak wizy, brak szczepień - najprostszy formalnie kierunek.",
-        "- Auto rezerwować wcześnie (sierpień = szczyt, ceny rosną); Katania i Palermo jako odbiór/zwrot w różnych miastach - sprawdzić opłatę one-way.",
-        "- ZTL (strefy ograniczonego ruchu) w centrach miast - zostawiać auto na parkingach peryferyjnych, żeby uniknąć mandatów.",
-        "- Etna: sprawdzić aktywność wulkanu i rezerwować wejście na górne kratery z przewodnikiem z wyprzedzeniem.",
-        "- Najtańszy i najmniej ryzykowny z trzech wariantów - dobry, gdy priorytetem jest komfort i różnorodność bez trudnej logistyki."
-      ]
-    },
-    {
       "id": "maroko",
       "label": "Maroko",
       "title": "Maroko: 24.07 - 7.08 (14 dni)",
-      "intro": "Najbardziej egzotyczny z komfortowych kierunków: surfing i wiatr Atlantyku na wybrzeżu + medyny, souki, góry Atlas i noc na pustyni w głębi kraju. Loty z Polski prowadzą do **Agadiru**, więc trasa to pętla: start nad chłodniejszym oceanem (aklimatyzacja + surfing), potem Essaouira i w głąb kraju do Marrakeszu, Atlasu i Sahary, na koniec powrót do Agadiru na wylot. Upał w głębi kraju łapiemy krótkimi porcjami w środku wyjazdu.",
+      "intro": "Najbardziej egzotyczny z komfortowych kierunków: surfing i wiatr Atlantyku na wybrzeżu + medyny, souki, góry Atlas i noc na pustyni w głębi kraju. Loty z Polski prowadzą do **Agadiru**, więc trasa to pętla: start nad chłodniejszym oceanem (aklimatyzacja + surfing), potem Essaouira i w głąb kraju do Marrakeszu, Atlasu i Sahary, na koniec powrót do Agadiru na wylot. Upał w głębi kraju łapiemy krótkimi porcjami w środku wyjazdu.\n\n**Jak się przemieszczamy (dwa etapy):** wybrzeże i dojazd do Marrakeszu (dni 1-7) jedziemy **wynajętym autem** - odległości krótkie, drogi łatwe, pełna elastyczność. Objazd w głąb kraju (Atlas → doliny → Sahara → powrót, dni 8-12) robimy **zorganizowaną wycieczką 4-5 dni z kierowcą**, wyjazd z Marrakeszu - w tym **dojazd na obóz na wydmach jest transportem touru, nie własnym autem** (długie, męczące trasy górskie i pustynne, ostatni odcinek do obozu wielbłądami lub 4x4 operatora). Auto oddajemy w Marrakeszu przed wyruszeniem w góry (dzień 7/8) i odbieramy je nie trzeba - na końcu z Marrakeszu do Agadiru można dojechać autobusem/transferem albo wynająć drugie auto na ostatni odcinek. W tabeli każdy dzień ma znacznik: 🚗 = własne auto, 🚐 = zorganizowany tour.",
       "dni": [
         {
           "dzien": 1,
           "data": "24.07 (pt)",
           "miejsce": "Agadir → Taghazout",
-          "plan": "Lot z Polski do Agadiru (bezpośredni lub 1 przesiadka). Odbiór auta, przejazd do surferskiej wioski Taghazout (~30 min). Aklimatyzacja nad oceanem, zachód słońca, świeże ryby.",
+          "plan": "🚗 **Własne auto.** Lot z Polski do Agadiru (bezpośredni lub 1 przesiadka). Odbiór auta na lotnisku, przejazd do surferskiej wioski Taghazout (~30 min). Aklimatyzacja nad oceanem, zachód słońca, świeże ryby.",
           "image": "images/maroko-01.jpg"
         },
         {
           "dzien": 2,
           "data": "25.07 (sob)",
           "miejsce": "Taghazout",
-          "plan": "**Dzień surfingowy:** Anchor Point / Panorama / Devil's Rock; lato = mniejsza, łagodniejsza fala idealna do nauki. Popołudnie: joga / hammam.",
+          "plan": "🚗 **Własne auto.** **Dzień surfingowy:** Anchor Point / Panorama / Devil's Rock; lato = mniejsza, łagodniejsza fala idealna do nauki. Popołudnie: joga / hammam.",
           "image": "images/maroko-02.jpg"
         },
         {
           "dzien": 3,
           "data": "26.07 (nd)",
           "miejsce": "Taghazout / Paradise Valley",
-          "plan": "Wypad do Paradise Valley (naturalne baseny w kanionie, skoki do wody, orzeźwienie). Popołudnie: druga sesja surfingu lub relaks na plaży.",
+          "plan": "🚗 **Własne auto.** Wypad do Paradise Valley (naturalne baseny w kanionie, skoki do wody, orzeźwienie). Popołudnie: druga sesja surfingu lub relaks na plaży.",
           "image": "images/maroko-03.jpg"
         },
         {
           "dzien": 4,
           "data": "27.07 (pon)",
           "miejsce": "Essaouira",
-          "plan": "Przejazd wzdłuż wybrzeża na północ (~2h30-3h). Ufortyfikowana medyna UNESCO, port, mewy, wieczorny spacer po murach (Skala).",
+          "plan": "🚗 **Własne auto.** Przejazd wzdłuż wybrzeża na północ (~2h30-3h). Ufortyfikowana medyna UNESCO, port, mewy, wieczorny spacer po murach (Skala).",
           "image": "images/maroko-04.jpg"
         },
         {
           "dzien": 5,
           "data": "28.07 (wt)",
           "miejsce": "Essaouira",
-          "plan": "**Sport wodny:** Essaouira słynie z wiatru - lekcja kitesurfingu lub windsurfingu, albo surfing na spokojniejszej fali. Klimat znośny dzięki bryzie od oceanu.",
+          "plan": "🚗 **Własne auto.** **Sport wodny:** Essaouira słynie z wiatru - lekcja kitesurfingu lub windsurfingu, albo surfing na spokojniejszej fali. Klimat znośny dzięki bryzie od oceanu.",
           "image": "images/maroko-05.jpg"
         },
         {
           "dzien": 6,
           "data": "29.07 (śr)",
           "miejsce": "Marrakesz",
-          "plan": "Przejazd w głąb kraju (~2h45). Zameldowanie w riadzie w medynie. Wieczór na placu Jemaa el-Fna (życie zaczyna się po zmroku, gdy spada upał).",
+          "plan": "🚗 **Własne auto.** Przejazd w głąb kraju (~2h45). Zameldowanie w riadzie w medynie. Wieczór na placu Jemaa el-Fna (życie zaczyna się po zmroku, gdy spada upał).",
           "image": "images/maroko-06.jpg"
         },
         {
           "dzien": 7,
           "data": "30.07 (czw)",
           "miejsce": "Marrakesz",
-          "plan": "Medyna: pałac Bahia, Madrasa Ben Youssef, ogrody Majorelle, souki. Zwiedzanie rano i wieczorem, w południe basen w riadzie (lipiec = 38-42°C).",
+          "plan": "🚗 **Własne auto (ostatni dzień).** Medyna: pałac Bahia, Madrasa Ben Youssef, ogrody Majorelle, souki. Zwiedzanie rano i wieczorem, w południe basen w riadzie (lipiec = 38-42°C). **Wieczorem zwrot auta w Marrakeszu** - dalej jedziemy zorganizowanym tourem.",
           "image": "images/maroko-07.jpg"
         },
         {
           "dzien": 8,
           "data": "31.07 (pt)",
           "miejsce": "Dolina Ourika (Atlas)",
-          "plan": "Wycieczka w Wysoki Atlas: dolina Ourika, wodospady Setti Fatma, berberyjskie wioski, chłodniej niż w mieście. Nocleg w górskim guesthouse.",
+          "plan": "🚐 **Zorganizowany tour z kierowcą (start).** Wyjazd z Marrakeszu autem operatora w Wysoki Atlas: dolina Ourika, wodospady Setti Fatma, berberyjskie wioski, chłodniej niż w mieście. Nocleg w górskim guesthouse.",
           "image": "images/maroko-08.jpg"
         },
         {
           "dzien": 9,
           "data": "1.08 (sob)",
           "miejsce": "Aït Ben Haddou → Ouarzazate",
-          "plan": "Przejazd przez przełęcz Tizi n'Tichka do ksaru **Aït Ben Haddou** (UNESCO, plan filmowy - \"Gladiator\", \"Gra o Tron\"). Nocleg w Ouarzazate.",
+          "plan": "🚐 **Zorganizowany tour.** Przejazd przez przełęcz Tizi n'Tichka do ksaru **Aït Ben Haddou** (UNESCO, plan filmowy - \"Gladiator\", \"Gra o Tron\"). Nocleg w Ouarzazate.",
           "image": "images/maroko-09.jpg"
         },
         {
           "dzien": 10,
           "data": "2.08 (nd)",
           "miejsce": "Dolina Dades / skraj pustyni",
-          "plan": "Przejazd doliną róż i wąwozami Dades/Todra. Krajobrazy jak z Marsa, palmowe oazy. Nocleg w kasbie.",
+          "plan": "🚐 **Zorganizowany tour.** Przejazd doliną róż i wąwozami Dades/Todra. Krajobrazy jak z Marsa, palmowe oazy. Nocleg w kasbie.",
           "image": "images/maroko-10.jpg"
         },
         {
           "dzien": 11,
           "data": "3.08 (pon)",
           "miejsce": "Pustynia (Erg Chebbi / Zagora)",
-          "plan": "**Noc na Saharze:** wielbłądy o zachodzie słońca, obóz na wydmach, muzyka berberyjska, gwiazdy. (Erg Chebbi ładniejsze, Zagora bliżej - wybór wg czasu.)",
+          "plan": "🚐 **Zorganizowany tour - dojazd na obóz.** Autem operatora do skraju wydm, ostatni odcinek **na wielbłądach** (lub 4x4 operatora) o zachodzie słońca. **Noc na Saharze:** obóz na wydmach, muzyka berberyjska, gwiazdy. (Erg Chebbi ładniejsze, Zagora bliżej - wybór wg czasu.)",
           "image": "images/maroko-11.jpg"
         },
         {
           "dzien": 12,
           "data": "4.08 (wt)",
           "miejsce": "Powrót Marrakesz",
-          "plan": "Wschód słońca na wydmach, powrót do Marrakeszu (dłuższy przejazd). Ostatni wieczór w mieście, hammam, zakupy na souku.",
+          "plan": "🚐 **Zorganizowany tour (koniec).** Wschód słońca na wydmach, powrót do Marrakeszu autem operatora (dłuższy przejazd). Ostatni wieczór w mieście, hammam, zakupy na souku.",
           "image": "images/maroko-12.jpg"
         },
         {
           "dzien": 13,
           "data": "5.08 (śr)",
           "miejsce": "Agadir",
-          "plan": "Powrót nad ocean do Agadiru (~2h45). Popołudnie na plaży miejskiej, spacer po nadmorskiej promenadzie, kolacja z widokiem na zatokę.",
+          "plan": "🚐 **Transfer / autobus** (auto już oddane) lub drugie wynajęte auto na ten odcinek. Powrót nad ocean do Agadiru (~2h45). Popołudnie na plaży miejskiej, spacer po nadmorskiej promenadzie, kolacja z widokiem na zatokę.",
           "image": "images/maroko-13.jpg"
         },
         {
           "dzien": 14,
           "data": "6-7.08",
           "miejsce": "Agadir → Polska",
-          "plan": "Zwrot auta, wylot z Agadiru. (Przy locie 7.08 - dodatkowa noc w Agadirze i poranek na kasbę Agadir Oufella / ostatnią sesję surfingu.)",
+          "plan": "🚐 Wylot z Agadiru. (Przy locie 7.08 - dodatkowa noc w Agadirze i poranek na kasbę Agadir Oufella / ostatnią sesję surfingu.)",
           "image": "images/maroko-14.jpg"
         }
       ],
@@ -272,12 +116,12 @@
             "500 - 1 000 € (250-500 €/os.)"
           ],
           [
-            "Wynajem auta 14 dni (odbiór i zwrot w Agadirze, bez opłaty one-way)",
-            "450 - 800 €"
+            "Wynajem auta ~7 dni (wybrzeże + dojazd do Marrakeszu, odbiór Agadir / zwrot Marrakesz)",
+            "300 - 550 €"
           ],
           [
             "Paliwo + drobne opłaty",
-            "200 - 300 €"
+            "150 - 250 €"
           ],
           [
             "Noclegi 13 nocy (riady 3-4* + kasby + obóz na pustyni)",
@@ -288,8 +132,12 @@
             "250 - 400 €"
           ],
           [
-            "Wycieczka na pustynię (2-3 dni z obozem)",
-            "400 - 700 €"
+            "Zorganizowany tour w głąb kraju 4-5 dni z kierowcą (Atlas + doliny + obóz na Saharze, dni 8-12)",
+            "700 - 1 300 €"
+          ],
+          [
+            "Transfer/autobus Marrakesz → Agadir (dzień 13)",
+            "40 - 120 €"
           ],
           [
             "Jedzenie, hammam, souki",
@@ -297,7 +145,7 @@
           ],
           [
             "**Razem**",
-            "**~3 500 - 5 900 €** (≈ 14 900 - 25 200 zł)"
+            "**~3 600 - 6 300 €** (≈ 15 400 - 26 900 zł)"
           ]
         ]
       },
@@ -305,168 +153,15 @@
         "**Charakterystyka:** dużo kultury (medyny, souki, kasby, Sahara) + solidny surfing i sporty wietrzne na wybrzeżu. Najmocniejsza egzotyka z trzech kierunków. Główny minus: upał w głębi kraju w lipcu/sierpniu (Marrakesz, pustynia) - dlatego plan zaczyna i kończy nad oceanem, a upalne etapy w głębi trzyma w środku i rozkłada na rano/wieczór.",
         "**Pogoda 24.07-7.08:** wybrzeże (Agadir, Taghazout, Essaouira) znośne dzięki oceanicznej bryzie (~22-28°C), woda chłodniejsza (~19-21°C, pianka mile widziana). Głąb kraju bardzo gorąca: Marrakesz 38-42°C, pustynia w dzień skrajnie gorąca, noce przyjemne.",
         "**Uwagi praktyczne:**",
-        "- Loty z Polski celują w **Agadir** (lotnisko Al Massira, ok. 30 min od Taghazout) - stąd trasa jako pętla z powrotem do Agadiru, dzięki czemu odbiór i zwrot auta są w tym samym mieście (brak opłaty one-way).",
+        "- Loty z Polski celują w **Agadir** (lotnisko Al Massira, ok. 30 min od Taghazout) - stąd trasa jako pętla z powrotem do Agadiru na wylot. Auto odbieramy w Agadirze, a zwracamy w Marrakeszu (dzień 7) przed wyruszeniem w góry; opłata one-way Agadir → Marrakesz jest niewielka i i tak taniej niż trzymać auto bezczynnie przez 5 dni touru. Alternatywa dla purystów pętli: oddać auto dopiero po powrocie do Agadiru, ale wtedy stoi ono 5 dni pod hotelem w Marrakeszu (dodatkowy koszt + ryzyko).",
         "- Wiza: obywatele PL bez wizy do 90 dni. Waluta: dirham (MAD), niewymienialny - wypłacać na miejscu z bankomatów.",
         "- Szczepienia: brak obowiązkowych; standardowo zalecane WZW A/B, dur - konsultacja z medycyną podróży. Zwracać uwagę na wodę (pić butelkowaną) i higienę jedzenia.",
-        "- Prowadzenie auta w medynach niemożliwe (wąskie uliczki) - parkować na obrzeżach; na pustynię/Atlas rozważyć zorganizowany tour z kierowcą zamiast samodzielnej jazdy (można wtedy oddać auto w Agadirze i wrócić z pustyni transferem tour-operatora).",
+        "- **Ile trwa część górsko-pustynna (dni 8-12).** Cały objazd w głąb kraju to **5 dni**: 1 dzień w Atlasie (dolina Ourika, dzień 8) + 4 dni trasy przez doliny na Saharę i z powrotem (dni 9-12). Sam **obóz na wydmach to jedna noc** (z dnia 11 na 12). W wycenie ta całość jest w jednej pozycji \"tour 4-5 dni\" - operatorzy sprzedają to jako gotowy pakiet z Marrakeszu (transport, noclegi, obóz, wielbłądy w cenie). Krótsze warianty (2-3 dni do Zagory zamiast 4-5 do Erg Chebbi) są tańsze, ale Erg Chebbi ma ładniejsze wydmy i wymaga dłuższego dojazdu.",
+        "- **Dojazd na obóz na Saharze: NIE własnym autem.** Ostatni odcinek do obozu na wydmach pokonuje się **na wielbłądach albo pojazdem 4x4 operatora** - to część zorganizowanego touru, nie samodzielna jazda. Dlatego auto oddajemy w Marrakeszu przed wyruszeniem w góry (dzień 7), a w głąb kraju jedziemy z kierowcą operatora.",
+        "- Prowadzenie auta w medynach niemożliwe (wąskie uliczki) - parkować na obrzeżach. Samodzielna jazda przez Atlas i doliny jest możliwa, ale męcząca (górskie serpentyny, długie dystanse, nawigacja) - stąd rekomendacja zorganizowanego touru z kierowcą na dni 8-12.",
         "- Ubiór: poza plażą/surfem raczej zakryte ramiona i kolana (szczególnie kobiety, w medynach i na wsi) - szacunek dla lokalnej kultury.",
         "- Targowanie na soukach to norma - zaczynać od ~40-50% ceny wywoławczej.",
         "- Najtańszy potencjalnie z trzech kierunków przy budżetowaniu, ale lipcowy upał w głębi to realny dyskomfort - jeśli źle znosicie gorąco, rozważcie Sycylię."
-      ]
-    },
-    {
-      "id": "madagaskar",
-      "label": "Madagaskar",
-      "title": "Madagaskar: 24.07 - 7.08 (14 dni)",
-      "intro": "Zima na Madagaskarze = pora sucha i szczyt sezonu na humbaki. Baza na północy: Nosy Be i okoliczne wyspy (nurkowanie, snorkeling, obserwacja wielorybów z łodzi), z jednym wypadem na kontynent po lemury i baobaby. Najbardziej egzotyczny i przygodowy z trzech kierunków, ale też najtrudniejszy logistycznie i najdroższy w dolocie.",
-      "dni": [
-        {
-          "dzien": 1,
-          "data": "24.07 (pt)",
-          "miejsce": "Samolot → Antananarivo",
-          "plan": "Przelot z Polski z 1-2 przesiadkami (Air France przez Paryż, Ethiopian przez Addis Abebę, Turkish przez Stambuł). Cała podróż ~16-22h. Nocleg przy lotnisku w stolicy (Tana).",
-          "image": "images/madagaskar-01.jpg"
-        },
-        {
-          "dzien": 2,
-          "data": "25.07 (sob)",
-          "miejsce": "Nosy Be",
-          "plan": "Poranny lot krajowy Tana → Nosy Be (Tsaradia/Madagascar Airlines, ~1h30). Transfer do hotelu, aklimatyzacja, pierwsza plaża (Ambatoloaka lub Andilana). Wieczorem świeże owoce morza.",
-          "image": "images/madagaskar-02.jpg"
-        },
-        {
-          "dzien": 3,
-          "data": "26.07 (nd)",
-          "miejsce": "Nosy Be",
-          "plan": "**Sport wodny:** dzień nurkowy lub snorkeling w rezerwacie morskim Nosy Tanikely (żółwie, rafa, 20+ m widoczności). Popołudnie relaks na plaży.",
-          "image": "images/madagaskar-03.jpg"
-        },
-        {
-          "dzien": 4,
-          "data": "27.07 (pon)",
-          "miejsce": "Nosy Be",
-          "plan": "**Obserwacja wielorybów** - rejs łodzią za humbakami (lipiec-wrzesień to sezon, w wodzie z waleniami nie wolno - obserwacja z pokładu). Po drodze snorkeling.",
-          "image": "images/madagaskar-04.jpg"
-        },
-        {
-          "dzien": 5,
-          "data": "28.07 (wt)",
-          "miejsce": "Nosy Komba / Nosy Iranja",
-          "plan": "Wycieczka łodzią: Nosy Komba (lemury maki, wioska rzemieślnicza) + Nosy Iranja (rajska plaża z piaszczystą mierzeją łączącą dwie wyspy). Snorkeling po drodze.",
-          "image": "images/madagaskar-05.jpg"
-        },
-        {
-          "dzien": 6,
-          "data": "29.07 (śr)",
-          "miejsce": "Nosy Be",
-          "plan": "Drugi dzień nurkowy (dla nurków: pinakle Nosy Be, wrak; dla reszty: snorkeling + SUP/kajak). Zachód słońca na Mont Passot (jeziora wulkaniczne).",
-          "image": "images/madagaskar-06.jpg"
-        },
-        {
-          "dzien": 7,
-          "data": "30.07 (czw)",
-          "miejsce": "Nosy Be → Ankify → Ankarana",
-          "plan": "Prom na kontynent (Ankify, ~30-45 min) + przejazd do Parku Narodowego Ankarana (~2-3h). Nocleg w lodge przy parku.",
-          "image": "images/madagaskar-07.jpg"
-        },
-        {
-          "dzien": 8,
-          "data": "31.07 (pt)",
-          "miejsce": "Ankarana",
-          "plan": "**Zwiedzanie natury:** tsingy (ostre wapienne iglice), jaskinie, lemury koronowane, kanion. Cały dzień trekkingu z przewodnikiem.",
-          "image": "images/madagaskar-08.jpg"
-        },
-        {
-          "dzien": 9,
-          "data": "1.08 (sob)",
-          "miejsce": "Powrót Nosy Be",
-          "plan": "Powrót przez Ankify na Nosy Be. Popołudnie odpoczynku, ostatnie zakupy (wanilia, przyprawy, rękodzieło).",
-          "image": "images/madagaskar-09.jpg"
-        },
-        {
-          "dzien": 10,
-          "data": "2.08 (nd)",
-          "miejsce": "Nosy Be",
-          "plan": "Dzień bufor / dodatkowy rejs lub nurkowanie zależnie od pogody (lipiec-wrzesień bywa wietrznie, morze potrafi być wzburzone).",
-          "image": "images/madagaskar-10.jpg"
-        },
-        {
-          "dzien": 11,
-          "data": "3.08 (pon)",
-          "miejsce": "Nosy Be → Antananarivo",
-          "plan": "Lot krajowy z powrotem do stolicy. Popołudnie: spacer po Tanie (pałac Rova, targ, tarasy ryżowe wokół miasta).",
-          "image": "images/madagaskar-11.jpg"
-        },
-        {
-          "dzien": 12,
-          "data": "4.08 (wt)",
-          "miejsce": "Andasibe",
-          "plan": "Przejazd na wschód do Parku Narodowego Andasibe-Mantadia (~3-4h). Wieczorny spacer nocny (nokturnalne lemury, kameleony).",
-          "image": "images/madagaskar-12.jpg"
-        },
-        {
-          "dzien": 13,
-          "data": "5.08 (śr)",
-          "miejsce": "Andasibe → Tana",
-          "plan": "Poranny trekking - **indri** (największy lemur, słynne \"śpiewanie\"). Powrót do stolicy, ostatnia noc.",
-          "image": "images/madagaskar-13.jpg"
-        },
-        {
-          "dzien": 14,
-          "data": "6-7.08",
-          "miejsce": "Samolot → Polska",
-          "plan": "Wylot z Antananarivo (często wieczorem/nocą), przylot do Polski 7.08 po przesiadkach.",
-          "image": "images/madagaskar-14.jpg"
-        }
-      ],
-      "koszty": {
-        "header": [
-          "Pozycja",
-          "Koszt (2 os.)"
-        ],
-        "rows": [
-          [
-            "Loty międzynarodowe PL ↔ Antananarivo",
-            "2 400 - 3 200 € (1 200-1 600 €/os.)"
-          ],
-          [
-            "Loty krajowe Tana ↔ Nosy Be (2x)",
-            "500 - 800 €"
-          ],
-          [
-            "Noclegi 12 nocy (3-4* / dobre lodge)",
-            "1 200 - 1 800 €"
-          ],
-          [
-            "Nurkowanie / rejsy / wieloryby",
-            "500 - 800 €"
-          ],
-          [
-            "Wstęp do parków + przewodnicy (obowiązkowi)",
-            "250 - 400 €"
-          ],
-          [
-            "Transfery, prom, kierowca na kontynencie",
-            "400 - 600 €"
-          ],
-          [
-            "Jedzenie i drobne",
-            "500 - 700 €"
-          ],
-          [
-            "**Razem**",
-            "**~5 750 - 8 300 €** (≈ 24 500 - 35 400 zł)"
-          ]
-        ]
-      },
-      "uwagi": [
-        "**Charakterystyka:** najwięcej sportów wodnych światowej klasy (nurkowanie, snorkeling, sezon na humbaki) + unikatowa przyroda (lemury, tsingy, baobaby), ale mało \"kultury/zabytków\". Loty wewnętrzne i słabe drogi zżerają czas - to kierunek przygodowy, nie leniwy.",
-        "**Pogoda 24.07-7.08:** pora sucha, na wybrzeżu ~25-30°C i woda ~25°C (idealnie), w środku kraju (Tana, ok. 1300 m) chłodno, nocą nawet 5-10°C - zabrać ciepłą warstwę.",
-        "**Uwagi praktyczne:**",
-        "- Wiza turystyczna na Madagaskar - dostępna po przylocie (eVisa online lub na lotnisku), potrzebny ważny paszport i bilet powrotny.",
-        "- Wymagane/zalecane szczepienia (żółta gorączka jeśli przez kraj ryzyka, WZW, dur brzuszny) + profilaktyka malarii - skonsultować z medycyną podróży 4-6 tyg. przed.",
-        "- Loty krajowe rezerwować wcześnie i z buforem - potrafią być przesuwane; nie planować wąskich przesiadek na lot międzynarodowy tego samego dnia.",
-        "- Najdroższy z trzech kierunków głównie przez dolot i loty wewnętrzne; jednocześnie najbardziej \"raz w życiu\"."
       ]
     }
   ]

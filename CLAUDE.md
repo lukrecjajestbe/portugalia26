@@ -1,15 +1,15 @@
 # CLAUDE.md
 
-Instrukcje dla Claude Code dotyczące pracy w tym repo (planowanie dwutygodniowych wakacji, 3 kierunki do wyboru: Sycylia, Maroko, Madagaskar; termin 24.07 - 7.08).
+Instrukcje dla Claude Code dotyczące pracy w tym repo (planowanie dwutygodniowych wakacji, wybrany kierunek: Maroko; termin 24.07 - 7.08).
 
 ## Struktura projektu
 
-- `plan/<kierunek>.md` - jeden plik na każdy kierunek (`sycylia.md`, `maroko.md`, `madagaskar.md`), plan dzień po dniu. Każdy plik zawiera:
+- `plan/<kierunek>.md` - jeden plik na kierunek (obecnie tylko `maroko.md`), plan dzień po dniu. Każdy plik zawiera:
   - nagłówek `# Nazwa: 24.07 - 7.08 (14 dni)`
   - akapit wprowadzenia (intro) tuż pod tytułem
   - tabelę dni w formacie `| Dzień | Data | Miejsce (nocleg) | Plan |` (parsowaną wprost przez `scripts/build_data.py` - kolejność i liczba kolumn są sztywne)
   - sekcję zaczynającą się od `## Uwagi` z orientacyjną wyceną kosztów dla 2 osób (tabela) i praktycznymi uwagami
-- `plan/README.md` - skrót porównawczy trzech kierunków, aktualizować gdy zmieni się plan.
+- `plan/README.md` - skrót kierunku (obecnie Maroko), aktualizować gdy zmieni się plan.
 - `scripts/build_data.py` - skrypt generujący `web/src/data/data.json` (dane dla interaktywnej strony) z plików `plan/*.md`. Lista planów jest zadeklarowana w stałej `PLANY` na górze skryptu - żeby dodać/usunąć kierunek, edytuj tę listę. Skrypt parsuje z każdego pliku: intro (akapit pod tytułem), tabelę dni, tabelę kosztów z sekcji `## Uwagi` (jako strukturalne pole `koszty`) oraz pozostałe akapity uwag (pole `uwagi`, bez surowego markdownu tabel).
 - `scripts/fetch_images.py` - pobiera i kompresuje (max 1600px, JPEG q=78) po jednym zdjęciu na dzień planu z Wikimedia Commons do `web/public/images/<plan_id>-<NN>.jpg`. Zapytania w stałej `SEARCH_QUERIES`. Pomija pobieranie jeśli plik już istnieje - usuń go ręcznie żeby wymusić ponowne pobranie. Zapytania do Wikimedia wymagają nagłówka `User-Agent` (inaczej 403).
 - `web/public/images/*.jpg` - zdjęcia dni, **trzymane w repo** (nie w `.gitignore`) mimo że są generowane, bo deploy (GitHub Actions) ich nie pobiera. Po dodaniu nowego dnia/planu uruchom `fetch_images.py` lokalnie i zacommituj wynik przed pushem.

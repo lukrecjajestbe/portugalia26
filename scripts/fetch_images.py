@@ -23,20 +23,6 @@ MAX_WIDTH = 1600
 JPEG_QUALITY = 78
 
 SEARCH_QUERIES: dict[str, str] = {
-    "sycylia-01": "Catania Piazza del Duomo Sicily",
-    "sycylia-02": "Mount Etna volcano Sicily",
-    "sycylia-03": "Isola Bella Taormina Sicily",
-    "sycylia-04": "Ortygia Syracuse Sicily cathedral",
-    "sycylia-05": "Neapolis archaeological park Syracuse",
-    "sycylia-06": "Noto Sicily baroque",
-    "sycylia-07": "Ragusa Ibla Sicily",
-    "sycylia-08": "Valley of the Temples Agrigento",
-    "sycylia-09": "Scala dei Turchi Sicily",
-    "sycylia-10": "Favignana Cala Rossa Aegadian",
-    "sycylia-11": "Erice Sicily medieval town",
-    "sycylia-12": "Zingaro nature reserve Sicily",
-    "sycylia-13": "Cefalu Sicily cathedral beach",
-    "sycylia-14": "Palermo Quattro Canti Sicily",
     "maroko-01": "Taghazout Morocco",
     "maroko-02": "surfer ocean wave",
     "maroko-03": "Paradise Valley Agadir Morocco",
@@ -51,20 +37,6 @@ SEARCH_QUERIES: dict[str, str] = {
     "maroko-12": "Sahara desert sunrise dunes Morocco",
     "maroko-13": "Agadir beach Morocco",
     "maroko-14": "Marrakech souk market Morocco",
-    "madagaskar-01": "Antananarivo Madagascar city",
-    "madagaskar-02": "Nosy Be beach Madagascar",
-    "madagaskar-03": "sea turtle coral reef snorkeling",
-    "madagaskar-04": "Humpback whale breaching ocean",
-    "madagaskar-05": "Nosy Komba lemur Madagascar",
-    "madagaskar-06": "Mont Passot Nosy Be lakes",
-    "madagaskar-07": "Ankarana National Park Madagascar tsingy",
-    "madagaskar-08": "Tsingy Ankarana limestone Madagascar",
-    "madagaskar-09": "vanilla pods drying",
-    "madagaskar-10": "Nosy Be Madagascar",
-    "madagaskar-11": "Rova Antananarivo palace Madagascar",
-    "madagaskar-12": "Andasibe Mantadia rainforest Madagascar",
-    "madagaskar-13": "Indri lemur Andasibe Madagascar",
-    "madagaskar-14": "Baobab avenue Madagascar sunset",
 }
 
 
