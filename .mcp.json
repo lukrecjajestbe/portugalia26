@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "booking-com": {
+      "type": "http",
+      "url": "https://demandapi-mcp.booking.com/v1/mcp/8132308"
+    }
+  }
+}
