@@ -1,5 +1,6 @@
 import MarkdownText from './MarkdownText'
 import PlanNoclegi from './PlanNoclegi'
+import PlanNotatki from './PlanNotatki'
 
 function imageForDay(dzien) {
   return dzien.image ? `${import.meta.env.BASE_URL}${dzien.image}` : null
@@ -74,6 +75,8 @@ export default function PlanTimeline({ plan }) {
           ))}
         </section>
       )}
+
+      <PlanNotatki planId={plan.id} />
     </div>
   )
 }

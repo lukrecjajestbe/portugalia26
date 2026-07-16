@@ -39,6 +39,7 @@ Frontend to React + Vite (bez TypeScript), zależności npm (nie uv - to warstwa
 Struktura komponentów w `web/src/components/`:
 - `PlanTimeline.jsx` - oś czasu dzień po dniu dla wybranego planu
 - `MarkdownText.jsx` - lekki renderer markdown (bold, linki, listy `- `) używany wszędzie tam, gdzie tekst pochodzi z plików `.md` - nie wyświetlaj surowego tekstu z `data.json` bez przepuszczenia przez ten komponent, bo będą widoczne gwiazdki `**...**`
+- `PlanNotatki.jsx` - wspólny brudnopis wyjazdu zapisywany trwale w Supabase (poza pipeline'em markdown/`data.json`). Autosave z debounce, klucz to `plan_id`. Klient w `src/lib/supabase.js` czyta `VITE_SUPABASE_URL` / `VITE_SUPABASE_ANON_KEY` z env (`.env.local` lokalnie, sekrety GitHub Actions na deployu). Bez kluczy komponent degraduje się łagodnie ("Notatki niedostępne"). Schemat tabeli i polityki RLS: `web/supabase.sql`. Pełny setup: sekcja "Notatki (Supabase)" w `web/README.md`.
 
 Zakładki (jedna na plan) są budowane dynamicznie z `data.plany` w `App.jsx` - nie trzeba ich dopisywać ręcznie po dodaniu nowego kierunku.
 
