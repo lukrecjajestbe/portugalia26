@@ -1,6 +1,6 @@
 # Wakacje 2026 - Maroko
 
-Planowanie dwutygodniowej podróży dla pary, termin **24.07 - 7.08 (14 dni)**, wylot z Polski, średni standard. Wybrany kierunek: **Maroko** - surfing i wiatr Atlantyku + medyny, Atlas i noc na Saharze.
+Planowanie dwutygodniowej podróży dla pary, termin **24.07 - 8.08 (15 dni)**, wylot z Polski (lot bezpośredni WAW ↔ Agadir, przylot w nocy), średni standard. Wybrany kierunek: **Maroko** - surfing i wiatr Atlantyku + medyny, Atlas i noc na Saharze.
 
 **Interaktywna strona (oś czasu dzień po dniu):** https://lukrecjajestbe.github.io/portugalia26/ (deployuje się automatycznie po każdej zmianie na `main`)
 

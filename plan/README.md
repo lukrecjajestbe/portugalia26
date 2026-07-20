@@ -1,8 +1,8 @@
 # Plan wakacyjny 2026 - Maroko
 
-Termin: **24.07 - 7.08 (14 dni)**, 2 osoby, wylot z Polski, średni standard. Plan łączy surfing i wiatr Atlantyku na wybrzeżu z medynami, górami Atlas i nocą na Saharze, a kończy się orientacyjną wyceną kosztów dla pary.
+Termin: **24.07 - 8.08 (15 dni)**, 2 osoby, wylot z Polski (lot bezpośredni WAW ↔ Agadir), średni standard. Plan łączy surfing i wiatr Atlantyku na wybrzeżu z medynami, górami Atlas i nocą na Saharze, a kończy się orientacyjną wyceną kosztów dla pary. Przylot jest w nocy, więc pierwszą noc śpimy zaraz po lądowaniu w Agadirze.
 
-- [Maroko](maroko.md) - surfing i wiatr Atlantyku + medyny, Atlas i noc na Saharze; pętla z Agadiru (tam prowadzą loty), minus to lipcowy upał w głębi kraju. ~3 500-5 900 €.
+- [Maroko](maroko.md) - surfing i wiatr Atlantyku + medyny, Atlas i noc na Saharze; pętla z Agadiru (tam prowadzą loty), minus to lipcowy upał w głębi kraju. ~4 200-6 400 €.
 
 ## Jak czytać wycenę
 

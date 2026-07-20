@@ -8,6 +8,8 @@ Instrukcje dla Claude Code dotyczące pracy w tym repo (planowanie dwutygodniowy
   - nagłówek `# Nazwa: 24.07 - 7.08 (14 dni)`
   - akapit wprowadzenia (intro) tuż pod tytułem
   - tabelę dni w formacie `| Dzień | Data | Miejsce (nocleg) | Plan |` (parsowaną wprost przez `scripts/build_data.py` - kolejność i liczba kolumn są sztywne)
+  - opcjonalną sekcję `## Lot` (akapit + lista punktów `- `) ze szczegółami przelotu; parsowana do pola `lot` i wyświetlana wyróżnionym blokiem `PlanLot.jsx` nad osią czasu
+  - sekcję `## Noclegi` z tabelą 8-kolumnową `| Miejsce | Nocleg | Transport | Hotel | Ocena | Cena | Cecha specjalna | Link |` (grupowaną po `Miejsce`)
   - sekcję zaczynającą się od `## Uwagi` z orientacyjną wyceną kosztów dla 2 osób (tabela) i praktycznymi uwagami
 - `plan/README.md` - skrót kierunku (obecnie Maroko), aktualizować gdy zmieni się plan.
 - `scripts/build_data.py` - skrypt generujący `web/src/data/data.json` (dane dla interaktywnej strony) z plików `plan/*.md`. Lista planów jest zadeklarowana w stałej `PLANY` na górze skryptu - żeby dodać/usunąć kierunek, edytuj tę listę. Skrypt parsuje z każdego pliku: intro (akapit pod tytułem), tabelę dni, tabelę kosztów z sekcji `## Uwagi` (jako strukturalne pole `koszty`) oraz pozostałe akapity uwag (pole `uwagi`, bez surowego markdownu tabel).

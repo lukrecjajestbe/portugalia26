@@ -11,7 +11,7 @@ function App() {
     <>
       <header className="app-header">
         <h1>Wakacje 2026 - Maroko</h1>
-        <p>24.07 - 7.08 (14 dni), 2 osoby</p>
+        <p>24.07 - 8.08 (15 dni), 2 osoby</p>
       </header>
 
       <nav className="tabs">
