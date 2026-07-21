@@ -4,7 +4,7 @@
       "id": "maroko",
       "label": "Maroko",
       "title": "Maroko: 24.07 - 8.08 (15 dni)",
-      "intro": "Najbardziej egzotyczny z komfortowych kierunków: surfing i wiatr Atlantyku na wybrzeżu + medyny, souki, góry Atlas i noc na pustyni w głębi kraju. Loty z Polski prowadzą do **Agadiru**, więc trasa to pętla: start nad chłodniejszym oceanem (aklimatyzacja + surfing), potem Essaouira i w głąb kraju do Marrakeszu, Atlasu i Sahary, na koniec powrót do Agadiru na wylot. Upał w głębi kraju łapiemy krótkimi porcjami w środku wyjazdu.\n\n**Lot:** Warszawa Chopin ↔ Agadir, bezpośredni, w obie strony, 2 osoby. **Wylot: 24.07 o 19:35**, przylot do Agadiru **tej samej nocy ok. 22:30-23:00** czasu lokalnego (Maroko latem UTC+1, godzinę za Polską). **Powrót: 08.08 o 00:55** - to lot w środku nocy z 7 na 8 sierpnia, więc ostatni wieczór w Agadirze kończymy nocnym transferem na lotnisko.\n\n**Nocleg zaraz po przylocie:** ponieważ lądujemy w nocy, **pierwszą noc (24/25.07) śpimy w samym Agadirze** - hotel z całodobową recepcją i klimatyzacją, kilkanaście minut od lotniska Al Massira. Bez jazdy po ciemku do Taghazout po długim dniu. Dopiero rano ruszamy nad ocean.\n\n**Jak się przemieszczamy (dwa etapy):** wybrzeże i dojazd do Marrakeszu (dni 1-8) jedziemy **wynajętym autem** - odległości krótkie, drogi łatwe, pełna elastyczność. Objazd w głąb kraju (Atlas → doliny → Sahara → powrót, dni 9-13) robimy **zorganizowaną wycieczką 4-5 dni z kierowcą**, wyjazd z Marrakeszu - w tym **dojazd na obóz na wydmach jest transportem touru, nie własnym autem** (długie, męczące trasy górskie i pustynne, ostatni odcinek do obozu wielbłądami lub 4x4 operatora). Auto odbieramy na lotnisku po przylocie i oddajemy w Marrakeszu przed wyruszeniem w góry (dzień 8/9); na końcu z Marrakeszu do Agadiru można dojechać autobusem/transferem albo wynająć drugie auto na ostatni odcinek. W tabeli każdy dzień ma znacznik: 🚗 = własne auto, 🚐 = zorganizowany tour.",
+      "intro": "Najbardziej egzotyczny z komfortowych kierunków: surfing i wiatr Atlantyku na wybrzeżu + medyny, souki, góry Atlas i noc na pustyni w głębi kraju. Loty z Polski prowadzą do **Agadiru**, więc trasa to pętla: start nad chłodniejszym oceanem (aklimatyzacja + surfing), potem Essaouira i w głąb kraju do Marrakeszu, Atlasu i Sahary, na koniec powrót do Agadiru na wylot. Upał w głębi kraju łapiemy krótkimi porcjami w środku wyjazdu.\n\n**Lot:** Warszawa Chopin ↔ Agadir, bezpośredni, w obie strony, 2 osoby. **Wylot: 24.07 o 19:35**, przylot do Agadiru **tej samej nocy ok. 22:30-23:00** czasu lokalnego (Maroko latem UTC+1, godzinę za Polską). **Powrót: 08.08 o 00:55** - to lot w środku nocy z 7 na 8 sierpnia, więc ostatni wieczór w Agadirze kończymy nocnym transferem na lotnisko.\n\n**Nocleg zaraz po przylocie:** ponieważ lądujemy w nocy, **pierwszą noc (24/25.07) śpimy w samym Agadirze** - hotel z całodobową recepcją i klimatyzacją, kilkanaście minut od lotniska Al Massira. Bez jazdy po ciemku do Taghazout po długim dniu. Dopiero rano ruszamy nad ocean.\n\n**Jak się przemieszczamy (trzy etapy):** okolice Agadiru i Taghazout (dni 1-4) jeździmy **wynajętym autem** - dojazd z lotniska, surf-spoty, Paradise Valley: krótkie dystanse, pełna elastyczność. Dwie dłuższe trasy po wybrzeżu i w głąb kraju (Taghazout → Essaouira, dzień 5; Essaouira → Marrakesz, dzień 7) robimy **autobusem CTM** zamiast prowadzić samemu. Objazd w głąb kraju (Atlas → doliny → Sahara → powrót, dni 9-13) robimy **zorganizowaną wycieczką 4-5 dni z kierowcą**, wyjazd z Marrakeszu - w tym **dojazd na obóz na wydmach jest transportem touru, nie własnym autem** (długie, męczące trasy górskie i pustynne, ostatni odcinek do obozu wielbłądami lub 4x4 operatora). **Auto bierzemy tylko raz:** odbiór na lotnisku po przylocie, zwrot w Taghazout rano dnia 5 przed autobusem. W Essaouirze i Marrakeszu auta nie potrzebujemy (medyny - wąskie uliczki, wszystko pieszo), a końcowy odcinek Marrakesz → Agadir (dzień 14) też jest autobusem/transferem. Szczegóły kursów CTM i punktu zwrotu auta w sekcji **## Autobusy (CTM)** niżej. W tabeli każdy dzień ma znacznik: 🚗 = własne auto, 🚌 = autobus CTM, 🚐 = zorganizowany tour.",
       "lot": {
         "intro": "Warszawa Chopin ↔ Agadir, bezpośredni w obie strony, 2 osoby.",
         "punkty": [
@@ -39,35 +39,35 @@
           "dzien": 4,
           "data": "27.07 (pon)",
           "miejsce": "Taghazout / Paradise Valley",
-          "plan": "🚗 **Własne auto.** Wypad do Paradise Valley (naturalne baseny w kanionie, skoki do wody, orzeźwienie). Popołudnie: druga sesja surfingu lub relaks na plaży.",
+          "plan": "🚗 **Własne auto (ostatni dzień).** Wypad do Paradise Valley (naturalne baseny w kanionie, skoki do wody, orzeźwienie). Popołudnie: druga sesja surfingu lub relaks na plaży. Auto trzymamy do rana dnia 5.",
           "image": "images/maroko-04.jpg"
         },
         {
           "dzien": 5,
           "data": "28.07 (wt)",
           "miejsce": "Essaouira",
-          "plan": "🚗 **Własne auto.** Przejazd wzdłuż wybrzeża na północ (~2h30-3h). Ufortyfikowana medyna UNESCO, port, mewy, wieczorny spacer po murach (Skala).",
+          "plan": "🚌 **Zwrot auta w Taghazout + autobus CTM.** Rano zwrot auta w Taghazout, transfer taxi (~30 min) do dworca CTM w Agadirze, autobus do Essaouiry. Kursy CTM: 08:15, 11:30, 13:30 (~3h30, patrz sekcja **## Autobusy (CTM)**). Ufortyfikowana medyna UNESCO, port, mewy, wieczorny spacer po murach (Skala).",
           "image": "images/maroko-05.jpg"
         },
         {
           "dzien": 6,
           "data": "29.07 (śr)",
           "miejsce": "Essaouira",
-          "plan": "🚗 **Własne auto.** **Sport wodny:** Essaouira słynie z wiatru - lekcja kitesurfingu lub windsurfingu, albo surfing na spokojniejszej fali. Klimat znośny dzięki bryzie od oceanu.",
+          "plan": "🚶 **Bez auta (miasto pieszo / taxi).** **Sport wodny:** Essaouira słynie z wiatru - lekcja kitesurfingu lub windsurfingu, albo surfing na spokojniejszej fali (plaża w zasięgu spaceru). Klimat znośny dzięki bryzie od oceanu.",
           "image": "images/maroko-06.jpg"
         },
         {
           "dzien": 7,
           "data": "30.07 (czw)",
           "miejsce": "Marrakesz",
-          "plan": "🚗 **Własne auto.** Przejazd w głąb kraju (~2h45). Zameldowanie w riadzie w medynie. Wieczór na placu Jemaa el-Fna (życie zaczyna się po zmroku, gdy spada upał).",
+          "plan": "🚌 **Autobus CTM.** Przejazd w głąb kraju z Essaouiry autobusem CTM (~3h, patrz sekcja **## Autobusy (CTM)**). Zameldowanie w riadzie w medynie. Wieczór na placu Jemaa el-Fna (życie zaczyna się po zmroku, gdy spada upał).",
           "image": "images/maroko-07.jpg"
         },
         {
           "dzien": 8,
           "data": "31.07 (pt)",
           "miejsce": "Marrakesz",
-          "plan": "🚗 **Własne auto (ostatni dzień).** Medyna: pałac Bahia, Madrasa Ben Youssef, ogrody Majorelle, souki. Zwiedzanie rano i wieczorem, w południe basen w riadzie (lipiec = 38-42°C). **Wieczorem zwrot auta w Marrakeszu** - dalej jedziemy zorganizowanym tourem.",
+          "plan": "🚶 **Bez auta (medyna pieszo).** Medyna: pałac Bahia, Madrasa Ben Youssef, ogrody Majorelle, souki. Zwiedzanie rano i wieczorem, w południe basen w riadzie (lipiec = 38-42°C). Wieczorem szykujemy się na zorganizowany tour w głąb kraju (start dnia 9).",
           "image": "images/maroko-08.jpg"
         },
         {
@@ -182,7 +182,7 @@
           {
             "miejsce": "Essaouira",
             "nocleg": "Dni 5-6 (28-29.07)",
-            "transport": "🚗 własne auto",
+            "transport": "🚌 autobus CTM",
             "hotele": [
               {
                 "nazwa": "Riad Babette",
@@ -210,7 +210,7 @@
           {
             "miejsce": "Marrakesz",
             "nocleg": "Dni 7-8 (30-31.07)",
-            "transport": "🚗 własne auto",
+            "transport": "🚌 autobus CTM",
             "hotele": [
               {
                 "nazwa": "Riad Palais Sebban",
@@ -402,12 +402,12 @@
             "500 - 1 000 € (250-500 €/os.)"
           ],
           [
-            "Wynajem auta ~8 dni (wybrzeże + dojazd do Marrakeszu, odbiór Agadir / zwrot Marrakesz)",
-            "350 - 600 €"
+            "Wynajem auta ~4 dni (Agadir + Taghazout, odbiór lotnisko Agadir / zwrot Taghazout)",
+            "160 - 300 €"
           ],
           [
-            "Paliwo + drobne opłaty",
-            "150 - 250 €"
+            "Paliwo + drobne opłaty (krótszy wynajem)",
+            "60 - 120 €"
           ],
           [
             "Noclegi 14 nocy (1 noc Agadir po przylocie + riady 3-4* + kasby + obóz na pustyni)",
@@ -420,6 +420,10 @@
           [
             "Zorganizowany tour w głąb kraju 4-5 dni z kierowcą (Atlas + doliny + obóz na Saharze, dni 9-13)",
             "700 - 1 300 €"
+          ],
+          [
+            "Autobusy CTM: Taghazout/Agadir → Essaouira → Marrakesz (dni 5 i 7, 2 os.) + transfery taxi",
+            "80 - 160 €"
           ],
           [
             "Transfer/autobus Marrakesz → Agadir (dzień 14)",
@@ -441,12 +445,12 @@
         "**Uwagi praktyczne:**",
         "- **Nocny przylot i pierwsza noc.** Lot ląduje w Agadirze ok. 22:30-23:00, dlatego pierwszą noc śpimy w samym Agadirze (hotel z całodobową recepcją i transferem lotniskowym), a do Taghazout jedziemy dopiero rano. Auto odbieramy na lotnisku od razu po przylocie - warto potwierdzić z wypożyczalnią, że punkt odbioru działa do późnej nocy.",
         "- **Nocny powrót.** Lot powrotny 8.08 o 00:55 startuje w środku nocy, więc ostatni pełny dzień (7.08) spędzamy w Agadirze i dopiero wieczorem jedziemy na lotnisko. Nocleg w Agadirze rezerwujemy z całodobową recepcją i późnym wymeldowaniem (lub przechowalnią bagażu), żeby wygodnie doczekać do transferu.",
-        "- Loty z Polski celują w **Agadir** (lotnisko Al Massira, ok. 30 min od Taghazout) - stąd trasa jako pętla z powrotem do Agadiru na wylot. Auto odbieramy w Agadirze, a zwracamy w Marrakeszu (dzień 8) przed wyruszeniem w góry; opłata one-way Agadir → Marrakesz jest niewielka i i tak taniej niż trzymać auto bezczynnie przez 5 dni touru. Alternatywa dla purystów pętli: oddać auto dopiero po powrocie do Agadiru, ale wtedy stoi ono 5 dni pod hotelem w Marrakeszu (dodatkowy koszt + ryzyko).",
+        "- Loty z Polski celują w **Agadir** (lotnisko Al Massira, ok. 30 min od Taghazout) - stąd trasa jako pętla z powrotem do Agadiru na wylot. **Auto bierzemy tylko na dni 1-4** (Agadir + Taghazout): odbiór na lotnisku Al Massira po przylocie, zwrot w Taghazout rano dnia 5. Dłuższe trasy (Taghazout → Essaouira, Essaouira → Marrakesz) robimy autobusem CTM, a w medynach Essaouiry i Marrakeszu auto i tak jest bezużyteczne. Dzięki temu nie płacimy za auto stojące bezczynnie i nie prowadzimy męczących odcinków - szczegóły w sekcji **## Autobusy (CTM)**.",
         "- **Klimatyzacja i odwołanie rezerwacji.** Propozycje noclegów dobrane pod dwa kryteria: klimatyzacja (kluczowa w głębi kraju, gdzie noce w Marrakeszu bywają duszne) oraz możliwość bezpłatnego odwołania rezerwacji na Bookingu. Wyjątki: obozy na Saharze i nocleg w wąwozie Dades zwykle organizuje operator zorganizowanego touru (dni 11-12) - tam nie szukamy noclegu osobno i nie potrzebujemy AC (chłodzi pustynna/górska noc). W Essaouirze bryza oceaniczna daje ~22-24°C, więc AC bywa rzadsze i mniej potrzebne - część riadów go nie ma, co nie jest problemem przy tej temperaturze.",
         "- Wiza: obywatele PL bez wizy do 90 dni. Waluta: dirham (MAD), niewymienialny - wypłacać na miejscu z bankomatów.",
         "- Szczepienia: brak obowiązkowych; standardowo zalecane WZW A/B, dur - konsultacja z medycyną podróży. Zwracać uwagę na wodę (pić butelkowaną) i higienę jedzenia.",
         "- **Ile trwa część górsko-pustynna (dni 9-13).** Cały objazd w głąb kraju to **5 dni**: 1 dzień w Atlasie (dolina Ourika, dzień 9) + 4 dni trasy przez doliny na Saharę i z powrotem (dni 10-13). Sam **obóz na wydmach to jedna noc** (z dnia 12 na 13). W wycenie ta całość jest w jednej pozycji \"tour 4-5 dni\" - operatorzy sprzedają to jako gotowy pakiet z Marrakeszu (transport, noclegi, obóz, wielbłądy w cenie). Krótsze warianty (2-3 dni do Zagory zamiast 4-5 do Erg Chebbi) są tańsze, ale Erg Chebbi ma ładniejsze wydmy i wymaga dłuższego dojazdu.",
-        "- **Dojazd na obóz na Saharze: NIE własnym autem.** Ostatni odcinek do obozu na wydmach pokonuje się **na wielbłądach albo pojazdem 4x4 operatora** - to część zorganizowanego touru, nie samodzielna jazda. Dlatego auto oddajemy w Marrakeszu przed wyruszeniem w góry (dzień 8), a w głąb kraju jedziemy z kierowcą operatora.",
+        "- **Dojazd na obóz na Saharze: NIE własnym autem.** Ostatni odcinek do obozu na wydmach pokonuje się **na wielbłądach albo pojazdem 4x4 operatora** - to część zorganizowanego touru, nie samodzielna jazda. Auto oddaliśmy już w Taghazout (dzień 5), a w głąb kraju jedziemy z kierowcą operatora.",
         "- Prowadzenie auta w medynach niemożliwe (wąskie uliczki) - parkować na obrzeżach. Samodzielna jazda przez Atlas i doliny jest możliwa, ale męcząca (górskie serpentyny, długie dystanse, nawigacja) - stąd rekomendacja zorganizowanego touru z kierowcą na dni 9-13.",
         "- Ubiór: poza plażą/surfem raczej zakryte ramiona i kolana (szczególnie kobiety, w medynach i na wsi) - szacunek dla lokalnej kultury.",
         "- Targowanie na soukach to norma - zaczynać od ~40-50% ceny wywoławczej."
