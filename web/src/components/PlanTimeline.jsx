@@ -1,5 +1,6 @@
 import MarkdownText from './MarkdownText'
 import PlanLot from './PlanLot'
+import PlanTransport from './PlanTransport'
 import PlanNoclegi from './PlanNoclegi'
 import PlanNotatki from './PlanNotatki'
 
@@ -13,6 +14,8 @@ export default function PlanTimeline({ plan }) {
       <MarkdownText text={plan.intro} className="plan-intro" />
 
       <PlanLot lot={plan.lot} />
+
+      <PlanTransport transport={plan.transport} />
 
       <div className="timeline">
         {plan.dni.map((dzien) => {

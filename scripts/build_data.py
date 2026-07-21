@@ -124,6 +124,25 @@ def extract_lot(text: str) -> dict:
     return {"intro": " ".join(intro_lines), "punkty": punkty}
 
 
+def extract_transport(text: str) -> dict:
+    match = re.search(
+        r"## Transport\s*\n(?P<body>.*?)(?=\n## |\Z)", text, re.DOTALL
+    )
+    if not match:
+        return {}
+    intro_lines: list[str] = []
+    punkty: list[str] = []
+    for raw in match.group("body").splitlines():
+        line = raw.strip()
+        if not line:
+            continue
+        if line.startswith("- "):
+            punkty.append(line[2:].strip())
+        elif not punkty:
+            intro_lines.append(line)
+    return {"intro": " ".join(intro_lines), "punkty": punkty}
+
+
 def extract_noclegi(text: str) -> dict:
     match = re.search(
         r"## Noclegi\s*\n(?P<body>.*?)(?=\n## |\Z)", text, re.DOTALL
@@ -191,6 +210,7 @@ def build_plan(md_path: Path, plan_id: str, label: str) -> dict:
         "title": extract_title(text),
         "intro": extract_intro(text),
         "lot": extract_lot(text),
+        "transport": extract_transport(text),
         "dni": days,
         "noclegi": extract_noclegi(text),
         "koszty": extract_koszty(uwagi_text),

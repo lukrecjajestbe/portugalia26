@@ -261,6 +261,43 @@ main {
   margin-bottom: 4px;
 }
 
+.transport {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--sun);
+  border-radius: 10px;
+  padding: 14px 18px;
+  margin-bottom: 20px;
+}
+
+.transport h2 {
+  color: var(--sun);
+  font-size: 1.15rem;
+  margin: 0 0 8px;
+}
+
+.transport-intro {
+  color: var(--text);
+  margin: 0 0 10px;
+}
+
+.transport-punkty {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.transport-punkty li {
+  color: var(--text);
+  background: var(--sand);
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 0.92rem;
+}
+
 .timeline {
   display: flex;
   flex-direction: column;

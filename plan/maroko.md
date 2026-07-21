@@ -6,8 +6,6 @@ Najbardziej egzotyczny z komfortowych kierunków: surfing i wiatr Atlantyku na w
 
 **Nocleg zaraz po przylocie:** ponieważ lądujemy w nocy, **pierwszą noc (24/25.07) śpimy w samym Agadirze** - hotel z całodobową recepcją i klimatyzacją, kilkanaście minut od lotniska Al Massira. Bez jazdy po ciemku do Taghazout po długim dniu. Dopiero rano ruszamy nad ocean.
 
-**Jak się przemieszczamy (trzy etapy):** okolice Agadiru i Taghazout (dni 1-4) jeździmy **wynajętym autem** - dojazd z lotniska, surf-spoty, Paradise Valley: krótkie dystanse, pełna elastyczność. Dwie dłuższe trasy po wybrzeżu i w głąb kraju (Taghazout → Essaouira, dzień 5; Essaouira → Marrakesz, dzień 7) robimy **autobusem CTM** zamiast prowadzić samemu. Objazd w głąb kraju (Atlas → doliny → Sahara → powrót, dni 9-13) robimy **zorganizowaną wycieczką 4-5 dni z kierowcą**, wyjazd z Marrakeszu - w tym **dojazd na obóz na wydmach jest transportem touru, nie własnym autem** (długie, męczące trasy górskie i pustynne, ostatni odcinek do obozu wielbłądami lub 4x4 operatora). **Auto bierzemy tylko raz:** odbiór na lotnisku po przylocie, zwrot w Taghazout rano dnia 5 przed autobusem. W Essaouirze i Marrakeszu auta nie potrzebujemy (medyny - wąskie uliczki, wszystko pieszo), a końcowy odcinek Marrakesz → Agadir (dzień 14) też jest autobusem/transferem. Szczegóły kursów CTM i punktu zwrotu auta w sekcji „Autobusy (CTM)" niżej. W tabeli każdy dzień ma znacznik: 🚗 = własne auto, 🚌 = autobus CTM, 🚐 = zorganizowany tour.
-
 | Dzień | Data | Miejsce (nocleg) | Plan |
 |---|---|---|---|
 | 1 | 24.07 (pt) | Agadir (nocleg po przylocie) | ✈️🚗 **Nocny przylot.** Lot WAW → Agadir, lądowanie ok. 22:30-23:00. Odbiór auta na lotnisku, krótki przejazd do hotelu w Agadirze. **Nocleg blisko lotniska, tylko sen** - bez planów, po długim dniu podróży. |
@@ -33,6 +31,15 @@ Warszawa Chopin ↔ Agadir, bezpośredni w obie strony, 2 osoby.
 - **Wylot z Polski:** 24.07.2026, 19:35 (WAW → Agadir). Przylot tej samej nocy, ok. 22:30-23:00 czasu lokalnego.
 - **Powrót:** 08.08.2026, 00:55 (Agadir → WAW). To lot w środku nocy z 7 na 8 sierpnia - ostatni wieczór 7.08 kończymy nocnym transferem na lotnisko.
 - **Konsekwencja dla planu:** nocny przylot = pierwsza noc w Agadirze zaraz po lądowaniu (bez jazdy do Taghazout po ciemku); nocny powrót = pełny ostatni dzień 7.08 w Agadirze, wylot dopiero po północy.
+
+## Transport
+
+**Auto bierzemy tylko raz** - odbiór na lotnisku Al Massira po przylocie, zwrot w Taghazout rano dnia 5 przed autobusem. Dwie dłuższe trasy po wybrzeżu i w głąb kraju robimy autobusem CTM zamiast prowadzić samemu, a objazd Atlas → doliny → Sahara to zorganizowany tour z kierowcą. W Essaouirze i Marrakeszu auta nie potrzebujemy (medyny - wąskie uliczki, wszystko pieszo). Szczegóły kursów CTM i punktu zwrotu auta w sekcji „Autobusy (CTM)" niżej.
+
+- 🚗 **Dni 1-4 - własne auto** (Agadir + Taghazout): dojazd z lotniska, surf-spoty, Paradise Valley. Krótkie dystanse, pełna elastyczność.
+- 🚌 **Dni 5 i 7 - autobus CTM** (dwie dłuższe trasy): Taghazout → Essaouira (dzień 5), Essaouira → Marrakesz (dzień 7).
+- 🚐 **Dni 9-13 - zorganizowany tour z kierowcą** (Atlas → doliny → Sahara → powrót): dojazd na obóz na wydmach transportem touru (wielbłądy / 4x4), nie własnym autem.
+- 🚌 **Dzień 14 - transfer/autobus** Marrakesz → Agadir na wylot.
 
 ## Autobusy (CTM)
 
