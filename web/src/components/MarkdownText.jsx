@@ -33,6 +33,9 @@ export default function MarkdownText({ text, as: Tag = 'p', className }) {
   return (
     <Tag className={className}>
       {lines.map((line, i) => {
+        if (line.trim() === '') {
+          return <span key={i} style={{ display: 'block', height: '0.7em' }} />
+        }
         const content = line.startsWith('- ') ? line.slice(2) : line
         return (
           <span key={i} style={{ display: 'block' }}>

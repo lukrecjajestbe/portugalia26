@@ -10,7 +10,7 @@ function imageForDay(dzien) {
 export default function PlanTimeline({ plan }) {
   return (
     <div>
-      <p className="plan-intro">{plan.intro}</p>
+      <MarkdownText text={plan.intro} className="plan-intro" />
 
       <PlanLot lot={plan.lot} />
 
