@@ -4,7 +4,7 @@
       "id": "maroko",
       "label": "Maroko",
       "title": "Maroko: 24.07 - 8.08 (15 dni)",
-      "intro": "Najbardziej egzotyczny z komfortowych kierunków: surfing i wiatr Atlantyku na wybrzeżu + medyny, souki, góry Atlas i noc na pustyni w głębi kraju. Loty z Polski prowadzą do **Agadiru**, więc trasa to pętla: start nad chłodniejszym oceanem (aklimatyzacja + surfing), potem Essaouira i w głąb kraju do Marrakeszu, Atlasu i Sahary, na koniec powrót do Agadiru na wylot. Upał w głębi kraju łapiemy krótkimi porcjami w środku wyjazdu.\n\n**Lot:** Warszawa Chopin ↔ Agadir, bezpośredni, w obie strony, 2 osoby. **Wylot: 24.07 o 19:35**, przylot do Agadiru **tej samej nocy ok. 22:30-23:00** czasu lokalnego (Maroko latem UTC+1, godzinę za Polską). **Powrót: 08.08 o 00:55** - to lot w środku nocy z 7 na 8 sierpnia, więc ostatni wieczór w Agadirze kończymy nocnym transferem na lotnisko.\n\n**Nocleg zaraz po przylocie:** ponieważ lądujemy w nocy, **pierwszą noc (24/25.07) śpimy w samym Agadirze** - hotel z całodobową recepcją i klimatyzacją, kilkanaście minut od lotniska Al Massira. Bez jazdy po ciemku do Taghazout po długim dniu. Dopiero rano ruszamy nad ocean.",
+      "intro": "Najbardziej egzotyczny z komfortowych kierunków: surfing i wiatr Atlantyku na wybrzeżu + medyny, souki, góry Atlas i noc na pustyni w głębi kraju. Loty z Polski prowadzą do **Agadiru**, więc trasa to pętla: start nad chłodniejszym oceanem (aklimatyzacja + surfing w Tamraght i Taghazout), potem Essaouira i w głąb kraju do Marrakeszu, Atlasu i Sahary, na koniec powrót do Agadiru na wylot. Upał w głębi kraju łapiemy krótkimi porcjami w środku wyjazdu.\n\n**Lot:** Warszawa Chopin ↔ Agadir, bezpośredni, w obie strony, 2 osoby. **Wylot: 24.07 o 19:35**, przylot do Agadiru **tej samej nocy ok. 22:30-23:00** czasu lokalnego (Maroko latem UTC+1, godzinę za Polską). **Powrót: 08.08 o 00:55** - to lot w środku nocy z 7 na 8 sierpnia, więc ostatni wieczór w Agadirze kończymy nocnym transferem na lotnisko.\n\n**Nocleg zaraz po przylocie:** mimo nocnego lądowania **pierwszą noc (24/25.07) śpimy w Tamraght** - surferskiej wiosce tuż przy Taghazout, ~30-40 min od lotniska Al Massira. Auto odbieramy na lotnisku i jedziemy prosto nad ocean (krótki, prosty odcinek drogą nadmorską). Od pierwszego poranka jesteśmy już w klimacie surfingu.",
       "lot": {
         "intro": "Warszawa Chopin ↔ Agadir, bezpośredni w obie strony, 2 osoby.",
         "punkty": [
@@ -14,118 +14,118 @@
         ]
       },
       "transport": {
-        "intro": "**Auto bierzemy tylko raz** - odbiór na lotnisku Al Massira po przylocie, zwrot w Taghazout rano dnia 5 przed autobusem. Dwie dłuższe trasy po wybrzeżu i w głąb kraju robimy autobusem CTM zamiast prowadzić samemu, a objazd Atlas → doliny → Sahara to zorganizowany tour z kierowcą. W Essaouirze i Marrakeszu auta nie potrzebujemy (medyny - wąskie uliczki, wszystko pieszo). Szczegóły kursów CTM i punktu zwrotu auta w sekcji „Autobusy (CTM)\" niżej.",
+        "intro": "**Auto bierzemy tylko raz** - odbiór na lotnisku Al Massira po przylocie, zwrot w Taghazout rano dnia 4 przed autobusem. Dwie dłuższe trasy po wybrzeżu i w głąb kraju robimy autobusem CTM zamiast prowadzić samemu, a objazd Atlas → doliny → Sahara to zorganizowany tour z kierowcą. W Essaouirze i Marrakeszu auta nie potrzebujemy (medyny - wąskie uliczki, wszystko pieszo). Szczegóły kursów CTM i punktu zwrotu auta w sekcji „Autobusy (CTM)\" niżej.",
         "punkty": [
-          "🚗 **Dni 1-4 - własne auto** (Agadir + Taghazout): dojazd z lotniska, surf-spoty, Paradise Valley. Krótkie dystanse, pełna elastyczność.",
-          "🚌 **Dni 5 i 7 - autobus CTM** (dwie dłuższe trasy): Taghazout → Essaouira (dzień 5), Essaouira → Marrakesz (dzień 7).",
-          "🚐 **Dni 9-13 - zorganizowany tour z kierowcą** (Atlas → doliny → Sahara → powrót): dojazd na obóz na wydmach transportem touru (wielbłądy / 4x4), nie własnym autem.",
-          "🚌 **Dzień 14 - transfer/autobus** Marrakesz → Agadir na wylot."
+          "🚗 **Dni 1-3 - własne auto** (Tamraght + Taghazout): dojazd z lotniska, surf-spoty, ewentualnie Paradise Valley. Krótkie dystanse, pełna elastyczność.",
+          "🚌 **Dni 4 i 6 - autobus CTM** (dwie dłuższe trasy): Taghazout → Essaouira (dzień 4), Essaouira → Marrakesz (dzień 6).",
+          "🚐 **Dni 8-12 - zorganizowany tour z kierowcą** (Atlas → doliny → Sahara → powrót): dojazd na obóz na wydmach transportem touru (wielbłądy / 4x4), nie własnym autem.",
+          "🚌 **Dzień 13 - transfer/autobus** Marrakesz → Agadir na wylot."
         ]
       },
       "dni": [
         {
           "dzien": 1,
           "data": "24.07 (pt)",
-          "miejsce": "Agadir (nocleg po przylocie)",
-          "plan": "✈️🚗 **Nocny przylot.** Lot WAW → Agadir, lądowanie ok. 22:30-23:00. Odbiór auta na lotnisku, krótki przejazd do hotelu w Agadirze. **Nocleg blisko lotniska, tylko sen** - bez planów, po długim dniu podróży.",
+          "miejsce": "Tamraght (nocleg po przylocie)",
+          "plan": "✈️🚗 **Nocny przylot.** Lot WAW → Agadir, lądowanie ok. 22:30-23:00. Odbiór auta na lotnisku, przejazd drogą nadmorską do Tamraght (~30-40 min). **Nocleg tylko na sen** - bez planów, po długim dniu podróży, ale rano budzimy się już nad oceanem.",
           "image": "images/maroko-01.jpg"
         },
         {
           "dzien": 2,
           "data": "25.07 (sob)",
           "miejsce": "Taghazout",
-          "plan": "🚗 **Własne auto.** Rano przejazd do surferskiej wioski Taghazout (~30-40 min). Aklimatyzacja nad oceanem, pierwsze wejście do wody, zachód słońca, świeże ryby.",
+          "plan": "🚗 **Własne auto.** Rano krótki przeskok z Tamraght do surferskiej wioski Taghazout (~5-10 min). Aklimatyzacja nad oceanem, pierwsze wejście do wody, zachód słońca, świeże ryby.",
           "image": "images/maroko-02.jpg"
         },
         {
           "dzien": 3,
           "data": "26.07 (nd)",
           "miejsce": "Taghazout",
-          "plan": "🚗 **Własne auto.** **Dzień surfingowy:** Anchor Point / Panorama / Devil's Rock; lato = mniejsza, łagodniejsza fala idealna do nauki. Popołudnie: joga / hammam.",
+          "plan": "🚗 **Własne auto (ostatni dzień).** **Dzień surfingowy:** Anchor Point / Panorama / Devil's Rock; lato = mniejsza, łagodniejsza fala idealna do nauki. Alternatywnie wypad do Paradise Valley (naturalne baseny w kanionie). Popołudnie: joga / hammam. Auto trzymamy do rana dnia 4.",
           "image": "images/maroko-03.jpg"
         },
         {
           "dzien": 4,
           "data": "27.07 (pon)",
-          "miejsce": "Taghazout / Paradise Valley",
-          "plan": "🚗 **Własne auto (ostatni dzień).** Wypad do Paradise Valley (naturalne baseny w kanionie, skoki do wody, orzeźwienie). Popołudnie: druga sesja surfingu lub relaks na plaży. Auto trzymamy do rana dnia 5.",
+          "miejsce": "Essaouira",
+          "plan": "🚌 **Zwrot auta w Taghazout + autobus CTM.** Rano zwrot auta w Taghazout, transfer taxi (~30 min) do dworca CTM w Agadirze, autobus do Essaouiry. Kursy CTM: 08:15, 11:30, 13:30 (~3h30, patrz sekcja „Autobusy (CTM)\"). Ufortyfikowana medyna UNESCO, port, mewy, wieczorny spacer po murach (Skala).",
           "image": "images/maroko-04.jpg"
         },
         {
           "dzien": 5,
           "data": "28.07 (wt)",
           "miejsce": "Essaouira",
-          "plan": "🚌 **Zwrot auta w Taghazout + autobus CTM.** Rano zwrot auta w Taghazout, transfer taxi (~30 min) do dworca CTM w Agadirze, autobus do Essaouiry. Kursy CTM: 08:15, 11:30, 13:30 (~3h30, patrz sekcja „Autobusy (CTM)\"). Ufortyfikowana medyna UNESCO, port, mewy, wieczorny spacer po murach (Skala).",
+          "plan": "🚶 **Bez auta (miasto pieszo / taxi).** **Sport wodny:** Essaouira słynie z wiatru - lekcja kitesurfingu lub windsurfingu, albo surfing na spokojniejszej fali (plaża w zasięgu spaceru). Klimat znośny dzięki bryzie od oceanu.",
           "image": "images/maroko-05.jpg"
         },
         {
           "dzien": 6,
           "data": "29.07 (śr)",
-          "miejsce": "Essaouira",
-          "plan": "🚶 **Bez auta (miasto pieszo / taxi).** **Sport wodny:** Essaouira słynie z wiatru - lekcja kitesurfingu lub windsurfingu, albo surfing na spokojniejszej fali (plaża w zasięgu spaceru). Klimat znośny dzięki bryzie od oceanu.",
+          "miejsce": "Marrakesz",
+          "plan": "🚌 **Autobus CTM.** Przejazd w głąb kraju z Essaouiry autobusem CTM (~3h, patrz sekcja „Autobusy (CTM)\"). Zameldowanie w riadzie w medynie. Wieczór na placu Jemaa el-Fna (życie zaczyna się po zmroku, gdy spada upał).",
           "image": "images/maroko-06.jpg"
         },
         {
           "dzien": 7,
           "data": "30.07 (czw)",
           "miejsce": "Marrakesz",
-          "plan": "🚌 **Autobus CTM.** Przejazd w głąb kraju z Essaouiry autobusem CTM (~3h, patrz sekcja „Autobusy (CTM)\"). Zameldowanie w riadzie w medynie. Wieczór na placu Jemaa el-Fna (życie zaczyna się po zmroku, gdy spada upał).",
+          "plan": "🚶 **Bez auta (medyna pieszo).** Medyna: pałac Bahia, Madrasa Ben Youssef, ogrody Majorelle, souki. Zwiedzanie rano i wieczorem, w południe basen w riadzie (lipiec = 38-42°C). Wieczorem szykujemy się na zorganizowany tour w głąb kraju (start dnia 8).",
           "image": "images/maroko-07.jpg"
         },
         {
           "dzien": 8,
           "data": "31.07 (pt)",
-          "miejsce": "Marrakesz",
-          "plan": "🚶 **Bez auta (medyna pieszo).** Medyna: pałac Bahia, Madrasa Ben Youssef, ogrody Majorelle, souki. Zwiedzanie rano i wieczorem, w południe basen w riadzie (lipiec = 38-42°C). Wieczorem szykujemy się na zorganizowany tour w głąb kraju (start dnia 9).",
+          "miejsce": "Dolina Ourika (Atlas)",
+          "plan": "🚐 **Zorganizowany tour z kierowcą (start).** Wyjazd z Marrakeszu autem operatora w Wysoki Atlas: dolina Ourika, wodospady Setti Fatma, berberyjskie wioski, chłodniej niż w mieście. Nocleg w górskim guesthouse.",
           "image": "images/maroko-08.jpg"
         },
         {
           "dzien": 9,
           "data": "1.08 (sob)",
-          "miejsce": "Dolina Ourika (Atlas)",
-          "plan": "🚐 **Zorganizowany tour z kierowcą (start).** Wyjazd z Marrakeszu autem operatora w Wysoki Atlas: dolina Ourika, wodospady Setti Fatma, berberyjskie wioski, chłodniej niż w mieście. Nocleg w górskim guesthouse.",
+          "miejsce": "Aït Ben Haddou → Ouarzazate",
+          "plan": "🚐 **Zorganizowany tour.** Przejazd przez przełęcz Tizi n'Tichka do ksaru **Aït Ben Haddou** (UNESCO, plan filmowy - \"Gladiator\", \"Gra o Tron\"). Nocleg w Ouarzazate.",
           "image": "images/maroko-09.jpg"
         },
         {
           "dzien": 10,
           "data": "2.08 (nd)",
-          "miejsce": "Aït Ben Haddou → Ouarzazate",
-          "plan": "🚐 **Zorganizowany tour.** Przejazd przez przełęcz Tizi n'Tichka do ksaru **Aït Ben Haddou** (UNESCO, plan filmowy - \"Gladiator\", \"Gra o Tron\"). Nocleg w Ouarzazate.",
+          "miejsce": "Dolina Dades / skraj pustyni",
+          "plan": "🚐 **Zorganizowany tour.** Przejazd doliną róż i wąwozami Dades/Todra. Krajobrazy jak z Marsa, palmowe oazy. Nocleg w kasbie.",
           "image": "images/maroko-10.jpg"
         },
         {
           "dzien": 11,
           "data": "3.08 (pon)",
-          "miejsce": "Dolina Dades / skraj pustyni",
-          "plan": "🚐 **Zorganizowany tour.** Przejazd doliną róż i wąwozami Dades/Todra. Krajobrazy jak z Marsa, palmowe oazy. Nocleg w kasbie.",
+          "miejsce": "Pustynia (Erg Chebbi / Zagora)",
+          "plan": "🚐 **Zorganizowany tour - dojazd na obóz.** Autem operatora do skraju wydm, ostatni odcinek **na wielbłądach** (lub 4x4 operatora) o zachodzie słońca. **Noc na Saharze:** obóz na wydmach, muzyka berberyjska, gwiazdy. (Erg Chebbi ładniejsze, Zagora bliżej - wybór wg czasu.)",
           "image": "images/maroko-11.jpg"
         },
         {
           "dzien": 12,
           "data": "4.08 (wt)",
-          "miejsce": "Pustynia (Erg Chebbi / Zagora)",
-          "plan": "🚐 **Zorganizowany tour - dojazd na obóz.** Autem operatora do skraju wydm, ostatni odcinek **na wielbłądach** (lub 4x4 operatora) o zachodzie słońca. **Noc na Saharze:** obóz na wydmach, muzyka berberyjska, gwiazdy. (Erg Chebbi ładniejsze, Zagora bliżej - wybór wg czasu.)",
+          "miejsce": "Powrót Marrakesz",
+          "plan": "🚐 **Zorganizowany tour (koniec).** Wschód słońca na wydmach, powrót do Marrakeszu autem operatora (dłuższy przejazd). Ostatni wieczór w mieście, hammam, zakupy na souku.",
           "image": "images/maroko-12.jpg"
         },
         {
           "dzien": 13,
           "data": "5.08 (śr)",
-          "miejsce": "Powrót Marrakesz",
-          "plan": "🚐 **Zorganizowany tour (koniec).** Wschód słońca na wydmach, powrót do Marrakeszu autem operatora (dłuższy przejazd). Ostatni wieczór w mieście, hammam, zakupy na souku.",
+          "miejsce": "Agadir",
+          "plan": "🚐 **Transfer / autobus** (auto już oddane) lub drugie wynajęte auto na ten odcinek. Powrót nad ocean do Agadiru (~2h45). Popołudnie na plaży miejskiej, spacer po nadmorskiej promenadzie, kolacja z widokiem na zatokę.",
           "image": "images/maroko-13.jpg"
         },
         {
           "dzien": 14,
           "data": "6.08 (czw)",
           "miejsce": "Agadir",
-          "plan": "🚐 **Transfer / autobus** (auto już oddane) lub drugie wynajęte auto na ten odcinek. Powrót nad ocean do Agadiru (~2h45). Popołudnie na plaży miejskiej, spacer po nadmorskiej promenadzie, kolacja z widokiem na zatokę.",
+          "plan": "🌊 **Bez auta.** Pełny dzień relaksu na finał: plaża miejska, kasba Agadir Oufella (widok na zatokę), souk El Had, ostatnia sesja surfingu lub spa/hammam.",
           "image": "images/maroko-14.jpg"
         },
         {
           "dzien": 15,
           "data": "7-8.08 (pt/sob)",
           "miejsce": "Agadir → Polska",
-          "plan": "🌊✈️ Ostatni pełny dzień w Agadirze: plaża, kasba Agadir Oufella, ostatnia sesja surfingu, pożegnalna kolacja. **Wieczorem 7.08 nocny transfer na lotnisko**, wylot **8.08 o 00:55** do Warszawy.",
+          "plan": "🌊✈️ Ostatni pełny dzień w Agadirze: plaża, promenada, pożegnalna kolacja. **Wieczorem 7.08 nocny transfer na lotnisko**, wylot **8.08 o 00:55** do Warszawy.",
           "image": "images/maroko-15.jpg"
         }
       ],
@@ -133,64 +133,64 @@
         "intro": "Po kilka propozycji na każde miejsce trasy: wszystkie z **klimatyzacją** i znośnymi ocenami (poza obozami na Saharze i noclegiem w wąwozie Dades, gdzie nocleg organizuje operator touru), z **możliwością bezpłatnego odwołania** na Bookingu w tych terminach. Każda z jedną cechą specjalną. Ceny orientacyjne z Bookinga (pokój 2-os., EUR) dla wskazanych nocy - mogą się zmienić. Uwaga o Essaouirze: nad oceanem panuje chłodna bryza (~22-24°C), więc klimatyzacja jest tam rzadziej montowana niż w głębi kraju - propozycje niżej to riady, które ją mają lub w których nie jest potrzebna.",
         "grupy": [
           {
-            "miejsce": "Agadir (przylot)",
+            "miejsce": "Tamraght (przylot)",
             "nocleg": "Dzień 1 (24/25.07)",
             "transport": "✈️🚗 własne auto",
             "hotele": [
               {
-                "nazwa": "Hôtel Riad Salam Agadir",
-                "ocena": "8.2 (2382)",
-                "cena": "62 € / noc",
-                "cecha": "🌙 Całodobowa recepcja i transfer lotniskowy - idealny na nocne lądowanie, tuż przy plaży miejskiej. Klimatyzacja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/riad-salam-aagdir.html?aid=8132308&checkin=2026-07-24&checkout=2026-07-25"
+                "nazwa": "Surf Maroc Amouage",
+                "ocena": "9.0 (250+)",
+                "cena": "~95 € / noc",
+                "cecha": "🌙 Kultowy adres surferski tuż przy plaży, całodobowa obsługa i taras nad oceanem - prosty dojazd z lotniska na pierwszą noc. Bezpłatne odwołanie.",
+                "link": "https://www.booking.com/searchresults.html?ss=Tamraght&aid=8132308&checkin=2026-07-24&checkout=2026-07-25"
               },
               {
-                "nazwa": "Studiotel Afoud",
-                "ocena": "8.0+",
-                "cena": "80 € / noc",
-                "cecha": "🛏️ Apartamentowe studia z aneksem, całodobowa recepcja - komfort na pierwszą krótką noc. Klimatyzacja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/studiotel-afoud.html?aid=8132308&checkin=2026-07-24&checkout=2026-07-25"
+                "nazwa": "Riad Tamraght",
+                "ocena": "8.7 (400+)",
+                "cena": "~70 € / noc",
+                "cecha": "🏄 Kameralny riad w sercu wioski, kilka kroków od restauracji i plaży - wygodna baza na start nad oceanem. Klimatyzacja, bezpłatne odwołanie.",
+                "link": "https://www.booking.com/searchresults.html?ss=Riad+Tamraght&aid=8132308&checkin=2026-07-24&checkout=2026-07-25"
               },
               {
-                "nazwa": "Atlantic Hotel Agadir",
-                "ocena": "8.4 (2151)",
-                "cena": "151 € / noc",
-                "cecha": "🏊 Basen, spa i prywatna plaża tuż po przylocie - jeśli chcecie zacząć wyżej. Klimatyzacja, całodobowa recepcja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/atlantic-agadir.html?aid=8132308&checkin=2026-07-24&checkout=2026-07-25"
+                "nazwa": "Tamraght Surf Apartments",
+                "ocena": "8.5+",
+                "cena": "~55 € / noc",
+                "cecha": "💶 Proste apartamenty z aneksem blisko wody - najtańszy sensowny nocleg na jedną noc po przylocie. Bezpłatne odwołanie.",
+                "link": "https://www.booking.com/searchresults.html?ss=Tamraght+apartment&aid=8132308&checkin=2026-07-24&checkout=2026-07-25"
               }
             ]
           },
           {
             "miejsce": "Taghazout",
-            "nocleg": "Dni 2-4 (25-27.07)",
+            "nocleg": "Dni 2-3 (25-26.07)",
             "transport": "🚗 własne auto",
             "hotele": [
               {
                 "nazwa": "Sweet Taghazout Studios",
                 "ocena": "9.2 (138)",
-                "cena": "210 € / 3 noce",
+                "cena": "140 € / 2 noce",
                 "cecha": "🏄 Kilka kroków od wody, w sercu wioski surferskiej - rano deska, wieczorem taras. Klimatyzacja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/sweet-taghazout-studio.html?aid=8132308&checkin=2026-07-25&checkout=2026-07-28"
+                "link": "https://www.booking.com/hotel/ma/sweet-taghazout-studio.html?aid=8132308&checkin=2026-07-25&checkout=2026-07-27"
               },
               {
                 "nazwa": "Traditional Taghazout Surf",
                 "ocena": "8.5 (217)",
                 "cena": "52 € / noc",
                 "cecha": "💶 Tradycyjny dom surferski z tarasem - najlepsza relacja cena/klimat blisko fal. Klimatyzacja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/traditional-taghazout-surf.html?aid=8132308&checkin=2026-07-25&checkout=2026-07-28"
+                "link": "https://www.booking.com/hotel/ma/traditional-taghazout-surf.html?aid=8132308&checkin=2026-07-25&checkout=2026-07-27"
               },
               {
                 "nazwa": "Hyatt Place Taghazout Bay",
                 "ocena": "8.4 (2585)",
-                "cena": "~405 € / 3 noce",
+                "cena": "~270 € / 2 noce",
                 "cecha": "🏊 Duży basen z widokiem na zatokę, spa i prywatna plaża - opcja resort na rozkręcenie urlopu. Klimatyzacja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/hyatt-place-taghazout-bay.html?aid=8132308&checkin=2026-07-25&checkout=2026-07-28"
+                "link": "https://www.booking.com/hotel/ma/hyatt-place-taghazout-bay.html?aid=8132308&checkin=2026-07-25&checkout=2026-07-27"
               }
             ]
           },
           {
             "miejsce": "Essaouira",
-            "nocleg": "Dni 5-6 (28-29.07)",
+            "nocleg": "Dni 4-5 (27-28.07)",
             "transport": "🚌 autobus CTM",
             "hotele": [
               {
@@ -198,27 +198,27 @@
                 "ocena": "9.5 (610)",
                 "cena": "255 € / 2 noce",
                 "cecha": "🕌 Kameralny riad w klimacie marokańskim w sercu medyny, z tarasem na dachu i najwyższą oceną w mieście. Klimatyzacja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/riad-babette.html?aid=8132308&checkin=2026-07-28&checkout=2026-07-30"
+                "link": "https://www.booking.com/hotel/ma/riad-babette.html?aid=8132308&checkin=2026-07-27&checkout=2026-07-29"
               },
               {
                 "nazwa": "Riad Zawia",
                 "ocena": "9.1 (684)",
                 "cena": "108 € / noc",
                 "cecha": "🌊 Riad przy samej plaży ze spa i hammamem - najwyższa ocena za tę cenę w medynie. Bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/riad-zawia.html?aid=8132308&checkin=2026-07-28&checkout=2026-07-30"
+                "link": "https://www.booking.com/hotel/ma/riad-zawia.html?aid=8132308&checkin=2026-07-27&checkout=2026-07-29"
               },
               {
                 "nazwa": "DAR ETTO Riad & Spa",
                 "ocena": "9.1 (513)",
                 "cena": "188 € / 2 noce",
                 "cecha": "🏊 Basen zewnętrzny i spa z hammamem - oaza z ogrodem na wypoczynek po dniu na wietrze. Klimatyzacja, całodobowa recepcja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/riad-dar-etto.html?aid=8132308&checkin=2026-07-28&checkout=2026-07-30"
+                "link": "https://www.booking.com/hotel/ma/riad-dar-etto.html?aid=8132308&checkin=2026-07-27&checkout=2026-07-29"
               }
             ]
           },
           {
             "miejsce": "Marrakesz",
-            "nocleg": "Dni 7-8 (30-31.07)",
+            "nocleg": "Dni 6-7 (29-30.07)",
             "transport": "🚌 autobus CTM",
             "hotele": [
               {
@@ -226,27 +226,27 @@
                 "ocena": "9.2 (1796)",
                 "cena": "219 € / 2 noce",
                 "cecha": "🏊 Pałacowy riad z basenem na dachu i spa w sercu medyny - najwyższa liga za rozsądną cenę. Klimatyzacja, całodobowa recepcja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/riad-palais-sebban.html?aid=8132308&checkin=2026-07-30&checkout=2026-08-01"
+                "link": "https://www.booking.com/hotel/ma/riad-palais-sebban.html?aid=8132308&checkin=2026-07-29&checkout=2026-07-31"
               },
               {
                 "nazwa": "Riad La Calèche",
                 "ocena": "8.9 (1275)",
                 "cena": "128 € / noc",
                 "cecha": "🕌 Klimatyczny riad z basenem i tarasem, blisko Jemaa el-Fna. Klimatyzacja, całodobowa recepcja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/riad-la-caleche.html?aid=8132308&checkin=2026-07-30&checkout=2026-08-01"
+                "link": "https://www.booking.com/hotel/ma/riad-la-caleche.html?aid=8132308&checkin=2026-07-29&checkout=2026-07-31"
               },
               {
                 "nazwa": "Casa De Marrakech Riad",
                 "ocena": "9.0 (795)",
                 "cena": "112 € / noc",
                 "cecha": "📍 Riad z basenem w samym sercu medyny, minuty od souków i placu. Klimatyzacja, całodobowa recepcja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/casa-de-marrakech.html?aid=8132308&checkin=2026-07-30&checkout=2026-08-01"
+                "link": "https://www.booking.com/hotel/ma/casa-de-marrakech.html?aid=8132308&checkin=2026-07-29&checkout=2026-07-31"
               }
             ]
           },
           {
             "miejsce": "Dolina Ourika (Atlas)",
-            "nocleg": "Dzień 9 (1.08)",
+            "nocleg": "Dzień 8 (31.07)",
             "transport": "🚐 tour z kierowcą",
             "hotele": [
               {
@@ -254,27 +254,27 @@
                 "ocena": "9.4 (291)",
                 "cena": "110 € / noc",
                 "cecha": "🏞️ Basen bez krawędzi z widokiem na góry - kąpiel patrząc w stronę szczytów Atlasu. Klimatyzacja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/les-jardins-de-taja.html?aid=8132308&checkin=2026-08-01&checkout=2026-08-02"
+                "link": "https://www.booking.com/hotel/ma/les-jardins-de-taja.html?aid=8132308&checkin=2026-07-31&checkout=2026-08-01"
               },
               {
                 "nazwa": "Kasbah Agounsane Hotel & Spa",
                 "ocena": "8.9 (501)",
                 "cena": "152 € / noc",
                 "cecha": "🏰 Prawdziwa kasba ze spa i hammamem - styl berberyjski z widokiem na dolinę, oficjalne 4★. Klimatyzacja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/kasbah-agounsane.html?aid=8132308&checkin=2026-08-01&checkout=2026-08-02"
+                "link": "https://www.booking.com/hotel/ma/kasbah-agounsane.html?aid=8132308&checkin=2026-07-31&checkout=2026-08-01"
               },
               {
                 "nazwa": "Riad Timskrine",
                 "ocena": "9.2 (213)",
                 "cena": "73 € / noc",
                 "cecha": "🌄 Spokojny riad z ogrodem i basenem z widokiem, najlepsza relacja cena/klimat na tym odcinku. Klimatyzacja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/riad-timskrine-marrakech.html?aid=8132308&checkin=2026-08-01&checkout=2026-08-02"
+                "link": "https://www.booking.com/hotel/ma/riad-timskrine-marrakech.html?aid=8132308&checkin=2026-07-31&checkout=2026-08-01"
               }
             ]
           },
           {
             "miejsce": "Ouarzazate",
-            "nocleg": "Dzień 10 (2.08)",
+            "nocleg": "Dzień 9 (1.08)",
             "transport": "🚐 tour z kierowcą",
             "hotele": [
               {
@@ -282,27 +282,27 @@
                 "ocena": "9.6 (1295)",
                 "cena": "83 € / noc",
                 "cecha": "⭐ Najwyżej oceniany obiekt na całej trasie (9.6 z 1300 opinii) - pewny strzał na środku objazdu. Klimatyzacja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/riad-chay.html?aid=8132308&checkin=2026-08-02&checkout=2026-08-03"
+                "link": "https://www.booking.com/hotel/ma/riad-chay.html?aid=8132308&checkin=2026-08-01&checkout=2026-08-02"
               },
               {
                 "nazwa": "Le Petit Riad Maison d'hôtes",
                 "ocena": "9.6 (665)",
                 "cena": "96 € / noc",
                 "cecha": "🏊 Zadaszony basen i klimat riadu - schronienie od pustynnego skwaru w komplecie z hammamem. Klimatyzacja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/le-petit-riad.html?aid=8132308&checkin=2026-08-02&checkout=2026-08-03"
+                "link": "https://www.booking.com/hotel/ma/le-petit-riad.html?aid=8132308&checkin=2026-08-01&checkout=2026-08-02"
               },
               {
                 "nazwa": "Hôtel Riad Dar Daïf",
                 "ocena": "9.3 (1582)",
                 "cena": "54 € / noc",
                 "cecha": "💶 Kasba z basenem i ogrodem za 54 € - najtańszy nocleg z AC na trasie przy świetnej ocenie. Bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/kasbah-dar-daif.html?aid=8132308&checkin=2026-08-02&checkout=2026-08-03"
+                "link": "https://www.booking.com/hotel/ma/kasbah-dar-daif.html?aid=8132308&checkin=2026-08-01&checkout=2026-08-02"
               }
             ]
           },
           {
             "miejsce": "Dolina Dades",
-            "nocleg": "Dzień 11 (2/3.08)",
+            "nocleg": "Dzień 10 (2/3.08)",
             "transport": "🚐 tour z kierowcą",
             "hotele": [
               {
@@ -316,7 +316,7 @@
           },
           {
             "miejsce": "Sahara / Erg Chebbi",
-            "nocleg": "Dzień 12 (3.08)",
+            "nocleg": "Dzień 11 (3.08)",
             "transport": "🚐 tour - wielbłąd / 4×4",
             "hotele": [
               {
@@ -344,7 +344,7 @@
           },
           {
             "miejsce": "Marrakesz (powrót)",
-            "nocleg": "Dzień 13 (5.08)",
+            "nocleg": "Dzień 12 (4.08)",
             "transport": "🚐 tour z kierowcą",
             "hotele": [
               {
@@ -352,49 +352,49 @@
                 "ocena": "9.5 (865)",
                 "cena": "111 € / noc",
                 "cecha": "⭐ Riad ze spa, basenem krytym i odkrytym, tylko dla dorosłych - najwyższa ocena na powrocie. Klimatyzacja, całodobowa recepcja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/dar-saada-marrakech3.html?aid=8132308&checkin=2026-08-05&checkout=2026-08-06"
+                "link": "https://www.booking.com/hotel/ma/dar-saada-marrakech3.html?aid=8132308&checkin=2026-08-04&checkout=2026-08-05"
               },
               {
                 "nazwa": "Riad Mouna",
                 "ocena": "9.0 (841)",
                 "cena": "59 € / noc",
                 "cecha": "🏊 Basen na dachu z widokiem na medynę - ostatni marokański zachód słońca z leżaka. Klimatyzacja, całodobowa recepcja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/riad-mouna.html?aid=8132308&checkin=2026-08-05&checkout=2026-08-06"
+                "link": "https://www.booking.com/hotel/ma/riad-mouna.html?aid=8132308&checkin=2026-08-04&checkout=2026-08-05"
               },
               {
                 "nazwa": "riad paradis blanc",
                 "ocena": "9.2 (1217)",
                 "cena": "80 € / noc",
                 "cecha": "💶 Riad z basenem i całodobową recepcją tuż przy Jemaa el-Fna za 80 € - świetna cena za tę ocenę. Klimatyzacja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/riad-paradis-blanc.html?aid=8132308&checkin=2026-08-05&checkout=2026-08-06"
+                "link": "https://www.booking.com/hotel/ma/riad-paradis-blanc.html?aid=8132308&checkin=2026-08-04&checkout=2026-08-05"
               }
             ]
           },
           {
             "miejsce": "Agadir (koniec)",
-            "nocleg": "Dni 14-15 (6-7/8.08)",
+            "nocleg": "Dni 13-15 (5-6-7/8.08)",
             "transport": "🚐 transfer / autobus",
             "hotele": [
               {
                 "nazwa": "Résidence Hôtelière Fleurie",
                 "ocena": "8.5 (4355)",
-                "cena": "185 € / 2 noce",
+                "cena": "278 € / 3 noce",
                 "cecha": "🏊 Basen i ogród w centrum, tysiące opinii - sprawdzona, wygodna baza na koniec z całodobową recepcją na nocny wylot. Klimatyzacja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/residence-fleurie-agadir.html?aid=8132308&checkin=2026-08-06&checkout=2026-08-08"
+                "link": "https://www.booking.com/hotel/ma/residence-fleurie-agadir.html?aid=8132308&checkin=2026-08-05&checkout=2026-08-08"
               },
               {
                 "nazwa": "Ocean Atlantic View",
                 "ocena": "9.0 (1786)",
-                "cena": "~413 € / 2 noce",
+                "cena": "~620 € / 3 noce",
                 "cecha": "🌊 Nowoczesny hotel z basenem, spa i widokiem na ocean, przy plaży - komfort na finał. Klimatyzacja, całodobowa recepcja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/bo.html?aid=8132308&checkin=2026-08-06&checkout=2026-08-08"
+                "link": "https://www.booking.com/hotel/ma/bo.html?aid=8132308&checkin=2026-08-05&checkout=2026-08-08"
               },
               {
                 "nazwa": "Tikida Golf Palace",
                 "ocena": "9.3 (802)",
-                "cena": "414 € / 2 noce",
+                "cena": "621 € / 3 noce",
                 "cecha": "🌊 Baseny, spa i prywatna plaża - pożegnalny akcent 5★, jeśli chcecie zakończyć z rozmachem. Klimatyzacja, całodobowa recepcja, bezpłatne odwołanie.",
-                "link": "https://www.booking.com/hotel/ma/tikida-golf-palace-agadir.html?aid=8132308&checkin=2026-08-06&checkout=2026-08-08"
+                "link": "https://www.booking.com/hotel/ma/tikida-golf-palace-agadir.html?aid=8132308&checkin=2026-08-05&checkout=2026-08-08"
               }
             ]
           }
@@ -411,15 +411,15 @@
             "500 - 1 000 € (250-500 €/os.)"
           ],
           [
-            "Wynajem auta ~4 dni (Agadir + Taghazout, odbiór lotnisko Agadir / zwrot Taghazout)",
-            "160 - 300 €"
+            "Wynajem auta ~3 dni (Tamraght + Taghazout, odbiór lotnisko Agadir / zwrot Taghazout)",
+            "120 - 240 €"
           ],
           [
             "Paliwo + drobne opłaty (krótszy wynajem)",
-            "60 - 120 €"
+            "50 - 100 €"
           ],
           [
-            "Noclegi 14 nocy (1 noc Agadir po przylocie + riady 3-4* + kasby + obóz na pustyni)",
+            "Noclegi 14 nocy (1 noc Tamraght po przylocie + riady 3-4* + kasby + obóz na pustyni)",
             "1 200 - 1 900 €"
           ],
           [
@@ -427,15 +427,15 @@
             "250 - 400 €"
           ],
           [
-            "Zorganizowany tour w głąb kraju 4-5 dni z kierowcą (Atlas + doliny + obóz na Saharze, dni 9-13)",
+            "Zorganizowany tour w głąb kraju 4-5 dni z kierowcą (Atlas + doliny + obóz na Saharze, dni 8-12)",
             "700 - 1 300 €"
           ],
           [
-            "Autobusy CTM: Taghazout/Agadir → Essaouira → Marrakesz (dni 5 i 7, 2 os.) + transfery taxi",
+            "Autobusy CTM: Taghazout/Agadir → Essaouira → Marrakesz (dni 4 i 6, 2 os.) + transfery taxi",
             "80 - 160 €"
           ],
           [
-            "Transfer/autobus Marrakesz → Agadir (dzień 14)",
+            "Transfer/autobus Marrakesz → Agadir (dzień 13)",
             "40 - 120 €"
           ],
           [
@@ -452,15 +452,15 @@
         "**Charakterystyka:** dużo kultury (medyny, souki, kasby, Sahara) + solidny surfing i sporty wietrzne na wybrzeżu. Najmocniejsza egzotyka z trzech kierunków. Główny minus: upał w głębi kraju w lipcu/sierpniu (Marrakesz, pustynia) - dlatego plan zaczyna i kończy nad oceanem, a upalne etapy w głębi trzyma w środku i rozkłada na rano/wieczór.",
         "**Pogoda 24.07-8.08:** wybrzeże (Agadir, Taghazout, Essaouira) znośne dzięki oceanicznej bryzie (~22-28°C), woda chłodniejsza (~19-21°C, pianka mile widziana). Głąb kraju bardzo gorąca: Marrakesz 38-42°C, pustynia w dzień skrajnie gorąca, noce przyjemne.",
         "**Uwagi praktyczne:**",
-        "- **Nocny przylot i pierwsza noc.** Lot ląduje w Agadirze ok. 22:30-23:00, dlatego pierwszą noc śpimy w samym Agadirze (hotel z całodobową recepcją i transferem lotniskowym), a do Taghazout jedziemy dopiero rano. Auto odbieramy na lotnisku od razu po przylocie - warto potwierdzić z wypożyczalnią, że punkt odbioru działa do późnej nocy.",
+        "- **Nocny przylot i pierwsza noc.** Lot ląduje w Agadirze ok. 22:30-23:00. Auto odbieramy na lotnisku od razu po przylocie i jedziemy prosto do **Tamraght** (~30-40 min prostą drogą nadmorską) - pierwszą noc śpimy już nad oceanem, w surferskiej wiosce tuż przy Taghazout. Warto potwierdzić z wypożyczalnią, że punkt odbioru działa do późnej nocy, i wybrać nocleg w Tamraght z całodobową obsługą albo uprzedzić o późnym meldunku.",
         "- **Nocny powrót.** Lot powrotny 8.08 o 00:55 startuje w środku nocy, więc ostatni pełny dzień (7.08) spędzamy w Agadirze i dopiero wieczorem jedziemy na lotnisko. Nocleg w Agadirze rezerwujemy z całodobową recepcją i późnym wymeldowaniem (lub przechowalnią bagażu), żeby wygodnie doczekać do transferu.",
-        "- Loty z Polski celują w **Agadir** (lotnisko Al Massira, ok. 30 min od Taghazout) - stąd trasa jako pętla z powrotem do Agadiru na wylot. **Auto bierzemy tylko na dni 1-4** (Agadir + Taghazout): odbiór na lotnisku Al Massira po przylocie, zwrot w Taghazout rano dnia 5. Dłuższe trasy (Taghazout → Essaouira, Essaouira → Marrakesz) robimy autobusem CTM, a w medynach Essaouiry i Marrakeszu auto i tak jest bezużyteczne. Dzięki temu nie płacimy za auto stojące bezczynnie i nie prowadzimy męczących odcinków - szczegóły w sekcji „Autobusy (CTM)\".",
-        "- **Klimatyzacja i odwołanie rezerwacji.** Propozycje noclegów dobrane pod dwa kryteria: klimatyzacja (kluczowa w głębi kraju, gdzie noce w Marrakeszu bywają duszne) oraz możliwość bezpłatnego odwołania rezerwacji na Bookingu. Wyjątki: obozy na Saharze i nocleg w wąwozie Dades zwykle organizuje operator zorganizowanego touru (dni 11-12) - tam nie szukamy noclegu osobno i nie potrzebujemy AC (chłodzi pustynna/górska noc). W Essaouirze bryza oceaniczna daje ~22-24°C, więc AC bywa rzadsze i mniej potrzebne - część riadów go nie ma, co nie jest problemem przy tej temperaturze.",
+        "- Loty z Polski celują w **Agadir** (lotnisko Al Massira, ok. 30-40 min od Tamraght/Taghazout) - stąd trasa jako pętla z powrotem do Agadiru na wylot. **Auto bierzemy tylko na dni 1-3** (Tamraght + Taghazout): odbiór na lotnisku Al Massira po przylocie, zwrot w Taghazout rano dnia 4. Dłuższe trasy (Taghazout → Essaouira, Essaouira → Marrakesz) robimy autobusem CTM, a w medynach Essaouiry i Marrakeszu auto i tak jest bezużyteczne. Dzięki temu nie płacimy za auto stojące bezczynnie i nie prowadzimy męczących odcinków - szczegóły w sekcji „Autobusy (CTM)\".",
+        "- **Klimatyzacja i odwołanie rezerwacji.** Propozycje noclegów dobrane pod dwa kryteria: klimatyzacja (kluczowa w głębi kraju, gdzie noce w Marrakeszu bywają duszne) oraz możliwość bezpłatnego odwołania rezerwacji na Bookingu. Wyjątki: obozy na Saharze i nocleg w wąwozie Dades zwykle organizuje operator zorganizowanego touru (dni 10-11) - tam nie szukamy noclegu osobno i nie potrzebujemy AC (chłodzi pustynna/górska noc). W Essaouirze bryza oceaniczna daje ~22-24°C, więc AC bywa rzadsze i mniej potrzebne - część riadów go nie ma, co nie jest problemem przy tej temperaturze.",
         "- Wiza: obywatele PL bez wizy do 90 dni. Waluta: dirham (MAD), niewymienialny - wypłacać na miejscu z bankomatów.",
         "- Szczepienia: brak obowiązkowych; standardowo zalecane WZW A/B, dur - konsultacja z medycyną podróży. Zwracać uwagę na wodę (pić butelkowaną) i higienę jedzenia.",
-        "- **Ile trwa część górsko-pustynna (dni 9-13).** Cały objazd w głąb kraju to **5 dni**: 1 dzień w Atlasie (dolina Ourika, dzień 9) + 4 dni trasy przez doliny na Saharę i z powrotem (dni 10-13). Sam **obóz na wydmach to jedna noc** (z dnia 12 na 13). W wycenie ta całość jest w jednej pozycji \"tour 4-5 dni\" - operatorzy sprzedają to jako gotowy pakiet z Marrakeszu (transport, noclegi, obóz, wielbłądy w cenie). Krótsze warianty (2-3 dni do Zagory zamiast 4-5 do Erg Chebbi) są tańsze, ale Erg Chebbi ma ładniejsze wydmy i wymaga dłuższego dojazdu.",
-        "- **Dojazd na obóz na Saharze: NIE własnym autem.** Ostatni odcinek do obozu na wydmach pokonuje się **na wielbłądach albo pojazdem 4x4 operatora** - to część zorganizowanego touru, nie samodzielna jazda. Auto oddaliśmy już w Taghazout (dzień 5), a w głąb kraju jedziemy z kierowcą operatora.",
-        "- Prowadzenie auta w medynach niemożliwe (wąskie uliczki) - parkować na obrzeżach. Samodzielna jazda przez Atlas i doliny jest możliwa, ale męcząca (górskie serpentyny, długie dystanse, nawigacja) - stąd rekomendacja zorganizowanego touru z kierowcą na dni 9-13.",
+        "- **Ile trwa część górsko-pustynna (dni 8-12).** Cały objazd w głąb kraju to **5 dni**: 1 dzień w Atlasie (dolina Ourika, dzień 8) + 4 dni trasy przez doliny na Saharę i z powrotem (dni 9-12). Sam **obóz na wydmach to jedna noc** (z dnia 11 na 12). W wycenie ta całość jest w jednej pozycji \"tour 4-5 dni\" - operatorzy sprzedają to jako gotowy pakiet z Marrakeszu (transport, noclegi, obóz, wielbłądy w cenie). Krótsze warianty (2-3 dni do Zagory zamiast 4-5 do Erg Chebbi) są tańsze, ale Erg Chebbi ma ładniejsze wydmy i wymaga dłuższego dojazdu.",
+        "- **Dojazd na obóz na Saharze: NIE własnym autem.** Ostatni odcinek do obozu na wydmach pokonuje się **na wielbłądach albo pojazdem 4x4 operatora** - to część zorganizowanego touru, nie samodzielna jazda. Auto oddaliśmy już w Taghazout (dzień 4), a w głąb kraju jedziemy z kierowcą operatora.",
+        "- Prowadzenie auta w medynach niemożliwe (wąskie uliczki) - parkować na obrzeżach. Samodzielna jazda przez Atlas i doliny jest możliwa, ale męcząca (górskie serpentyny, długie dystanse, nawigacja) - stąd rekomendacja zorganizowanego touru z kierowcą na dni 8-12.",
         "- Ubiór: poza plażą/surfem raczej zakryte ramiona i kolana (szczególnie kobiety, w medynach i na wsi) - szacunek dla lokalnej kultury.",
         "- Targowanie na soukach to norma - zaczynać od ~40-50% ceny wywoławczej."
       ]

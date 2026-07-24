@@ -23,21 +23,21 @@ MAX_WIDTH = 1600
 JPEG_QUALITY = 78
 
 SEARCH_QUERIES: dict[str, str] = {
-    "maroko-01": "Agadir Morocco night city",
+    "maroko-01": "Tamraght Morocco surf beach",
     "maroko-02": "Taghazout Morocco",
     "maroko-03": "surfer ocean wave",
-    "maroko-04": "Paradise Valley Agadir Morocco",
-    "maroko-05": "Essaouira medina ramparts Morocco",
-    "maroko-06": "Essaouira kitesurfing beach Morocco",
-    "maroko-07": "Jemaa el-Fnaa Marrakech night",
-    "maroko-08": "Bahia Palace Marrakech",
-    "maroko-09": "Setti Fatma Ourika Morocco",
-    "maroko-10": "Ait Benhaddou Morocco kasbah",
-    "maroko-11": "Dades Gorge Morocco valley",
-    "maroko-12": "Erg Chebbi dunes camel Morocco",
-    "maroko-13": "Marrakech souk market Morocco",
-    "maroko-14": "Agadir beach Morocco",
-    "maroko-15": "Agadir Oufella kasbah Morocco",
+    "maroko-04": "Essaouira medina ramparts Morocco",
+    "maroko-05": "Essaouira kitesurfing beach Morocco",
+    "maroko-06": "Jemaa el-Fnaa Marrakech night",
+    "maroko-07": "Bahia Palace Marrakech",
+    "maroko-08": "Setti Fatma Ourika Morocco",
+    "maroko-09": "Ait Benhaddou Morocco kasbah",
+    "maroko-10": "Dades Gorge Morocco valley",
+    "maroko-11": "Erg Chebbi dunes camel Morocco",
+    "maroko-12": "Marrakech souk market Morocco",
+    "maroko-13": "Agadir beach Morocco",
+    "maroko-14": "Agadir Oufella kasbah Morocco",
+    "maroko-15": "Agadir Morocco beach promenade",
 }
 
 
